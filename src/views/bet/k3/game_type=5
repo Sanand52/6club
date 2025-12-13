@@ -1,0 +1,936 @@
+<!DOCTYPE html>
+<html translate="no" data-dpr="1" style="font-size: 37.52px;">
+
+<head>
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="robots" content="noindex,nofollow" />
+  <meta content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no" name="viewport" />
+  <title>IN888</title>
+  <script src="/js/block.js"></script>
+  
+   <script>
+                $.ajax({
+                    type: "GET",
+                    url: "/api/webapi/GetUserInfo",
+                    dataType: "json",
+                    success: function (response) {
+                        let user = response.data;
+
+                        $('.moneyu').text("₹" + user.money_user + ".00");
+
+
+                    }
+                });
+
+          
+
+
+            </script>
+  <link rel="modulepreload" crossorigin="" href="https://91club06.com/assets/js/modules-3ee1a0d5.js"> 
+  <link rel="modulepreload" crossorigin="" href="https://91club06.com/assets/js/native/index-09743dd6.js"> 
+  <link rel="modulepreload" crossorigin="" href="https://91club06.com/assets/js/en-cff984dc.js"> 
+  <link rel="modulepreload" crossorigin="" href="https://91club06.com/assets/js/rus-ecb14220.js"> 
+  <link rel="modulepreload" crossorigin="" href="https://91club06.com/assets/js/vi-edb4f658.js"> 
+  <link rel="modulepreload" crossorigin="" href="https://91club06.com/assets/js/id-16b6cb52.js"> 
+  <link rel="modulepreload" crossorigin="" href="https://91club06.com/assets/js/hd-c5b1d7e8.js"> 
+  <link rel="modulepreload" crossorigin="" href="https://91club06.com/assets/js/tha-330057b2.js"> 
+  <link rel="modulepreload" crossorigin="" href="https://91club06.com/assets/js/md-e8a5e3b0.js"> 
+  <link rel="modulepreload" crossorigin="" href="https://91club06.com/assets/js/bra-e19d7dd2.js"> 
+  <link rel="modulepreload" crossorigin="" href="https://91club06.com/assets/js/my-32fb9d60.js"> 
+  <link rel="modulepreload" crossorigin="" href="https://91club06.com/assets/js/bdt-d8f19d0c.js"> 
+  <link rel="modulepreload" crossorigin="" href="https://91club06.com/assets/js/zh-116b9972.js"> 
+  <link rel="modulepreload" crossorigin="" href="https://91club06.com/assets/js/pak-656a575f.js"> 
+  <link rel="modulepreload" crossorigin="" href="https://91club06.com/assets/js/ar-1c9ff85b.js"> 
+  <link rel="modulepreload" crossorigin="" href="https://91club06.com/assets/js/page-activity-b0cc3a5b.js"> 
+  <link rel="stylesheet" href="https://91club06.com/assets/css/modules-b642e9bc.css"> 
+  <link rel="stylesheet" href="https://91club06.com/assets/css/page-activity-f0ca3544.css"> 
+  <link rel="stylesheet" href="https://91club06.com/assets/css/index-37794937.css"> 
+  <link rel="stylesheet" href="https://91club06.com/assets/css/reset-18dc7e67.css">
+  <link rel="stylesheet" href="https://91club06.com/assets/css/reset-caf052b6.css">
+  <link rel="stylesheet" href="https://91club06.com/assets/css/root-a9d5bd50.css">
+  <link rel="modulepreload" as="script" crossorigin="" href="https://91club06.com/assets/js/page-home-d40a6f97.js">
+  <link rel="stylesheet" href="https://91club06.com/assets/css/page-home-384125d0.css">
+  <link rel="modulepreload" as="script" crossorigin="" href="https://91club06.com/assets/js/home-c399e427.js">
+  <link rel="modulepreload" as="script" crossorigin="" href="https://91club06.com/assets/js/activity-f120a1f9.js">
+  <link rel="modulepreload" as="script" crossorigin="" href="https://91club06.com/assets/js/promotion-cfd8aaa9.js">
+  <link rel="modulepreload" as="script" crossorigin="" href="https://91club06.com/assets/js/wallet-4bef7d62.js">
+  <link rel="modulepreload" as="script" crossorigin="" href="https://91club06.com/assets/js/main-1686ee63.js">
+  <link rel="modulepreload" as="script" crossorigin="" href="https://91club06.com/assets/js/page-login-95ed0718.js">
+  <link rel="stylesheet" href="https://91club06.com/assets/css/page-login-c969a7dc.css">
+ 
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/bet/wingo/main.css" />
+  <link rel="stylesheet" href="/css/bet/wingo/chunk-4e7d3985.25c9d2c0.css" />
+  <link rel="stylesheet" href="/css/bet/wingo/chunk-4e7d3985.25c9d2c1.css" />
+  <link rel="stylesheet" href="/css/bet/wingo/chunk-4e7d3985.25c9d2c2.css" />
+  <link rel="stylesheet" href="/css/bet/wingo/chunk-4e7d3985.25c9d2c3.css" />
+  <link rel="stylesheet" href="/css/bet/wingo/chunk-4e7d3985.25c9d2c4.css" />
+  <link rel="shortcut icon" href="/index_files/Images/logo_500.png" type="image/x-icon">
+  <style>
+    html,
+    body {
+      height: 100%;
+      width: 100%;
+      background-color: #090909;
+      padding: 0;
+      margin: 0;
+    }
+
+    .block-click {
+      pointer-events: none;
+    }
+  </style>
+
+      <style>
+        /* The Modal (background) */
+        .modal {
+            display: blocked; /* Hidden by default */
+            position: fixed; /* Stay in place */
+            z-index: 20001; /* Sit on top */
+            left: 0;
+            top: 0;
+            width: 100%; /* Full width */
+            height: 100%; /* Full height */
+            overflow: auto; /* Enable scroll if needed */
+        }
+        .text-over-image {
+            position: absolute; /* Position relative to the parent element */
+            top: 35%; /* Center vertically */
+            left: 50%; /* Center horizontally */
+            transform: translate(-50%, -50%); /* Adjust the positioning */
+            color: #fff; /* Text color */
+            font-size: 24px; /* Text size */
+            font-weight: bold; /* Text weight */
+            text-align: center; /* Center text */
+        }
+        .text-over-image-l {
+            position: absolute; /* Position relative to the parent element */
+            top: 48%; /* Center vertically */
+            left: 49%; /* Center horizontally */
+            transform: translate(-50%, -50%); /* Adjust the positioning */
+            color: #fff; /* Text color */
+            font-size: 10px; /* Text size */
+            font-weight: bold; /* Text weight */
+            text-align: center; /* Center text */
+        }
+        /* Modal Content */
+        .modal-content {
+            text-align: -webkit-center;
+            position: relative;
+            top: 20%;
+        }
+        .modal-content img {
+            width: 280px; /* Use this to ensure the image is full width */
+            height: auto; /* Adjust height automatically */
+            display: block; /* Change display to block to avoid extra space */
+        }
+        /* The Close Button */
+        .close {
+            color: #aaaaaa;
+            float: right;
+            font-size: 28px;
+            font-weight: bold;
+        }
+
+        .close:hover,
+        .close:focus {
+            color: #000;
+            text-decoration: none;
+            cursor: pointer;
+        }
+        /* Circle button style */
+        .close-btn {
+            border: 2px solid #fff; /* Black border */
+            border-radius: 50%; /* Circle shape */
+            background-color: transparent; /* Transparent background */
+            width: 30px; /* Width and height should be equal for a circle */
+            height: 30px; /* Width and height should be equal for a circle */
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            margin-top: 10px;
+        }
+
+        .close-btn:hover {
+            background-color: #ddd; /* Light grey background on hover */
+        }
+
+        /* "X" line style */
+        .close-x {
+            font-size: 35px; /* Large font size for the "X" */
+            font-family: none;
+            line-height: 1; /* Tight line height for the "X" */
+            color: #fff; /* Black color for the "X" */
+            padding: 0; /* No padding */
+            margin: 0; /* No margin */
+        }
+        .text-over-image-2 {
+    position: absolute;
+    top: 65%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #fff;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+}
+ .text-over-image-3 {
+    position: absolute;
+    top: 72%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #8c4500;
+    font-size: 12px;
+    font-weight: none;
+    text-align: center;
+}
+.btn-boox {
+        background: linear-gradient(to bottom, #20d90a, #aae69d);
+        border: none;
+        color: white;
+        padding: 5px 6px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 10px;
+        margin: 4px 4px;
+        cursor: pointer;
+        font-family: monospace;
+        border-radius: 5px; 
+}
+    </style>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="robots" content="noindex,nofollow">
+  <meta content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no" name="viewport">
+  <title>Esp Game</title>
+  <link rel="shortcut icon" href="/index_files/Images/logo_500.png" type="image/x-icon">
+  <link href="css/app.21328c5b.css" rel="stylesheet">
+  <link rel="stylesheet" href="/k3/css/chunk-9ca7d0dc.0f968705.css">
+  <link rel="stylesheet" href="/k3/css/chunk-f7aaa136.30c67545.css">
+  <link rel="stylesheet" href="/k3/css/chunk-vendors.b521b44f.css">
+  <style>
+    html,
+    body {
+      height: 100%;
+      width: 100%;
+      background-color: #9195a3;
+      padding: 0;
+      margin: 0;
+    }
+
+    .block-click {
+      pointer-events: none;
+    }
+
+    .d-none {
+      display: none !important;
+    }
+  </style>
+</head>
+
+<body style="font-size: 12px;">
+  <div id="app">
+    <div data-v-03b808c2="" class="mian game">
+      <div data-v-106b99c8="" data-v-03b808c2="" class="navbar">
+        <div data-v-106b99c8="" class="navbar-left" onclick="location.href='/home'">
+          <div data-v-03b808c2="" data-v-106b99c8="" class="c-row c-row-middle-center"><img data-v-03b808c2=""
+              data-v-106b99c8="" src="/images/back.c3244ab0.png" class="navbar-back"></div>
+        </div>
+        <div data-v-106b99c8="" class="navbar-title">
+          <div data-v-03b808c2="" data-v-106b99c8="" class="c-row c-row-middle-center">
+            <img data-v-03b808c2="" data-v-106b99c8="" height="38px" width="100px" src="/index_files/Images/logo_white.png"
+              class="logo" style="width: 4.28667rem;height: .80333rem!important;">
+          </div>
+        </div>
+        <div data-v-106b99c8="" class="navbar-right">
+          <div data-v-03b808c2="" data-v-106b99c8="" class="c-row navbarR">
+            <div data-v-03b808c2="" data-v-106b99c8="" class="c-row item c-row-middle-center"
+              onclick="location.href='/keFuMenu'">
+              <img data-v-03b808c2="" data-v-106b99c8="" src="/images/audio.webp" class="item-audio">
+            </div>
+            <div data-v-03b808c2="" data-v-106b99c8="" class="c-row item c-row-middle-center">
+              <img data-v-03b808c2="" data-v-106b99c8="" src="/images/volume-up-line.webp" class="item-volume">
+            </div>
+          </div>
+        </div>
+      </div>
+            
+<div data-v-03b808c2="" clas="game-head">
+  
+      <!---------->
+      <div data-v-a9660e98="" class="game-head">
+     <div data-v-7dd1adab="" data-v-5d71c3fd="" clas="Wallet__C">
+     <div data-v-7dd1adab="" class="Wallet__C-balance">
+      <div data-v-7dd1adab="" class="Wallet__C-balance-l1">
+       <div data-v-7dd1adab="" class="moneyu">
+        ₹0.00
+       </div>
+      </div>
+      <div data-v-7dd1adab="" class="Wallet__C-balance-l2">
+       <div data-v-7dd1adab="">
+        Wallet balance
+       </div>
+      </div>
+      <div data-v-7dd1adab="" class="Wallet__C-balance-l3">
+       <div data-v-7dd1adab="" onclick="location.href='/wallet/withdrawal'">
+        Withdraw
+       </div>
+       <div data-v-7dd1adab="" onclick="location.href='/wallet/recharge'">
+        Deposit
+       </div>
+      </div>
+     </div>
+    </div>
+    <div data-v-a9660e98="" class="m-t-15 notice">
+     <div data-v-5d71c3fd="" class="noticeBar__container">
+     <div class="notice_svg"></div>
+     <div class="noticeBar__container-body">
+      <div class="noticeBar__container-body-text">
+       Welcome to 97Club We have a variety of games, promos and bonus for you to enjoy, so why wait? Go register and enjoy the variety reward awaits you.
+      </div>
+     </div>
+     <button class="hotIcon">Detail</button>
+    </div>
+    </div>
+</div>
+
+        <div data-v-03b808c2="" class="game-betting">
+    <div data-v-03b808c2="" class="tab">
+        <div data-v-03b808c2="" class="box c-row game-minutes">
+            <div data="1" data-v-03b808c2="" class="item c-tc action">
+                <div data-v-03b808c2="" class="circular c-row c-row-middle-center c-tc">
+                    <span data-v-03b808c2="" class="li">?</span>
+                </div>
+                <div data="1" data-v-03b808c2="" class="img c-row c-row-center p-b-10">
+                    <div data-v-03b808c2="" class="van-image van-image-1" style="width: 30px; height: 30px;">
+                        <img src="/images/icon_clock-red.webp" class="van-image__img">
+                    </div>
+                    <div data-v-03b808c2="" class="van-image van-image-2" style="width: 30px; height: 30px; display: none;">
+                        <img src="/images/icon_clock-gerrn.webp" class="van-image__img">
+                    </div>
+                    <i data-v-03b808c2="" class="triangle"></i>
+                </div>
+                <div data="1" data-v-03b808c2="" class="txt c-tc">1 min</div>
+            </div>
+            <div data="3" data-v-03b808c2="" class="item c-tc">
+                <div data-v-03b808c2="" class="circular c-row c-row-middle-center c-tc">
+                    <span data-v-03b808c2="" class="li">?</span>
+                </div>
+                <div data="3" data-v-03b808c2="" class="img c-row c-row-center p-b-10">
+                    <div data-v-03b808c2="" class="van-image van-image-1" style="width: 30px; height: 30px; display: none;">
+                        <img src="/images/icon_clock-red.webp" class="van-image__img">
+                    </div>
+                    <div data-v-03b808c2="" class="van-image van-image-2" style="width: 30px; height: 30px;">
+                        <img src="/images/icon_clock-gerrn.webp" class="van-image__img">
+                    </div>
+                    <i data-v-03b808c2="" class="triangle"></i>
+                </div>
+                <div data="3" data-v-03b808c2="" class="txt c-tc">3 min</div>
+            </div>
+            <div data="5" data-v-03b808c2="" class="item c-tc">
+                <div data-v-03b808c2="" class="circular c-row c-row-middle-center c-tc">
+                    <span data-v-03b808c2="" class="li">?</span>
+                </div>
+                <div data="5" data-v-03b808c2="" class="img c-row c-row-center p-b-10">
+                    <div data-v-03b808c2="" class="van-image van-image-1" style="width: 30px; height: 30px; display: none;">
+                        <img src="/images/icon_clock-red.webp" class="van-image__img">
+                    </div>
+                    <div data-v-03b808c2="" class="van-image van-image-2" style="width: 30px; height: 30px;">
+                        <img src="/images/icon_clock-gerrn.webp" class="van-image__img">
+                    </div>
+                    <i data-v-03b808c2="" class="triangle"></i>
+                </div>
+                <div data="5" data-v-03b808c2="" class="txt c-tc">5 min</div>
+            </div>
+            <div data="10" data-v-03b808c2="" class="item c-tc">
+                <div data-v-03b808c2="" class="circular c-row c-row-middle-center c-tc">
+                    <span data-v-03b808c2="" class="li">?</span>
+                </div>
+                <div data="10" data-v-03b808c2="" class="img c-row c-row-center p-b-10">
+                    <div data-v-03b808c2="" class="van-image van-image-1" style="width: 30px; height: 30px; display: none;">
+                        <img src="/images/icon_clock-red.webp" class="van-image__img">
+                    </div>
+                    <div data-v-03b808c2="" class="van-image van-image-2" style="width: 30px; height: 30px;">
+                        <img src="/images/icon_clock-gerrn.webp" class="van-image__img">
+                    </div>
+                    <i data-v-03b808c2="" class="triangle"></i>
+                </div>
+                <div data="10" data-v-03b808c2="" class="txt c-tc">10 min</div>
+            </div>
+        </div>
+    </div>
+    <div data-v-03b808c2="" class="content">
+        <div data-v-03b808c2="" class="page-box">
+            <div data-v-03b808c2="" class="flex-row-between period-title"><span data-v-03b808c2=""> Lottery Period</span><span
+                    data-v-03b808c2=""> Time Left</span></div>
+            <div data-v-03b808c2="" class="flex-row-between flex-center period-span"><span
+                    data-v-03b808c2="" id="period"></span>
+                <div data-v-03b808c2="" class="flex-row-end">
+                    <div data-v-03b808c2="" class="li-item">0</div>
+                    <div data-v-03b808c2="" class="li-item">0</div><span data-v-03b808c2="" class="li-symbol">:</span>
+                    <div data-v-03b808c2="" class="li-item">4</div>
+                    <div data-v-03b808c2="" class="li-item">4</div>
+                </div> 
+            </div>
+        </div>
+        <div data-v-03b808c2="" style="text-align: center;">
+            <div data-v-03b808c2="" class="slot-inner">
+                <div data-v-03b808c2="" class="d5-slot-box">
+                    <div data-v-03b808c2="" class="slot-column">
+                        <div data-v-03b808c2="" class="slot-transform">
+                            <div data-v-03b808c2="" class="slot-num bg5"></div>
+                        </div>
+                    </div>
+                    <div data-v-03b808c2="" class="slot-column">
+                        <div data-v-03b808c2="" class="slot-transform">
+                            <div data-v-03b808c2="" class="slot-num bg6"></div>
+                        </div>
+                    </div>
+                    <div data-v-03b808c2="" class="slot-column">
+                        <div data-v-03b808c2="" class="slot-transform">
+                            <div data-v-03b808c2="" class="slot-num bg1"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div data-v-03b808c2="" class="bet-box">
+            <div data-v-03b808c2="" class="bet-mark">
+                <div data-v-03b808c2="" class="mark-box c-row c-row-middle-center" style="display: none;">
+                    <span data-v-03b808c2="" class="item m-r-20">0</span>
+                    <span data-v-03b808c2="" class="item m-l-20">0</span>
+                </div>
+                <div data-v-03b808c2="" game="1" class="bet-con">
+                    <div data-v-03b808c2="" class="check-box c-row c-flex-warp c-row-between list-join-total">
+                        <div data-v-03b808c2="" class="item">
+                            <div data-v-03b808c2="" class="li" data="3" data-join="3">
+                                <div data-v-03b808c2="" class="name">3</div>
+                                <div data-v-03b808c2="" class="odds">Odds<span data-v-03b808c2="">207.36X</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div data-v-03b808c2="" class="item">
+                            <div data-v-03b808c2="" class="li" data="4" data-join="4">
+                                <div data-v-03b808c2="" class="name">4</div>
+                                <div data-v-03b808c2="" class="odds">Odds<span data-v-03b808c2="">69.12X</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div data-v-03b808c2="" class="item">
+                            <div data-v-03b808c2="" class="li" data-join="5">
+                                <div data-v-03b808c2="" class="name">5</div>
+                                <div data-v-03b808c2="" class="odds">Odds<span data-v-03b808c2="">34.56X</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div data-v-03b808c2="" class="item">
+                            <div data-v-03b808c2="" class="li" data-join="6">
+                                <div data-v-03b808c2="" class="name">6</div>
+                                <div data-v-03b808c2="" class="odds">Odds<span data-v-03b808c2="">20.74X</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div data-v-03b808c2="" class="item">
+                            <div data-v-03b808c2="" class="li" data-join="7">
+                                <div data-v-03b808c2="" class="name">7</div>
+                                <div data-v-03b808c2="" class="odds">Odds<span data-v-03b808c2="">13.83X</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div data-v-03b808c2="" class="item">
+                            <div data-v-03b808c2="" class="li" data-join="8">
+                                <div data-v-03b808c2="" class="name">8</div>
+                                <div data-v-03b808c2="" class="odds">Odds<span data-v-03b808c2="">9.88X</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div data-v-03b808c2="" class="item">
+                            <div data-v-03b808c2="" class="li" data-join="9">
+                                <div data-v-03b808c2="" class="name">9</div>
+                                <div data-v-03b808c2="" class="odds">Odds<span data-v-03b808c2="">8.3X</span></div>
+                            </div>
+                        </div>
+                        <div data-v-03b808c2="" class="item">
+                            <div data-v-03b808c2="" class="li" data-join="10">
+                                <div data-v-03b808c2="" class="name">10</div>
+                                <div data-v-03b808c2="" class="odds">Odds<span data-v-03b808c2="">7.68X</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div data-v-03b808c2="" class="item">
+                            <div data-v-03b808c2="" class="li" data-join="11">
+                                <div data-v-03b808c2="" class="name">11</div>
+                                <div data-v-03b808c2="" class="odds">Odds<span data-v-03b808c2="">7.68X</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div data-v-03b808c2="" class="item">
+                            <div data-v-03b808c2="" class="li" data="12" data-join="12">
+                                <div data-v-03b808c2="" class="name">12</div>
+                                <div data-v-03b808c2="" class="odds">Odds<span data-v-03b808c2="">8.3X</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div data-v-03b808c2="" class="item">
+                            <div data-v-03b808c2="" class="li" data="13" data-join="13">
+                                <div data-v-03b808c2="" class="name">13</div>
+                                <div data-v-03b808c2="" class="odds">Odds<span data-v-03b808c2="">9.88X</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div data-v-03b808c2="" class="item">
+                            <div data-v-03b808c2="" class="li" data="14" data-join="14">
+                                <div data-v-03b808c2="" class="name">14</div>
+                                <div data-v-03b808c2="" class="odds">Odds<span data-v-03b808c2="">13.83X</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div data-v-03b808c2="" class="item">
+                            <div data-v-03b808c2="" class="li" data="15" data-join="15">
+                                <div data-v-03b808c2="" class="name">15</div>
+                                <div data-v-03b808c2="" class="odds">Odds<span data-v-03b808c2="">20.74X</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div data-v-03b808c2="" class="item">
+                            <div data-v-03b808c2="" class="li" data="16" data-join="16">
+                                <div data-v-03b808c2="" class="name">16</div>
+                                <div data-v-03b808c2="" class="odds">Odds<span data-v-03b808c2="">34.56X</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div data-v-03b808c2="" class="item">
+                            <div data-v-03b808c2="" class="li" data="17" data-join="17">
+                                <div data-v-03b808c2="" class="name">17</div>
+                                <div data-v-03b808c2="" class="odds">Odds<span data-v-03b808c2="">69.12X</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div data-v-03b808c2="" class="item">
+                            <div data-v-03b808c2="" class="li" data="18" data-join="18">
+                                <div data-v-03b808c2="" class="name">18</div>
+                                <div data-v-03b808c2="" class="odds">Odds<span data-v-03b808c2="">207.36X</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div data-v-03b808c2="" class="item">
+                            <div data-v-03b808c2="" class="li" data="b" data-join="Big">
+                                <div data-v-03b808c2="" class="name">Big</div>
+                                <div data-v-03b808c2="" class="odds">Odds<span data-v-03b808c2="">1.92X</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div data-v-03b808c2="" class="item">
+                            <div data-v-03b808c2="" class="li" data="s" data-join="Small">
+                                <div data-v-03b808c2="" class="name">Small</div>
+                                <div data-v-03b808c2="" class="odds">Odds<span data-v-03b808c2="">1.92X</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div data-v-03b808c2="" class="item">
+                            <div data-v-03b808c2="" class="li" data="l" data-join="odd">
+                                <div data-v-03b808c2="" class="name">Odd</div>
+                                <div data-v-03b808c2="" class="odds">Odds<span data-v-03b808c2="">1.92X</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div data-v-03b808c2="" class="item">
+                            <div data-v-03b808c2="" class="li" data="c" data-join="even">
+                                <div data-v-03b808c2="" class="name">Even</div>
+                                <div data-v-03b808c2="" class="odds">Odds<span data-v-03b808c2="">1.92X</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div data-v-03b808c2="" game="2" class="bet-con num d-none">
+                    <div data-v-03b808c2="" class="title">Choose 2 suitable numbers：Odds <span data-v-03b808c2="">13.83X</span></div>
+                    <div data-v-03b808c2="" data="chon-2-so-phu-hop" class="num-box purple c-row c-flex-warp c-row-between">
+                        <div data-v-03b808c2="" game="2_1" data="11" class="item">
+                            <!---->
+                            <div data-v-03b808c2="">11</div>
+                        </div>
+                        <div data-v-03b808c2="" game="2_1" data="22" class="item">
+                            <!---->
+                            <div data-v-03b808c2="">22</div>
+                        </div>
+                        <div data-v-03b808c2="" game="2_1" data="33" class="item">
+                            <!---->
+                            <div data-v-03b808c2="">33</div>
+                        </div>
+                        <div data-v-03b808c2="" game="2_1" data="44" class="item">
+                            <!---->
+                            <div data-v-03b808c2="">44</div>
+                        </div>
+                        <div data-v-03b808c2="" game="2_1" data="55" class="item">
+                            <!---->
+                            <div data-v-03b808c2="">55</div>
+                        </div>
+                        <div data-v-03b808c2="" game="2_1" data="66" class="item">
+                            <!---->
+                            <div data-v-03b808c2="">66</div>
+                        </div>
+                    </div>
+                    <div data-v-03b808c2="" class="des">If the lottery result matches 2 numbers you bet, you will win the prize. (Except for three identical numbers).</div>
+                    <div data-v-03b808c2="" class="title">Choose a unique pair of numbers：Odds <span data-v-03b808c2="">69.12X</span></div>
+                    <div data-v-03b808c2="" hang="1" data="Select 1 unique pair" class="num-box red c-row c-flex-warp c-row-between">
+                        <div data-v-03b808c2="" data="11" number="1" game="2_2" class="item">
+                            <!---->
+                            <div data-v-03b808c2="">11</div>
+                        </div>
+                        <div data-v-03b808c2="" data="22" number="2" game="2_2" class="item">
+                            <!---->
+                            <div data-v-03b808c2="">22</div>
+                        </div>
+                        <div data-v-03b808c2="" data="33" number="3" game="2_2" class="item">
+                            <!---->
+                            <div data-v-03b808c2="">33</div>
+                        </div>
+                        <div data-v-03b808c2="" data="44" number="4" game="2_2" class="item">
+                            <!---->
+                            <div data-v-03b808c2="">44</div>
+                        </div>
+                        <div data-v-03b808c2="" data="55" number="5" game="2_2" class="item">
+                            <!---->
+                            <div data-v-03b808c2="">55</div>
+                        </div>
+                        <div data-v-03b808c2="" data="66" number="6" game="2_2" class="item">
+                            <!---->
+                            <div data-v-03b808c2="">66</div>
+                        </div>
+                    </div>
+                    <div data-v-03b808c2="" hang="2" data="chon-1-cap-duy-nhat" class="num-box green c-row c-flex-warp c-row-between">
+                        <div data-v-03b808c2="" data="1" number="1" game="2_2" class="item">
+                            <!---->
+                            <div data-v-03b808c2="">1</div>
+                        </div>
+                        <div data-v-03b808c2="" data="2" number="2" game="2_2" class="item">
+                            <!---->
+                            <div data-v-03b808c2="">2</div>
+                        </div>
+                        <div data-v-03b808c2="" data="3" number="3" game="2_2" class="item">
+                            <!---->
+                            <div data-v-03b808c2="">3</div>
+                        </div>
+                        <div data-v-03b808c2="" data="4" number="4" game="2_2" class="item">
+                            <!---->
+                            <div data-v-03b808c2="">4</div>
+                        </div>
+                        <div data-v-03b808c2="" data="5" number="5" game="2_2" class="item">
+                            <!---->
+                            <div data-v-03b808c2="">5</div>
+                        </div>
+                        <div data-v-03b808c2="" data="6" number="6" game="2_2" class="item">
+                            <!---->
+                            <div data-v-03b808c2="">6</div>
+                        </div>
+                    </div>
+                    <div data-v-03b808c2="" class="des">*Select at least 1 pair of identical numbers and 1 different number to place a bet. If the lottery result matches the numbers you bet, you will win the prize.</div>
+                </div>
+                <div data-v-03b808c2="" game="3" class="bet-con num d-none">
+                    <div data-v-03b808c2="" class="title">Choose 3 unique numbers：odds <span data-v-03b808c2="">207.36X</span></div>
+                    <div data-v-03b808c2="" class="num-box purple c-row c-flex-warp c-row-between">
+                        <div data-v-03b808c2="" data="111" class="item">
+                            <!---->
+                            <div data-v-03b808c2="">111</div>
+                        </div>
+                        <div data-v-03b808c2="" data="222" class="item">
+                            <!---->
+                            <div data-v-03b808c2="">222</div>
+                        </div>
+                        <div data-v-03b808c2="" data="333" class="item">
+                            <!---->
+                            <div data-v-03b808c2="">333</div>
+                        </div>
+                        <div data-v-03b808c2="" data="444" class="item">
+                            <!---->
+                            <div data-v-03b808c2="">444</div>
+                        </div>
+                        <div data-v-03b808c2="" data="555" class="item">
+                            <!---->
+                            <div data-v-03b808c2="">555</div>
+                        </div>
+                        <div data-v-03b808c2="" data="666" class="item">
+                            <!---->
+                            <div data-v-03b808c2="">666</div>
+                        </div>
+                    </div>
+                    <div data-v-03b808c2="" class="des">* If the lottery result matches the 3 numbers you bet, you will win the prize.</div>
+                    <div data-v-03b808c2="" class="title">Choose 3 identical numbers: Odds <span data-v-03b808c2="">34.56X</span></div>
+                    <div data-v-03b808c2="" class="chon-3-so-giong-nhau num-box red c-row c-flex-warp c-row-between">
+                        <div data-v-03b808c2="" class="li">
+                            <!---->
+                            <div data-v-03b808c2="">Choose 3 identical numbers</div>
+                        </div>
+                    </div>
+                    <div data-v-03b808c2="" class="des">*If the winning numbers are any three identical numbers, you will win the prize.</div>
+                </div>
+                <div data-v-03b808c2="" game="4" class="bet-con num d-none">
+                    <div data-v-03b808c2="" class="title">Choose 3 different numbers: Odds<span data-v-03b808c2="">34.56X</span></div>
+                    <div data-v-03b808c2="" class="num-box purple c-row c-flex-warp c-row-between">
+                        <div data-v-03b808c2="" data="1" class="item">
+                            <!---->
+                            <div data-v-03b808c2="">1</div>
+                        </div>
+                        <div data-v-03b808c2="" data="2" class="item">
+                            <!---->
+                            <div data-v-03b808c2="">2</div>
+                        </div>
+                        <div data-v-03b808c2="" data="3" class="item">
+                            <!---->
+                            <div data-v-03b808c2="">3</div>
+                        </div>
+                        <div data-v-03b808c2="" data="4" class="item">
+                            <!---->
+                            <div data-v-03b808c2="">4</div>
+                        </div>
+                        <div data-v-03b808c2="" data="5" class="item">
+                            <!---->
+                            <div data-v-03b808c2="">5</div>
+                        </div>
+                        <div data-v-03b808c2="" data="6" class="item">
+                            <!---->
+                            <div data-v-03b808c2="">6</div>
+                        </div>
+                    </div>
+                    <div data-v-03b808c2="" class="des">Choose 3 or more numbers. If the three numbers in the lottery result are different and match the numbers you've chosen, then you win the prize.</div>
+                    <div data-v-03b808c2="" class="title">Choose 3 consecutive numbers: Odds <span data-v-03b808c2="">8.64X</span></div>
+                    <div data-v-03b808c2="" class="chon-3-so-lien-tiep num-box red c-row c-flex-warp c-row-between">
+                        <div data-v-03b808c2="" class="li">
+                            <!---->
+                            <div data-v-03b808c2="">Choose 3 consecutive numbers.</div>
+                        </div>
+                    </div>
+                    <div data-v-03b808c2="" class="des">*If the winning numbers are any three consecutive numbers, then you win the prize.</div>
+                    <div data-v-03b808c2="" class="title">Choose 2 different numbers: Odd<span data-v-03b808c2="">6.91</span></div>
+                    <div data-v-03b808c2="" class="num-box purple c-row c-flex-warp c-row-between">
+                        <div data-v-03b808c2="" data="1" class="item">
+                            <!---->
+                            <div data-v-03b808c2="">1</div>
+                        </div>
+                        <div data-v-03b808c2="" data="2" class="item">
+                            <!---->
+                            <div data-v-03b808c2="">2</div>
+                        </div>
+                        <div data-v-03b808c2="" data="3" class="item">
+                            <!---->
+                            <div data-v-03b808c2="">3</div>
+                        </div>
+                        <div data-v-03b808c2="" data="4" class="item">
+                            <!---->
+                            <div data-v-03b808c2="">4</div>
+                        </div>
+                        <div data-v-03b808c2="" data="5" class="item">
+                            <!---->
+                            <div data-v-03b808c2="">5</div>
+                        </div>
+                        <div data-v-03b808c2="" data="6" class="item">
+                            <!---->
+                            <div data-v-03b808c2="">6</div>
+                        </div>
+                    </div>
+                    <div data-v-03b808c2="" class="des">*Choose 2 or more numbers, if two numbers in the lottery result are different and match the numbers you've chosen, then you win the prize.</div>
+                </div>
+            </div>
+            <div data-v-03b808c2="" class="bet-tab">
+                <ul data-v-03b808c2="" class="c-row c-row-between">
+                    <li data-v-03b808c2="" game="1" class="item action block-click">Sum</li>
+                    <li data-v-03b808c2="" game="2" class=" item">2 Matching</li>
+                    <li data-v-03b808c2="" game="3" class=" item">3 Matching</li>
+                    <li data-v-03b808c2="" game="4" class=" item">Different</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>          <div data-v-03b808c2="" class="game-list p-b-20">
+    <div data-v-03b808c2="" class="tab c-row c-row-between">
+        <div data-v-03b808c2="" class="li c-row c-row-center">
+            <span data-v-03b808c2="" class="txt action block-click" id="history"> Game History </span>
+        </div>
+        <div data-v-03b808c2="" class="li c-row c-row-center">
+            <span data-v-03b808c2="" class="txt" id="myBet"> My Bet</span>
+        </div>
+    </div>
+    <div data-v-03b808c2="" class="con-box">
+        <div data-v-03b808c2="" class="list m-t-10">
+            <div data-v-03b808c2="" class="wrap header-history">
+                <div data-v-03b808c2="" class="c-tc van-row">
+                    <div data-v-03b808c2="" class="van-col van-col--6"> Draw Period</div>
+                    <div data-v-03b808c2="" class="van-col van-col--4"> Number </div>
+                    <div data-v-03b808c2="" class="van-col van-col--5"> Big/Small </div>
+                    <div data-v-03b808c2="" class="van-col van-col--4"> Odd/Even </div>
+                    <div data-v-03b808c2="" class="van-col van-col--5"> Result </div>
+                </div>
+            </div>
+            <div data-v-03b808c2="">
+                <div data-v-03b808c2="" class="hb" id="list_order">
+                    <!---->
+                </div>
+                <div data-v-03b808c2="" class="hb" id="list_mybet">
+                    <!---->
+                </div>
+            </div>
+            <div data-v-03b808c2="" class="list-fooder"></div>
+        </div>
+        <div data-v-03b808c2="" class="page-nav c-row c-row-center c-tc">
+            <div data-v-03b808c2="" class="arr c-row c-row-middle-center block-click" id="previous">
+                <i data-v-03b808c2="" class="van-icon van-icon-arrow-left icon" style="font-size: 20px;"></i>
+            </div>
+            <div data-v-03b808c2="" class="number" id="number_result" data-select="all">1/1</div>
+            <div data-v-03b808c2="" class="arr c-row c-row-middle-center action" id="next">
+                <i data-v-03b808c2="" class="van-icon van-icon-arrow icon action" style="font-size: 20px;"></i>
+            </div>
+        </div>
+    </div>
+    <div data-v-03b808c2="" class="con-box p-b-20" style="display: none;">
+        <div data-v-03b808c2="" class="c-row c-flew-end p-r-20">
+            <div data-v-03b808c2="" class="bettingMore c-tc c-row c-row-middle-center">
+                Hơn
+                <i data-v-03b808c2="" class="van-icon van-icon-arrow" style="color: rgb(84, 94, 104); font-size: 15px;"></i>
+            </div>
+        </div>
+        <div data-v-03b808c2="" class="list m-t-10">
+            <div data-v-03b808c2="" class="p-t-5 p-b-5">
+                <div data-v-03b808c2="" class="van-empty">
+                    <div class="van-empty__image"><img src="https://img.yzcdn.cn/vant/empty-image-default.png"></div>
+                    <p class="van-empty__description">No data</p>
+                </div>
+            </div>
+            <div data-v-03b808c2="" class="list-fooder"></div>
+        </div>
+
+    </div>
+</div>            <div data-v-03b808c2="" class="van-popup van-popup--round van-popup--bottom pop-total"
+    style="max-width: 10rem; left: auto; box-shadow: rgba(63, 69, 83, 0.3) 0px -10px 20px 0px; z-index: 2004;transform: translateY(400px);transition: transform .5s,-webkit-transform .5s;"
+    >
+    <div data-v-03b808c2="" class="betting-mark">
+        <div data-v-03b808c2="" class="info">
+            <div data-v-03b808c2="" class="Bet-box">
+                <ul data-v-03b808c2="" class="c-row c-flex-warp c-row-middle list-join-ao">
+                    <span data-v-03b808c2="" game="1">Sum：</span>
+                    <span data-v-03b808c2="" game="2_1" class="d-none">Choose 2 suitable numbers：</span>
+                    <span data-v-03b808c2="" game="3" class="d-none">Choose 3 unique numbers：</span>
+                    <span data-v-03b808c2="" game="4" class="d-none">Choose 3 different numbers：</span>
+                </ul>
+                <ul data-v-03b808c2="" class="c-row c-flex-warp c-row-middle d-none" game="2_2">
+                    <!----->
+                </ul>
+                <ul data-v-03b808c2="" class="c-row c-flex-warp c-row-middle d-none" game="4">
+                    <span data-v-03b808c2="">Choose 2 different numbers：</span>
+                </ul>
+                <div data-v-03b808c2="" class="actionBtn d-none">Choose 3 identical numbers</div>
+            </div>
+            <div data-v-03b808c2="" class="item c-row c-row-between">
+                <div data-v-03b808c2="" class="tit">Amount</div>
+                <div data-v-03b808c2="" class="c-row amount-box">
+                    <div data-v-03b808c2="" value="1" class="li action">1</div>
+                    <div data-v-03b808c2="" value="10" class="li">10</div>
+                    <div data-v-03b808c2="" value="100" class="li">100</div>
+                    <div data-v-03b808c2="" value="1000" class="li">1000</div>
+                    
+                </div>
+            </div> 
+            <div data-v-03b808c2="" class="item c-row c-row-between">
+                <div data-v-03b808c2="" class="tit">Quantity</div>
+                <div data-v-03b808c2="" class="c-row c-row-between stepper-box minus-plus">
+                    <div data-v-03b808c2="" class="li minus">-</div>
+                    <div data-v-03b808c2="" class="digit-box van-cell van-field">
+                        <div class="van-cell__value van-cell__value--alone van-field__value">
+                            <div class="van-field__body">
+                                <input type="tel" value="1" oninput="value=value.replace(/\D/g,'')" inputmode="numeric" class="van-field__control xvalue">
+                            </div>
+                        </div>
+                    </div>
+                    <div data-v-03b808c2="" class="li plus c-row c-row-middle-center action">+</div>
+                </div>
+            </div>
+            <div data-v-03b808c2="" class="item c-row c-flew-end">
+                <div data-v-03b808c2="" class="c-row multiple-box">
+                    <div data-v-03b808c2="" value="1" class="li action">X1</div>
+                    <div data-v-03b808c2="" value="5" class="li">X5</div>
+                    <div data-v-03b808c2="" value="10" class="li">X10</div>
+                    <div data-v-03b808c2="" value="20" class="li">X20</div>
+                    <div data-v-03b808c2="" value="50" class="li">X50</div>
+                    <div data-v-03b808c2="" value="100" class="li">X100</div>
+                </div>
+            </div>
+            <div data-v-03b808c2="" class="item c-row c-row-middle">
+                <div data-v-03b808c2="" role="checkbox" tabindex="0" aria-checked="true" class="van-checkbox">
+                    <div class="van-checkbox__icon van-checkbox__icon--square van-checkbox__icon--checked">
+                        <i
+                            class="van-icon van-icon-success"
+                            style="border-color: rgb(244, 69, 62); background-color: rgb(244, 69, 62);">
+                        </i>
+                    </div>
+                    <span class="van-checkbox__label">
+                        <div data-v-03b808c2="" class="agree p-r-15">I agree</div>
+                    </span>
+                </div><span data-v-03b808c2="" class="txt txt-qu-ytac">Pre-Selling Rules</span>
+            </div>
+        </div> 
+        <div data-v-03b808c2="" class="foot c-row">
+            <div data-v-03b808c2="" class="left canned"> Cancel </div>
+            <div data-v-03b808c2="" class="right c-row c-row-middle-center confirm">
+                <span data-v-03b808c2="" class="p-r-5">Total Amount : ₹</span>
+                <span data-v-03b808c2="" value="" class="result">10</span><span>.00</span>
+                <span class="info-bet" xvalue="10" money="10"></span>
+            </div>
+        </div>
+    </div>
+</div>              <div class="van-overlay" style="z-index: 2001;display: none;"></div>
+<div data-v-03b808c2="" class="van-popup van-popup--center pop-quytac" style="display: none;width: 80%; border-radius: 10px; max-width: 340px; z-index: 2002;"><div data-v-03b808c2="" class="rule-box"><div data-v-03b808c2="" class="title c-row c-row-middle-center">Rules</div><div data-v-03b808c2="" class="info"><div data-v-03b808c2="" class="comment"><div data-v-03b808c2=""><div data-v-03b808c2=""><p class="MsoNormal"><font face="宋体">In each Fast 3 lottery draw, there will be three numbers randomly drawn from 111 to 666, excluding the number 0. The drawn numbers are not in any specific order. Fast 3 is a game where you can guess all or part of the three winning numbers.</font></p><p class="MsoNormal"><font face="宋体">Total bet</font></p><p class="MsoNormal"><font face="宋体">Bet on the total sum of 3 dice</font></p><p class="MsoNormal"><font face="宋体">Bet on the entire set of 3 (numbers/dice/etc.)</font></p><p class="MsoNormal"><font face="宋体">The players place a bet on a group of identical triples, such as: (111, 222, ..., 666), covering all possible triples, and proceed with the betting</font></p><p class="MsoNormal"><font face="宋体">Bet on a single triple set</font></p><p class="MsoNormal"><font face="宋体">The player chooses one of all possible triple sets (111, ..., 666) and proceeds with the betting</font></p><p class="MsoNormal"><font face="宋体">Cược hai số đôi</font></p><p class="MsoNormal"><font face="宋体">Place a bet on three numbers, including two specified pairs and one random number</font></p><p class="MsoNormal"><font face="宋体">Bet on two pairs + 1 single number</font></p><p class="MsoNormal"><font face="宋体">Place a bet on three specified numbers, including two pairs and one other number.</font></p><p class="MsoNormal"><font face="宋体">Betting on 3 different numbers</font></p><p class="MsoNormal"><font face="宋体">Place a bet on three completely different numbers</font></p><p class="MsoNormal"><font face="宋体">Cược 2 số khác nhau</font></p><p class="MsoNormal"><font face="宋体">Place a bet on 2 different numbers + 1 other number combined in one betting ticket</font></p><p class="MsoNormal"><font face="宋体">Betting on 3 consecutive numbers</font></p><p class="MsoNormal"><font face="宋体">Betting is placed on the consecutive numbers [123, 234, 345, 456].<br></font><br></p></div></div><div data-v-03b808c2=""><!----></div><div data-v-03b808c2=""><!----></div><div data-v-03b808c2=""><!----></div></div><div data-v-03b808c2="" class="rule-btn c-row m-t-20 c-row-center"><button data-v-03b808c2="" class="btn van-button van-button--default van-button--normal van-button--block van-button--round" style="color: rgb(255, 255, 255); background: rgb(242, 65, 59); border-color: rgb(242, 65, 59);"><div data-v-03b808c2="" class="van-button__content"><span data-v-03b808c2="" class="van-button__text"><span data-v-03b808c2="">Rules</span></span></div></button></div></div></div></div>
+<div data-v-03b808c2="" class="van-popup van-popup--center pop-quytac-buy" style="display: none;width: 80%; border-radius: 10px; max-width: 340px; z-index: 2016;"><div data-v-03b808c2="" class="rule-box"><div data-v-03b808c2="" class="title c-row c-row-middle-center">Pre-selling rules</div><div data-v-03b808c2="" class="info"><div data-v-03b808c2="" class="comment"> To protect the legitimate rights and interests of users participating in pre-selling and maintain the normal operation of pre-selling activities, the rules are established in accordance with relevant agreements and regulations of the law, as well as national provisions.
+
+Chapter 1: Definitions
+1.1 Pre-selling definition: Refers to the sales model in which the seller provides a product or service package to collect orders from consumers through pre-selling tools and delivers the goods or services to the buyer according to pre-agreed terms.
+1.2 Pre-selling model is the "Consignment" model. The term "Consignment" refers to a fixed amount of pre-sold goods that are predetermined. "Consignment" can participate in small games and has the opportunity to gain more profits. The consigned amount can be directly exchanged for goods, but the consigned money cannot be used for exchange.
+1.3 Pre-selling products: These are products provided by the seller using pre-selling tools. Only products labeled as pre-selling on the title or product detail page are considered pre-selling products. Other products that do not use pre-selling tools are not pre-selling products.
+1.4 Pre-selling system: Refers to the system of pre-selling tools provided to support sales according to the pre-selling model.
+1.5 Pre-selling price of goods: The price of the goods before the sale. The pre-selling price of goods includes two parts: the selling price and the payment. </div><div data-v-03b808c2="" class="rule-btn c-row m-t-20 c-row-center"><button data-v-03b808c2="" class="btn van-button van-button--default van-button--normal van-button--block van-button--round" style="color: rgb(255, 255, 255); background: rgb(242, 65, 59); border-color: rgb(242, 65, 59);"><div data-v-03b808c2="" class="van-button__content"><span data-v-03b808c2="" class="van-button__text"><span data-v-03b808c2="">I know</span></span></div></button></div></div></div></div>
+
+<div data-v-7692a079="" data-v-806b9f0e="" class="Loading c-row c-row-middle-center" style="">
+    <div data-v-7692a079="" class="van-loading van-loading--circular">
+        <span data-v-7692a079="" class="van-loading__spinner van-loading__spinner--circular" style="color: rgb(242, 65, 59);">
+            <svg data-v-7692a079="" viewBox="25 25 50 50" class="van-loading__circular">
+                <circle data-v-7692a079="" cx="50" cy="50" r="20" fill="none"></circle>
+            </svg>
+        </span>
+    </div>
+</div>    </div>
+  </div>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+  <script src="https://cdn.socket.io/4.4.1/socket.io.min.js"
+    integrity="sha384-fKnu0iswBIqkjxrhQCTZ7qlLHOFEgNkRmK2vaO/LbTZSXdJfAu6ewRBdwHPhBo/H"
+    crossorigin="anonymous"></script>
+  <script src="/k3/js/main.js"></script>
+  <script src="/k3/js/chuck.js"></script>
+   <script>
+                $.ajax({
+                    type: "GET",
+                    url: "/api/webapi/GetUserInfo",
+                    dataType: "json",
+                    success: function (response) {
+                        let user = response.data;
+
+                        $('.moneyu').text("₹" + user.money_user + ".00");
+
+
+                    }
+                });
+
+          
+
+
+            </script>
+</body>
+
+</html>

@@ -1,0 +1,666 @@
+[
+  {
+    "phone": "9324745223",
+    "sum": 702,
+    "count": 9,
+    "single": 78
+  },
+  {
+    "phone": "9760817972",
+    "sum": 33820,
+    "count": 890,
+    "single": 38,
+    "withdraws": 0
+  },
+  {
+    "phone": "8354894077",
+    "sum": 882,
+    "count": 4,
+    "single": 220.5,
+    "withdraws": "1652"
+  },
+  {
+    "phone": "9305815923",
+    "sum": 181298,
+    "count": 4771,
+    "single": 38,
+    "withdraws": "741"
+  },
+  {
+    "phone": "9236353185",
+    "sum": 1770,
+    "count": 5,
+    "single": 354,
+    "withdraws": 0
+  },
+  {
+    "phone": "9517165590",
+    "sum": 242,
+    "count": 4,
+    "single": 60.5,
+    "withdraws": 0
+  },
+  {
+    "phone": "8057036087",
+    "sum": 882,
+    "count": 4,
+    "single": 220.5,
+    "withdraws": 0
+  },
+  {
+    "phone": "7858069912",
+    "sum": 152,
+    "count": 4,
+    "single": 38,
+    "withdraws": "10000"
+  },
+  {
+    "phone": "9324745223",
+    "sum": 203,
+    "count": 5,
+    "single": 40.6,
+    "withdraws": 0
+  },
+  {
+    "phone": "7013893165",
+    "sum": 326,
+    "count": 6,
+    "single": 54.33,
+    "withdraws": "1000"
+  },
+  {
+    "phone": "9220538044",
+    "sum": 130834,
+    "count": 3443,
+    "single": 38,
+    "withdraws": "10500"
+  },
+  {
+    "phone": "9330205299",
+    "sum": 1590,
+    "count": 21,
+    "single": 75.71,
+    "withdraws": "600"
+  },
+  {
+    "phone": "6351907676",
+    "sum": 424,
+    "count": 4,
+    "single": 106,
+    "withdraws": 0
+  },
+  {
+    "phone": "9760817972",
+    "sum": 13072,
+    "count": 344,
+    "single": 38,
+    "withdraws": 0
+  },
+  {
+    "phone": "8577994010",
+    "sum": 1080,
+    "count": 11,
+    "single": 98.18,
+    "withdraws": 0
+  },
+  {
+    "phone": "8354894077",
+    "sum": 882,
+    "count": 4,
+    "single": 220.5,
+    "withdraws": 0
+  },
+  {
+    "phone": "6290855114",
+    "sum": 15238,
+    "count": 401,
+    "single": 38,
+    "withdraws": "14390"
+  },
+  {
+    "phone": "9792519308",
+    "sum": 4410,
+    "count": 20,
+    "single": 220.5,
+    "withdraws": "210"
+  },
+  {
+    "phone": "8090894077",
+    "sum": 882,
+    "count": 4,
+    "single": 220.5,
+    "withdraws": "65220"
+  },
+  {
+    "phone": "7525900959",
+    "sum": 109,
+    "count": 4,
+    "single": 27.25,
+    "withdraws": 0
+  },
+  {
+    "phone": "9892924008",
+    "sum": 2618,
+    "count": 21,
+    "single": 124.67,
+    "withdraws": "210"
+  },
+  {
+    "phone": "6382424267",
+    "sum": 195,
+    "count": 6,
+    "single": 32.5,
+    "withdraws": 0
+  },
+  {
+    "phone": "9140532837",
+    "sum": 228,
+    "count": 6,
+    "single": 38,
+    "withdraws": 0
+  },
+  {
+    "phone": "9168022264",
+    "sum": 247912,
+    "count": 6524,
+    "single": 38,
+    "withdraws": "11201"
+  },
+  {
+    "phone": "9082010886",
+    "sum": 228,
+    "count": 6,
+    "single": 38,
+    "withdraws": 0
+  },
+  {
+    "phone": "9004842869",
+    "sum": 556,
+    "count": 9,
+    "single": 61.78,
+    "withdraws": "2410"
+  },
+  {
+    "phone": "7870577074",
+    "sum": 341696,
+    "count": 8992,
+    "single": 38,
+    "withdraws": "47200"
+  },
+  {
+    "phone": "9305815923",
+    "sum": 174610,
+    "count": 4595,
+    "single": 38,
+    "withdraws": 0
+  },
+  {
+    "phone": "8169804698",
+    "sum": 1122,
+    "count": 9,
+    "single": 124.67,
+    "withdraws": "201"
+  },
+  {
+    "phone": "7379264186",
+    "sum": 152,
+    "count": 4,
+    "single": 38,
+    "withdraws": 0
+  },
+  {
+    "phone": "9236353185",
+    "sum": 20014,
+    "count": 58,
+    "single": 345.07,
+    "withdraws": 0
+  },
+  {
+    "phone": "9517525139",
+    "sum": 663176,
+    "count": 17452,
+    "single": 38,
+    "withdraws": 0
+  },
+  {
+    "phone": "9517165590",
+    "sum": 1295284,
+    "count": 10433,
+    "single": 124.15,
+    "withdraws": 0
+  },
+  {
+    "phone": "9284211692",
+    "sum": 276,
+    "count": 8,
+    "single": 34.5,
+    "withdraws": 0
+  },
+  {
+    "phone": "9456670299",
+    "sum": 748,
+    "count": 6,
+    "single": 124.67,
+    "withdraws": 0
+  },
+  {
+    "phone": "9721651142",
+    "sum": 22,
+    "count": 4,
+    "single": 5.5,
+    "withdraws": "23101"
+  },
+  {
+    "phone": "7310168185",
+    "sum": 342,
+    "count": 9,
+    "single": 38,
+    "withdraws": 0
+  },
+  {
+    "phone": "9702468015",
+    "sum": 228,
+    "count": 6,
+    "single": 38,
+    "withdraws": "201"
+  },
+  {
+    "phone": "9831097040",
+    "sum": 3292,
+    "count": 25,
+    "single": 131.68,
+    "withdraws": "1201"
+  },
+  {
+    "phone": "7999850141",
+    "sum": 245,
+    "count": 8,
+    "single": 30.63,
+    "withdraws": 0
+  },
+  {
+    "phone": "6397252233",
+    "sum": 7938,
+    "count": 36,
+    "single": 220.5,
+    "withdraws": 0
+  },
+  {
+    "phone": "7897568321",
+    "sum": 152,
+    "count": 4,
+    "single": 38,
+    "withdraws": 0
+  },
+  {
+    "phone": "9304210768",
+    "sum": 14858,
+    "count": 391,
+    "single": 38,
+    "withdraws": 0
+  },
+  {
+    "phone": "9073782268",
+    "sum": 304,
+    "count": 8,
+    "single": 38,
+    "withdraws": 0
+  },
+  {
+    "phone": "6206781721",
+    "sum": 563464,
+    "count": 14828,
+    "single": 38,
+    "withdraws": "166600"
+  },
+  {
+    "phone": "9619584437",
+    "sum": 190,
+    "count": 5,
+    "single": 38,
+    "withdraws": 0
+  },
+  {
+    "phone": "8779751212",
+    "sum": 16492,
+    "count": 434,
+    "single": 38,
+    "withdraws": "2851"
+  },
+  {
+    "phone": "6263209355",
+    "sum": 126,
+    "count": 4,
+    "single": 31.5,
+    "withdraws": 0
+  },
+  {
+    "phone": "9691396093",
+    "sum": 266,
+    "count": 7,
+    "single": 38,
+    "withdraws": "210"
+  },
+  {
+    "phone": "9771839474",
+    "sum": 47500,
+    "count": 1250,
+    "single": 38,
+    "withdraws": 0
+  },
+  {
+    "phone": "9131730389",
+    "sum": 43966,
+    "count": 1157,
+    "single": 38,
+    "withdraws": 0
+  },
+  {
+    "phone": "7858069912",
+    "sum": 20102,
+    "count": 529,
+    "single": 38,
+    "withdraws": 0
+  },
+  {
+    "phone": "9009118850",
+    "sum": 464,
+    "count": 4,
+    "single": 116,
+    "withdraws": 0
+  },
+  {
+    "phone": "9004254195",
+    "sum": 123348,
+    "count": 3246,
+    "single": 38,
+    "withdraws": 0
+  },
+  {
+    "phone": "8521361074",
+    "sum": 220,
+    "count": 6,
+    "single": 36.67,
+    "withdraws": "3250"
+  },
+  {
+    "phone": "8092625082",
+    "sum": 304,
+    "count": 8,
+    "single": 38,
+    "withdraws": 0
+  },
+  {
+    "phone": "7267914783",
+    "sum": 266,
+    "count": 7,
+    "single": 38,
+    "withdraws": "500"
+  },
+  {
+    "phone": "8780253991",
+    "sum": 5229045,
+    "count": 25268,
+    "single": 206.94,
+    "withdraws": "641"
+  },
+  {
+    "phone": "0913786785",
+    "sum": 98,
+    "count": 4,
+    "single": 24.5,
+    "withdraws": "2000"
+  },
+  {
+    "phone": "9953926554",
+    "sum": 222072,
+    "count": 5844,
+    "single": 38,
+    "withdraws": "1965"
+  },
+  {
+    "phone": "8169508306",
+    "sum": 235791,
+    "count": 6208,
+    "single": 37.98,
+    "withdraws": 0
+  },
+  {
+    "phone": "8160667976",
+    "sum": 69236,
+    "count": 1822,
+    "single": 38,
+    "withdraws": "3851"
+  },
+  {
+    "phone": "7722850532",
+    "sum": 228,
+    "count": 6,
+    "single": 38,
+    "withdraws": "200"
+  },
+  {
+    "phone": "7736159355",
+    "sum": 27284,
+    "count": 718,
+    "single": 38,
+    "withdraws": "201"
+  },
+  {
+    "phone": "6391922856",
+    "sum": 32664,
+    "count": 861,
+    "single": 37.94,
+    "withdraws": 0
+  },
+  {
+    "phone": "8789205952",
+    "sum": 12,
+    "count": 4,
+    "single": 3,
+    "withdraws": "3000"
+  },
+  {
+    "phone": "6206064227",
+    "sum": 114380,
+    "count": 3010,
+    "single": 38,
+    "withdraws": "9000"
+  },
+  {
+    "phone": "7003777621",
+    "sum": 266,
+    "count": 7,
+    "single": 38,
+    "withdraws": "210"
+  },
+  {
+    "phone": "9575475608",
+    "sum": 190,
+    "count": 5,
+    "single": 38,
+    "withdraws": 0
+  },
+  {
+    "phone": "7987534888",
+    "sum": 889,
+    "count": 5,
+    "single": 177.8,
+    "withdraws": 0
+  },
+  {
+    "phone": "8967452207",
+    "sum": 405,
+    "count": 10,
+    "single": 40.5,
+    "withdraws": "300"
+  },
+  {
+    "phone": "8299254176",
+    "sum": 16188,
+    "count": 426,
+    "single": 38,
+    "withdraws": 0
+  },
+  {
+    "phone": "9960917885",
+    "sum": 4504,
+    "count": 34,
+    "single": 132.47,
+    "withdraws": "1000"
+  },
+  {
+    "phone": "8795177896",
+    "sum": 988,
+    "count": 26,
+    "single": 38,
+    "withdraws": "211"
+  },
+  {
+    "phone": "9750948589",
+    "sum": 103,
+    "count": 4,
+    "single": 25.75,
+    "withdraws": 0
+  },
+  {
+    "phone": "9559090124",
+    "sum": 564566,
+    "count": 14857,
+    "single": 38,
+    "withdraws": "64100"
+  },
+  {
+    "phone": "9621176149",
+    "sum": 4838,
+    "count": 15,
+    "single": 322.53,
+    "withdraws": "1000"
+  },
+  {
+    "phone": "9080971418",
+    "sum": 396112,
+    "count": 10424,
+    "single": 38,
+    "withdraws": 0
+  },
+  {
+    "phone": "9236413124",
+    "sum": 2139382,
+    "count": 10579,
+    "single": 202.23,
+    "withdraws": 0
+  },
+  {
+    "phone": "6206423155",
+    "sum": 1028,
+    "count": 11,
+    "single": 93.45,
+    "withdraws": "12200"
+  },
+  {
+    "phone": "7029600575",
+    "sum": 325,
+    "count": 4,
+    "single": 81.25,
+    "withdraws": "1810"
+  },
+  {
+    "phone": "9713187448",
+    "sum": 14136,
+    "count": 372,
+    "single": 38,
+    "withdraws": "5220"
+  },
+  {
+    "phone": "9981777735",
+    "sum": 332,
+    "count": 4,
+    "single": 83,
+    "withdraws": "21730"
+  },
+  {
+    "phone": "9039388774",
+    "sum": 26942,
+    "count": 709,
+    "single": 38,
+    "withdraws": "200"
+  },
+  {
+    "phone": "6260894928",
+    "sum": 455,
+    "count": 12,
+    "single": 37.92,
+    "withdraws": "201"
+  },
+  {
+    "phone": "8433818764",
+    "sum": 226,
+    "count": 4,
+    "single": 56.5,
+    "withdraws": "30210"
+  },
+  {
+    "phone": "8188885330",
+    "sum": 190,
+    "count": 5,
+    "single": 38,
+    "withdraws": "7712"
+  },
+  {
+    "phone": "8097244796",
+    "sum": 52668,
+    "count": 1386,
+    "single": 38,
+    "withdraws": "2800"
+  },
+  {
+    "phone": "8424916736",
+    "sum": 171152,
+    "count": 4504,
+    "single": 38,
+    "withdraws": "50000"
+  },
+  {
+    "phone": "9129127935",
+    "sum": 204718,
+    "count": 5387,
+    "single": 38,
+    "withdraws": 0
+  },
+  {
+    "phone": "9097141571",
+    "sum": 3540,
+    "count": 4,
+    "single": 885,
+    "withdraws": 0
+  },
+  {
+    "phone": "8887834750",
+    "sum": 1239194,
+    "count": 32611,
+    "single": 38,
+    "withdraws": 0
+  },
+  {
+    "phone": "9380029185",
+    "sum": 891328,
+    "count": 23456,
+    "single": 38,
+    "withdraws": 0
+  },
+  {
+    "phone": "9513140247",
+    "sum": 309396,
+    "count": 8142,
+    "single": 38,
+    "withdraws": 0
+  },
+  {
+    "phone": "8160764930",
+    "sum": 1081860,
+    "count": 28470,
+    "single": 38,
+    "withdraws": 0
+  }
+]

@@ -1,0 +1,954 @@
+{
+  "data": {
+    "banklist": [
+      {
+        "bankID": 10,
+        "bankLogo": "",
+        "bankName": "The Hasti Coop Bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 11,
+        "bankLogo": "",
+        "bankName": "KDCC BANK",
+        "reserved": "1"
+      },
+      {
+        "bankID": 12,
+        "bankLogo": "",
+        "bankName": "Oisha Gramya bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 13,
+        "bankLogo": "",
+        "bankName": "Pratham Bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 14,
+        "bankLogo": "",
+        "bankName": "HIMACHAL PARDESH STATE COOPERATIVE BANK",
+        "reserved": "1"
+      },
+      {
+        "bankID": 15,
+        "bankLogo": "",
+        "bankName": "Jupiter federal",
+        "reserved": "1"
+      },
+      {
+        "bankID": 16,
+        "bankLogo": "",
+        "bankName": "Kallappanna Awade Janata Bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 17,
+        "bankLogo": "",
+        "bankName": "State Bank Of Mauritius Ltd",
+        "reserved": "1"
+      },
+      {
+        "bankID": 19,
+        "bankLogo": "",
+        "bankName": "PURVANCHAL GRAMIN BANK",
+        "reserved": "1"
+      },
+      {
+        "bankID": 20,
+        "bankLogo": "",
+        "bankName": "BARODA U.P BANK",
+        "reserved": "1"
+      },
+      {
+        "bankID": 21,
+        "bankLogo": "",
+        "bankName": "State Bank of Mysore",
+        "reserved": "1"
+      },
+      {
+        "bankID": 23,
+        "bankLogo": "",
+        "bankName": "DAMAN",
+        "reserved": "1"
+      },
+      {
+        "bankID": 24,
+        "bankLogo": "",
+        "bankName": "SBM Bank India",
+        "reserved": "1"
+      },
+      {
+        "bankID": 25,
+        "bankLogo": "",
+        "bankName": "Post Office Savings Bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 28,
+        "bankLogo": "",
+        "bankName": "Jupiter Federal Bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 30,
+        "bankLogo": "",
+        "bankName": "PRATHAMA Up Gramin Bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 31,
+        "bankLogo": "",
+        "bankName": "janata sahakari bank ltd",
+        "reserved": "1"
+      },
+      {
+        "bankID": 32,
+        "bankLogo": "",
+        "bankName": "uttarbanga kshetriya gramin bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 33,
+        "bankLogo": "",
+        "bankName": "Samarth Sahakari Bank Ltd",
+        "reserved": "1"
+      },
+      {
+        "bankID": 35,
+        "bankLogo": "",
+        "bankName": "paschim banga gramin bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 36,
+        "bankLogo": "",
+        "bankName": "vasai vikas sahakari",
+        "reserved": "1"
+      },
+      {
+        "bankID": 38,
+        "bankLogo": "",
+        "bankName": "BARODA GUJARAT GRAMIN BANK",
+        "reserved": "1"
+      },
+      {
+        "bankID": 39,
+        "bankLogo": "",
+        "bankName": "State bank of patiala",
+        "reserved": "1"
+      },
+      {
+        "bankID": 40,
+        "bankLogo": "",
+        "bankName": "manipur rural bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 41,
+        "bankLogo": "",
+        "bankName": "DAKSHIN BIHIR GRAMIN BANK",
+        "reserved": "1"
+      },
+      {
+        "bankID": 42,
+        "bankLogo": "",
+        "bankName": "SHIVALIK SMALL FIHANCE BANK",
+        "reserved": "1"
+      },
+      {
+        "bankID": 43,
+        "bankLogo": "",
+        "bankName": "STATE BANK OF TRAVANCORE",
+        "reserved": "1"
+      },
+      {
+        "bankID": 45,
+        "bankLogo": "",
+        "bankName": "UTTAR BIHAR GRAMIN BANK",
+        "reserved": "1"
+      },
+      {
+        "bankID": 47,
+        "bankLogo": "",
+        "bankName": "Utkarsh Small Finance Bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 48,
+        "bankLogo": "",
+        "bankName": "SURYODAY SMALL FINANCE BANK LIMITED",
+        "reserved": "1"
+      },
+      {
+        "bankID": 49,
+        "bankLogo": "",
+        "bankName": "Karnataka Gramin Bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 50,
+        "bankLogo": "",
+        "bankName": "Assam gramin bikash bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 51,
+        "bankLogo": "",
+        "bankName": "Punjab Gramin Bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 53,
+        "bankLogo": "",
+        "bankName": "Assam Gramin Vikash Bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 54,
+        "bankLogo": "",
+        "bankName": "Bangiya Gramin Vikash Bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 57,
+        "bankLogo": "",
+        "bankName": "CHHATTISGARH RAJYA GRAMIN BANK",
+        "reserved": "1"
+      },
+      {
+        "bankID": 58,
+        "bankLogo": "",
+        "bankName": "FEDERAL NEO BANK JUPITER",
+        "reserved": "1"
+      },
+      {
+        "bankID": 59,
+        "bankLogo": "",
+        "bankName": "Rajgurunagar Sahakari Bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 60,
+        "bankLogo": "",
+        "bankName": "Shri Janata Sahakari Bank LTD",
+        "reserved": "1"
+      },
+      {
+        "bankID": 61,
+        "bankLogo": "",
+        "bankName": "State Bank of Bikaner And Jaipur",
+        "reserved": "1"
+      },
+      {
+        "bankID": 62,
+        "bankLogo": "",
+        "bankName": "United Bank of India",
+        "reserved": "1"
+      },
+      {
+        "bankID": 63,
+        "bankLogo": "",
+        "bankName": "Vijaya Bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 66,
+        "bankLogo": "",
+        "bankName": "Sarva UP Gramin Bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 67,
+        "bankLogo": "",
+        "bankName": "Development credit Bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 68,
+        "bankLogo": "",
+        "bankName": "ARYAVART Bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 69,
+        "bankLogo": "",
+        "bankName": "Zila Sahakari Bank Ltd Bareilly",
+        "reserved": "1"
+      },
+      {
+        "bankID": 70,
+        "bankLogo": "",
+        "bankName": "Tripura Gramin Bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 73,
+        "bankLogo": "",
+        "bankName": "USDT",
+        "reserved": "1"
+      },
+      {
+        "bankID": 75,
+        "bankLogo": "",
+        "bankName": "Bharat cooperative bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 76,
+        "bankLogo": "",
+        "bankName": "SVC BANK",
+        "reserved": "1"
+      },
+      {
+        "bankID": 77,
+        "bankLogo": "",
+        "bankName": "Chaitanya Godavari Grameena Bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 78,
+        "bankLogo": "",
+        "bankName": "Dena Gujarat Gramin Bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 80,
+        "bankLogo": "",
+        "bankName": "Jana small finance bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 82,
+        "bankLogo": "",
+        "bankName": "Baroda Rajasthan kshetriya gramin bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 83,
+        "bankLogo": "",
+        "bankName": "Saurashtra gramin bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 85,
+        "bankLogo": "",
+        "bankName": "Dhanalakshmi bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 86,
+        "bankLogo": "",
+        "bankName": "Baroda Uttar Pradesh Gramin Bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 87,
+        "bankLogo": "",
+        "bankName": "Fincare small finance bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 88,
+        "bankLogo": "",
+        "bankName": "Catholic syrian bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 89,
+        "bankLogo": "",
+        "bankName": "North East small financial bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 90,
+        "bankLogo": "",
+        "bankName": "RAJKOT NAGARIK SAHAKARI BANK LTD",
+        "reserved": "1"
+      },
+      {
+        "bankID": 92,
+        "bankLogo": "",
+        "bankName": "Himachal Pradesh Gramin Bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 93,
+        "bankLogo": "",
+        "bankName": "Uttarakhand Gramin Bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 94,
+        "bankLogo": "",
+        "bankName": "MAHARASHTRA GRAMIN BANK",
+        "reserved": "1"
+      },
+      {
+        "bankID": 95,
+        "bankLogo": "",
+        "bankName": "jio payments bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 96,
+        "bankLogo": "",
+        "bankName": "Jharkhand Rajya Gramin Bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 97,
+        "bankLogo": "",
+        "bankName": "nainital bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 98,
+        "bankLogo": "",
+        "bankName": "ORIENTAL BANK OF COMMERCE",
+        "reserved": "1"
+      },
+      {
+        "bankID": 99,
+        "bankLogo": "",
+        "bankName": "Maharashtra state cooperative bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 100,
+        "bankLogo": "",
+        "bankName": "Himachal Pradesh state cooperative bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 101,
+        "bankLogo": "",
+        "bankName": "ESAF Small Finance Bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 102,
+        "bankLogo": "",
+        "bankName": "NSDL Payments Bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 103,
+        "bankLogo": "",
+        "bankName": "Madhya Bihar Gramin Bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 105,
+        "bankLogo": "",
+        "bankName": "Karnataka Vikas Grameena Bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 106,
+        "bankLogo": "",
+        "bankName": "Andhra Pradesh Grameena Vikas Bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 107,
+        "bankLogo": "",
+        "bankName": "Mizoram Rural Bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 108,
+        "bankLogo": "",
+        "bankName": "capital small finance bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 109,
+        "bankLogo": "",
+        "bankName": "Telangana Grameena Bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 110,
+        "bankLogo": "",
+        "bankName": "Abhyudaya bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 111,
+        "bankLogo": "",
+        "bankName": "rajasthan marudhara gramin bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 112,
+        "bankLogo": "",
+        "bankName": "andhra pragathi grameena bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 113,
+        "bankLogo": "",
+        "bankName": "Saraswat Cooperative Bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 114,
+        "bankLogo": "",
+        "bankName": "Fino Payments Bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 116,
+        "bankLogo": "",
+        "bankName": "Sarva Haryana Gramin Bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 117,
+        "bankLogo": "",
+        "bankName": "Purvanchal bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 119,
+        "bankLogo": "",
+        "bankName": "TJSB Bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 120,
+        "bankLogo": "",
+        "bankName": "Dhanlaxmi Bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 121,
+        "bankLogo": "",
+        "bankName": "RBL Bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 122,
+        "bankLogo": "",
+        "bankName": "Kerala Gramin Bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 123,
+        "bankLogo": "",
+        "bankName": "Gp parsik bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 124,
+        "bankLogo": "",
+        "bankName": "State Bank of Hyderabad",
+        "reserved": "1"
+      },
+      {
+        "bankID": 125,
+        "bankLogo": "",
+        "bankName": "AIRTEL PAYMENTS BANK LIMITED",
+        "reserved": "1"
+      },
+      {
+        "bankID": 126,
+        "bankLogo": "",
+        "bankName": "Bassein catholic cooperative Bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 127,
+        "bankLogo": "",
+        "bankName": "South Indian Bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 128,
+        "bankLogo": "",
+        "bankName": "Lakshmi Vilas Bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 129,
+        "bankLogo": "",
+        "bankName": "AU Small Finance Bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 130,
+        "bankLogo": "",
+        "bankName": "Meghalaya Rural Bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 132,
+        "bankLogo": "",
+        "bankName": "Allahabad bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 133,
+        "bankLogo": "",
+        "bankName": "Tamilnad Mercantile Bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 134,
+        "bankLogo": "",
+        "bankName": "Karur Vysya Bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 135,
+        "bankLogo": "",
+        "bankName": "City Union Bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 136,
+        "bankLogo": "",
+        "bankName": "Corporation Bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 137,
+        "bankLogo": "",
+        "bankName": "India Post Payments Bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 138,
+        "bankLogo": "",
+        "bankName": "EQUITAS SMALL FINANCE BANK LIMITED",
+        "reserved": "1"
+      },
+      {
+        "bankID": 140,
+        "bankLogo": "",
+        "bankName": "JAMMU AND KASHMIR BANK LIMITED",
+        "reserved": "1"
+      },
+      {
+        "bankID": 141,
+        "bankLogo": "",
+        "bankName": "Indusind Bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 142,
+        "bankLogo": "",
+        "bankName": "Bandhan Bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 143,
+        "bankLogo": "",
+        "bankName": "IDFC FIRST BANK LTD",
+        "reserved": "1"
+      },
+      {
+        "bankID": 144,
+        "bankLogo": "",
+        "bankName": "INDIANOVERSEAS BANK",
+        "reserved": "1"
+      },
+      {
+        "bankID": 145,
+        "bankLogo": "",
+        "bankName": "Citibank India",
+        "reserved": "1"
+      },
+      {
+        "bankID": 147,
+        "bankLogo": "",
+        "bankName": "Bank of maharashtra",
+        "reserved": "1"
+      },
+      {
+        "bankID": 148,
+        "bankLogo": "",
+        "bankName": "Syndicate Bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 149,
+        "bankLogo": "",
+        "bankName": "FEDERAL BANK",
+        "reserved": "1"
+      },
+      {
+        "bankID": 150,
+        "bankLogo": "",
+        "bankName": "Bank of Baroda",
+        "reserved": "1"
+      },
+      {
+        "bankID": 151,
+        "bankLogo": "",
+        "bankName": "Union Bank of India",
+        "reserved": "1"
+      },
+      {
+        "bankID": 152,
+        "bankLogo": "",
+        "bankName": "Central Bank of India",
+        "reserved": "1"
+      },
+      {
+        "bankID": 153,
+        "bankLogo": "",
+        "bankName": "Yes Bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 154,
+        "bankLogo": "",
+        "bankName": "HDFC Bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 155,
+        "bankLogo": "",
+        "bankName": "Karnataka Bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 156,
+        "bankLogo": "",
+        "bankName": "Standard Chartered Bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 157,
+        "bankLogo": "",
+        "bankName": "IDBI Bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 158,
+        "bankLogo": "",
+        "bankName": "Bank of India",
+        "reserved": "1"
+      },
+      {
+        "bankID": 159,
+        "bankLogo": "",
+        "bankName": "Punjab National Bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 160,
+        "bankLogo": "",
+        "bankName": "ICICI Bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 161,
+        "bankLogo": "",
+        "bankName": "Canara Bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 162,
+        "bankLogo": "",
+        "bankName": "Kotak Mahindra Bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 163,
+        "bankLogo": "",
+        "bankName": "State Bank of India",
+        "reserved": "1"
+      },
+      {
+        "bankID": 164,
+        "bankLogo": "",
+        "bankName": "Indian Bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 165,
+        "bankLogo": "",
+        "bankName": "Axis Bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 167,
+        "bankLogo": "",
+        "bankName": "Kerala Bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 168,
+        "bankLogo": "",
+        "bankName": "Kalyan Janata Sahakari Bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 169,
+        "bankLogo": "",
+        "bankName": "Digital Bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 170,
+        "bankLogo": "",
+        "bankName": "Ujjivan Small Finance bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 173,
+        "bankLogo": "",
+        "bankName": "Ratnakar Bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 176,
+        "bankLogo": "",
+        "bankName": "ANDHRA BANK",
+        "reserved": "1"
+      },
+      {
+        "bankID": 178,
+        "bankLogo": "",
+        "bankName": "PUNJAB AND SINDH BANK",
+        "reserved": "1"
+      },
+      {
+        "bankID": 118,
+        "bankLogo": "",
+        "bankName": "Punjab Sind Bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 26,
+        "bankLogo": "",
+        "bankName": "JK Grameen Bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 115,
+        "bankLogo": "",
+        "bankName": "Ahmedabad District CoOperative Bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 52,
+        "bankLogo": "",
+        "bankName": "Kangra Central Cooperative Bank Ltd",
+        "reserved": "1"
+      },
+      {
+        "bankID": 27,
+        "bankLogo": "",
+        "bankName": "ABHYUDAYA COOP BANK LTD",
+        "reserved": "1"
+      },
+      {
+        "bankID": 84,
+        "bankLogo": "",
+        "bankName": "Cosmos Cooperative Bank Ltd",
+        "reserved": "1"
+      },
+      {
+        "bankID": 55,
+        "bankLogo": "",
+        "bankName": "GS Mahanagar CoOp Bank Ltd",
+        "reserved": "1"
+      },
+      {
+        "bankID": 9,
+        "bankLogo": "",
+        "bankName": "District CoOperative Central Bank Ltd",
+        "reserved": "1"
+      },
+      {
+        "bankID": 22,
+        "bankLogo": "",
+        "bankName": "Jind central CoOP Bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 91,
+        "bankLogo": "",
+        "bankName": "Krishna District CoOperative Central Bank Ltd.",
+        "reserved": "1"
+      },
+      {
+        "bankID": 65,
+        "bankLogo": "",
+        "bankName": "New India CoOperative Bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 64,
+        "bankLogo": "",
+        "bankName": "NKGSB Cooperative Bank Ltd.",
+        "reserved": "1"
+      },
+      {
+        "bankID": 71,
+        "bankLogo": "",
+        "bankName": "Prime cooperative Bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 104,
+        "bankLogo": "",
+        "bankName": "The Ahmedabad merchantile coop bank Ltd",
+        "reserved": "1"
+      },
+      {
+        "bankID": 29,
+        "bankLogo": "",
+        "bankName": "the gayatri cooperative urban bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 37,
+        "bankLogo": "",
+        "bankName": "The Gujarat State Cooperative Bank Limited",
+        "reserved": "1"
+      },
+      {
+        "bankID": 72,
+        "bankLogo": "",
+        "bankName": "The Kalupur Commercial Cooperative Bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 46,
+        "bankLogo": "",
+        "bankName": "The Meghalaya Cooperative Apex Bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 74,
+        "bankLogo": "",
+        "bankName": "The Surat District CoOp. Bank Ltd.",
+        "reserved": "1"
+      },
+      {
+        "bankID": 18,
+        "bankLogo": "",
+        "bankName": "The Varachha Cooperative Bank Ltd.,Surat",
+        "reserved": "1"
+      },
+      {
+        "bankID": 131,
+        "bankLogo": "",
+        "bankName": "varachha cooperative bank",
+        "reserved": "1"
+      },
+      {
+        "bankID": 34,
+        "bankLogo": "",
+        "bankName": "VISHAPATNAM cooperative bank",
+        "reserved": "1"
+      }
+    ]
+  }
+}

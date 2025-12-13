@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html translate="no" data-dpr="1" style="font-size: 48.16px">
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="robots" content="noindex,nofollow" />
+    <meta content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no" name="viewport" />
+    <title>97Club</title>
+    <link href="/css/wallet/main.css" rel="stylesheet" />
+    <link href="/css/wallet/chunk_2-1.css" rel="stylesheet" />
+    <link href="/css/wallet/chunk_2-2.css" rel="stylesheet" />
+    <link href="/css/wallet/chunk_2-3.css" rel="stylesheet" />
+    <link rel="shortcut icon" href="/index_files/Images/logo_500.png" type="image/x-icon" />
+    <style>
+        html,
+        body {
+            height: 100%;
+            width: 100%;
+            background-color: #9195a3;
+            padding: 0;
+            margin: 0;
+        }
+        .mian[data-v-439e6f58]{background-color:#fbfcfd}.mian .banner[data-v-439e6f58]{position:relative}.mian .banner .img[data-v-439e6f58]{height:4.53333rem;width:100%}.mian .banner .com[data-v-439e6f58]{position:absolute;top:50%;right:.53333rem;z-index:888;transform:translateY(-65%)}.mian .banner .com .logo[data-v-439e6f58]{width:3.2rem;height:1.06667rem}.mian .banner .com .number[data-v-439e6f58],.mian .banner .com .txt[data-v-439e6f58]{font-size:.42667rem;font-weight:600;color:#fff}.mian .banner .com .number[data-v-439e6f58]{height:.8rem;line-height:.8rem;text-align:center;border:.02667rem solid #eee}.mian .list[data-v-439e6f58]{padding:.4rem}.mian .list .item[data-v-439e6f58]{height:1.33333rem;background:#fff;box-shadow:0 .08rem .50667rem .10667rem #f0f1f3;border-radius:.24rem;margin-bottom:.53333rem;font-size:.42667rem;padding:0 .4rem}
+    </style>
+</head>
+
+<body style="font-size: 12px">
+    <div id="app">
+        <div data-v-439e6f58="" class="mian">
+            <div data-v-106b99c8="" data-v-439e6f58="" class="navbar">
+                <div data-v-106b99c8="" class="navbar-left" onclick="location.href='/mian'">
+                    <div data-v-106b99c8="" class="bank c-row c-row-middle-center">
+                        <img data-v-106b99c8="" src="/images/back.c3244ab0.png" class="navbar-back" />
+                    </div>
+                </div>
+                <div data-v-106b99c8="" class="navbar-title">About Us</div>
+                <div data-v-106b99c8="" class="navbar-right"></div>
+            </div>
+            <div class="card">
+                <div class="card-body">
+                  <h5 class="card-title">Salary Records Table</h5>
+                  <table class="table" id="tableget">
+                    <thead>
+                      <tr>
+                        <!-- <th>#</th> -->
+                        <th class="text-center">Phone</th>
+                        <th class="text-center">Amount</th>
+                        <th class="text-center">Type</th>
+                        <th class="text-center">Time</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <!-- Add your table rows dynamically here -->
+                    </tbody>
+                  </table>
+                </div>
+              </div>
+        </div>
+    </div>
+    <script src="/plugins/jquery/jquery.min.js"></script>
+    <script src="/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="/dist/js/adminlte.min.js"></script>
+    <script src="/js/admin/admin.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/sweetalert2@11/dist/sweetalert2.min.js"></script>
+    <script>
+ 
+ 
+        $.ajax({
+             type: "GET",
+             url: "/getrecord",
+             dataType: "json",
+             success: function (response) {
+               // Update the table with the new data
+               updateTable(response);
+               
+             },
+             error: function (xhr, status, error) {
+               console.log('Error fetching data:', error);
+               
+             }
+           });
+       
+         // Function to update the table with new data
+         function updateTable(data) {
+           if (Array.isArray(data.rows) && data.rows.length > 0) {
+             var tableBody = $('#tableget').find('tbody');
+             tableBody.empty();
+       
+             data.rows.forEach(function (item) {
+               var row = '<tr>' +
+                 '<td class="text-center">' + item.phone + '</td>' +
+                 '<td class="text-center">' + item.amount + '</td>' +
+                 '<td class="text-center">' + item.type + '</td>' +
+                 '<td class="text-center">' + item.time + '</td>' +
+                 '</tr>';
+               tableBody.append(row);
+             });
+           } else {
+             console.log('No data found or invalid response format');
+           }
+         }
+       
+       
+       
+       
+         </script>
+</body>
+
+</html>

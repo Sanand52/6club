@@ -1,0 +1,72 @@
+
+
+            
+            
+            
+            
+                                            <div data-v-7b283485="" class="moneyu">loading...</div>
+                                            
+                                            
+                                            
+                                
+                                                      <div data-v-7b283485="" class="teranaam">hi</div>
+
+                 
+
+                
+                
+                
+                
+                
+                
+                
+                 
+                                                   
+                                <div data-v-7b283485="" class="item">hi </div>
+                                
+                                
+                                
+                                
+                                <div data-v-7b283485="" class="item1">hi</div>
+                        
+
+
+
+
+
+
+
+<div data-v-7b283485="" class="id">hi</div>
+<div class="number">hi</div>
+
+
+
+
+
+           
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+            <script src="/js/client.js"></script>
+            <script>
+                $.ajax({
+                    type: "GET",
+                    url: "/api/webapi/GetUserInfo",
+                    dataType: "json",
+                    success: function (response) {
+                        let user = response.data;
+                        $('.teranaam').text(user.name_user);
+                        $('.moneyu').text("₹" + user.money_user + ".00");
+                        $('.item').text("₹" + response.totalRecharge + ".00");
+                        $('.item1').text("₹" + response.totalWithdraw + ".00");
+                       
+                       
+                        $('.id').text(user.id_user);
+                        $('.number').text("+91 "+user.phone_user);
+                    }
+                });
+
+          
+
+
+            </script>
+
+

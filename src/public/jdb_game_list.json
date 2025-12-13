@@ -1,0 +1,1910 @@
+[
+  {
+    "id": 1,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14091,
+    "name": "Piggy Bank",
+    "image": "14091_200x200_en.png",
+    "tag": ["popular", "slots"]
+  },
+  {
+    "id": 2,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14090,
+    "name": "Wealthway",
+    "image": "14090_200x200_en.png",
+    "tag": ["slots"]
+  },
+  {
+    "id": 3,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14089,
+    "name": "Dragon Soar",
+    "image": "14089_200x200_en.png",
+    "tag": ["slots"]
+  },
+  {
+    "id": 4,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14087,
+    "name": "Pop Pop Candy",
+    "image": "14087_200x200_en.png",
+    "tag": ["slots"]
+  },
+  {
+    "id": 5,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14086,
+    "name": "Open Sesame Mega",
+    "image": "14086_200x200_en.png",
+    "tag": ["slots"]
+  },
+  {
+    "id": 6,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14085,
+    "name": "Fruity Bonanza",
+    "image": "14085_200x200_en.png",
+    "tag": ["slots"]
+  },
+  {
+    "id": 7,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14084,
+    "name": "Caishen Coming",
+    "image": "14084_200x200_en.png",
+    "tag": ["popular", "slots"]
+  },
+  {
+    "id": 8,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14083,
+    "name": "Coocoo Farm",
+    "image": "14083_200x200_en.png",
+    "tag": ["popular", "slots"]
+  },
+  {
+    "id": 9,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14082,
+    "name": "Elemental Link Water",
+    "image": "14082_200x200_en.png",
+    "tag": ["popular", "slots"]
+  },
+  {
+    "id": 10,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14080,
+    "name": "Elemental Link Fire",
+    "image": "14080_200x200_en.png",
+    "tag": ["popular", "slots"]
+  },
+  {
+    "id": 11,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14081,
+    "name": "Birdsparty Deluxe",
+    "image": "14081_200x200_en.png",
+    "tag": ["slots"]
+  },
+  {
+    "id": 12,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14079,
+    "name": "Moneybags Man 2",
+    "image": "14079_200x200_en.png",
+    "tag": ["casino"]
+  },
+  {
+    "id": 13,
+    "game_provider": "SPRIBE",
+    "g_type": 22,
+    "m_type": 22001,
+    "name": "Aviator",
+    "image": "22001_200x200_en.png",
+    "tag": ["original", "popular_quick"]
+  },
+  {
+    "id": 14,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14075,
+    "name": "Fortune Neko",
+    "image": "14075_200x200_en.png",
+    "tag": ["slots", "popular"]
+  },
+  {
+    "id": 15,
+    "game_provider": "SPRIBE",
+    "g_type": 22,
+    "m_type": 22009,
+    "name": "Hotline",
+    "image": "22009_200x200_en.png",
+    "tag": ["original", "popular_quick"]
+  },
+  {
+    "id": 16,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14068,
+    "name": "Prosperity Tiger",
+    "image": "14068_200x200_en.png",
+    "tag": ["slots"]
+  },
+  {
+    "id": 17,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14067,
+    "name": "Glamorous Girl",
+    "image": "14067_200x200_en.png",
+    "tag": ["slots"]
+  },
+  {
+    "id": 18,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14065,
+    "name": "Blossom Of Wealth",
+    "image": "14065_200x200_en.png",
+    "tag": ["slots", "popular"]
+  },
+  {
+    "id": 19,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14064,
+    "name": "Boom Fiesta",
+    "image": "14064_200x200_en.png",
+    "tag": ["slots", "popular"]
+  },
+  {
+    "id": 20,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14063,
+    "name": "Big Three Dragons",
+    "image": "14063_200x200_en.png",
+    "tag": ["slots", "casino", "rummy", "original"]
+  },
+  {
+    "id": 21,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14061,
+    "name": "Mayagold Crazy",
+    "image": "14061_200x200_en.jpg",
+    "tag": ["slots", "casino", "rummy", "original"]
+  },
+  {
+    "id": 22,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14060,
+    "name": "Lantern Wealth",
+    "image": "14060_200x200_en.jpg",
+    "tag": ["slots", "original"]
+  },
+  {
+    "id": 23,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14059,
+    "name": "Marvelous Iv",
+    "image": "14059_200x200_en.jpg",
+    "tag": ["slots", "original"]
+  },
+  {
+    "id": 24,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14058,
+    "name": "Wonder Elephant",
+    "image": "14058_200x200_en.jpg",
+    "tag": ["slots", "original"]
+  },
+  {
+    "id": 25,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14055,
+    "name": "Kong",
+    "image": "14055_300x300_en.jpg",
+    "tag": ["slots", "original", "popular"]
+  },
+  {
+    "id": 26,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14054,
+    "name": "Lucky Diamond",
+    "image": "14054_200x200_en.jpg",
+    "tag": ["slots", "original", "popular"]
+  },
+  {
+    "id": 27,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14053,
+    "name": "Spindrift 2",
+    "image": "14053_200x200_en.png",
+    "tag": ["slots", "fishing", "popular"]
+  },
+  {
+    "id": 28,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14052,
+    "name": "Jungle Jungle",
+    "image": "14052_300x300_en.png",
+    "tag": ["slots", "popular"]
+  },
+  {
+    "id": 29,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14051,
+    "name": "Dragons Gate",
+    "image": "14051_200x200_en.png",
+    "tag": ["slots", "fishing"]
+  },
+  {
+    "id": 30,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14050,
+    "name": "Spindrift",
+    "image": "14050_200x200_en.png",
+    "tag": ["popular", "original"]
+  },
+  {
+    "id": 31,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14048,
+    "name": "Double Wilds",
+    "image": "14048_200x200_en.png",
+    "tag": ["popular", "original"]
+  },
+  {
+    "id": 32,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14047,
+    "name": "Moneybags Man",
+    "image": "14047_200x200_en.png",
+    "tag": ["slots", "original"]
+  },
+  {
+    "id": 33,
+    "game_provider": "SPRIBE",
+    "g_type": 22,
+    "m_type": 22008,
+    "name": "Mini Roulette",
+    "image": "22008_200x200_en.png",
+    "tag": ["original", "popular_quick"]
+  },
+  {
+    "id": 34,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14045,
+    "name": "Super Niubi Deluxe",
+    "image": "14045_200x200_en.png",
+    "tag": ["casino", "popular"]
+  },
+  {
+    "id": 35,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14044,
+    "name": "Funky King Kong",
+    "image": "14044_200x200_en.png",
+    "tag": ["slots", "popular"]
+  },
+  {
+    "id": 36,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14043,
+    "name": "Golden Disco",
+    "image": "14043_200x200_en.png",
+    "tag": ["casino"]
+  },
+  {
+    "id": 37,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14042,
+    "name": "Treasure Bowl",
+    "image": "14042_200x200_en.png",
+    "tag": ["slots"]
+  },
+  {
+    "id": 38,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14041,
+    "name": "Mjolnir",
+    "image": "14041_200x200_en.png",
+    "tag": ["slots", "original"]
+  },
+  {
+    "id": 39,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14040,
+    "name": "Pirate Treasure",
+    "image": "14040_200x200_en.png",
+    "tag": ["slots", "original"]
+  },
+  {
+    "id": 40,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14039,
+    "name": "Fortune Treasure",
+    "image": "14039_200x200_en.png",
+    "tag": ["slots", "original"]
+  },
+  {
+    "id": 41,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14038,
+    "name": "Egypt Treasure",
+    "image": "14038_200x200_en.png",
+    "tag": ["slots", "original"]
+  },
+  {
+    "id": 1,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14091,
+    "name": "Piggy Bank",
+    "image": "14091_200x200_en.png",
+    "tag": ["popular", "slots"]
+  },
+  {
+    "id": 2,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14090,
+    "name": "Wealthway",
+    "image": "14090_200x200_en.png",
+    "tag": ["slots"]
+  },
+  {
+    "id": 3,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14089,
+    "name": "Dragon Soar",
+    "image": "14089_200x200_en.png",
+    "tag": ["slots"]
+  },
+  {
+    "id": 4,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14087,
+    "name": "Pop Pop Candy",
+    "image": "14087_200x200_en.png",
+    "tag": ["slots"]
+  },
+  {
+    "id": 5,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14086,
+    "name": "Open Sesame Mega",
+    "image": "14086_200x200_en.png",
+    "tag": ["slots"]
+  },
+  {
+    "id": 6,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14085,
+    "name": "Fruity Bonanza",
+    "image": "14085_200x200_en.png",
+    "tag": ["slots"]
+  },
+  {
+    "id": 7,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14084,
+    "name": "Caishen Coming",
+    "image": "14084_200x200_en.png",
+    "tag": ["popular", "slots"]
+  },
+  {
+    "id": 8,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14083,
+    "name": "Coocoo Farm",
+    "image": "14083_200x200_en.png",
+    "tag": ["popular", "slots"]
+  },
+  {
+    "id": 9,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14082,
+    "name": "Elemental Link Water",
+    "image": "14082_200x200_en.png",
+    "tag": ["popular", "slots"]
+  },
+  {
+    "id": 10,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14080,
+    "name": "Elemental Link Fire",
+    "image": "14080_200x200_en.png",
+    "tag": ["popular", "slots"]
+  },
+  {
+    "id": 11,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14081,
+    "name": "Birdsparty Deluxe",
+    "image": "14081_200x200_en.png",
+    "tag": ["slots"]
+  },
+  {
+    "id": 12,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14079,
+    "name": "Moneybags Man 2",
+    "image": "14079_200x200_en.png",
+    "tag": ["casino"]
+  },
+  {
+    "id": 13,
+    "game_provider": "SPRIBE",
+    "g_type": 22,
+    "m_type": 22007,
+    "name": "Keno",
+    "image": "22007_200x200_en.png",
+    "tag": ["popular", "popular_quick"]
+  },
+  {
+    "id": 14,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14075,
+    "name": "Fortune Neko",
+    "image": "14075_200x200_en.png",
+    "tag": ["slots", "popular"]
+  },
+  {
+    "id": 15,
+    "game_provider": "SPRIBE",
+    "g_type": 22,
+    "m_type": 22006,
+    "name": "Hilo",
+    "image": "22006_200x200_en.png",
+    "tag": ["popular", "popular_quick"]
+  },
+  {
+    "id": 16,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14068,
+    "name": "Prosperity Tiger",
+    "image": "14068_200x200_en.png",
+    "tag": ["slots"]
+  },
+  {
+    "id": 17,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14067,
+    "name": "Glamorous Girl",
+    "image": "14067_200x200_en.png",
+    "tag": ["slots"]
+  },
+  {
+    "id": 18,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14065,
+    "name": "Blossom Of Wealth",
+    "image": "14065_200x200_en.png",
+    "tag": ["slots", "popular"]
+  },
+  {
+    "id": 19,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14064,
+    "name": "Boom Fiesta",
+    "image": "14064_200x200_en.png",
+    "tag": ["slots", "popular"]
+  },
+  {
+    "id": 20,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14063,
+    "name": "Big Three Dragons",
+    "image": "14063_200x200_en.png",
+    "tag": ["slots", "casino", "rummy", "original"]
+  },
+  {
+    "id": 21,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14061,
+    "name": "Mayagold Crazy",
+    "image": "14061_200x200_en.jpg",
+    "tag": ["slots", "casino", "rummy", "original"]
+  },
+  {
+    "id": 22,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14060,
+    "name": "Lantern Wealth",
+    "image": "14060_200x200_en.jpg",
+    "tag": ["slots", "original"]
+  },
+  {
+    "id": 23,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14059,
+    "name": "Marvelous Iv",
+    "image": "14059_200x200_en.jpg",
+    "tag": ["slots", "original"]
+  },
+  {
+    "id": 24,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14058,
+    "name": "Wonder Elephant",
+    "image": "14058_200x200_en.jpg",
+    "tag": ["slots", "original"]
+  },
+  {
+    "id": 25,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14055,
+    "name": "Kong",
+    "image": "14055_300x300_en.jpg",
+    "tag": ["slots", "original", "popular"]
+  },
+  {
+    "id": 26,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14054,
+    "name": "Lucky Diamond",
+    "image": "14054_200x200_en.jpg",
+    "tag": ["slots", "original", "popular"]
+  },
+  {
+    "id": 27,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14053,
+    "name": "Spindrift 2",
+    "image": "14053_200x200_en.png",
+    "tag": ["slots", "fishing", "popular"]
+  },
+  {
+    "id": 28,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14052,
+    "name": "Jungle Jungle",
+    "image": "14052_300x300_en.png",
+    "tag": ["slots", "popular"]
+  },
+  {
+    "id": 29,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14051,
+    "name": "Dragons Gate",
+    "image": "14051_200x200_en.png",
+    "tag": ["slots", "fishing"]
+  },
+  {
+    "id": 30,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14050,
+    "name": "Spindrift",
+    "image": "14050_200x200_en.png",
+    "tag": ["popular", "original"]
+  },
+  {
+    "id": 31,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14048,
+    "name": "Double Wilds",
+    "image": "14048_200x200_en.png",
+    "tag": ["popular", "original"]
+  },
+  {
+    "id": 32,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14047,
+    "name": "Moneybags Man",
+    "image": "14047_200x200_en.png",
+    "tag": ["slots", "original"]
+  },
+  {
+    "id": 33,
+    "game_provider": "SPRIBE",
+    "g_type": 22,
+    "m_type": 22005,
+    "name": "Mines",
+    "image": "22005_200x200_en.png",
+    "tag": ["popular", "popular_quick"]
+  },
+  {
+    "id": 34,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14045,
+    "name": "Super Niubi Deluxe",
+    "image": "14045_200x200_en.png",
+    "tag": ["casino", "popular"]
+  },
+  {
+    "id": 35,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14044,
+    "name": "Funky King Kong",
+    "image": "14044_200x200_en.png",
+    "tag": ["slots", "popular"]
+  },
+  {
+    "id": 36,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14043,
+    "name": "Golden Disco",
+    "image": "14043_200x200_en.png",
+    "tag": ["casino"]
+  },
+  {
+    "id": 37,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14042,
+    "name": "Treasure Bowl",
+    "image": "14042_200x200_en.png",
+    "tag": ["slots"]
+  },
+  {
+    "id": 38,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14041,
+    "name": "Mjolnir",
+    "image": "14041_200x200_en.png",
+    "tag": ["slots", "original"]
+  },
+  {
+    "id": 39,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14040,
+    "name": "Pirate Treasure",
+    "image": "14040_200x200_en.png",
+    "tag": ["slots", "original"]
+  },
+  {
+    "id": 40,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14039,
+    "name": "Fortune Treasure",
+    "image": "14039_200x200_en.png",
+    "tag": ["slots", "original"]
+  },
+  {
+    "id": 41,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14038,
+    "name": "Egypt Treasure",
+    "image": "14038_200x200_en.png",
+    "tag": ["slots", "original"]
+  },
+  {
+    "id": 1,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14091,
+    "name": "Piggy Bank",
+    "image": "14091_200x200_en.png",
+    "tag": ["popular", "slots"]
+  },
+  {
+    "id": 2,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14090,
+    "name": "Wealthway",
+    "image": "14090_200x200_en.png",
+    "tag": ["slots"]
+  },
+  {
+    "id": 3,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14089,
+    "name": "Dragon Soar",
+    "image": "14089_200x200_en.png",
+    "tag": ["slots"]
+  },
+  {
+    "id": 4,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14087,
+    "name": "Pop Pop Candy",
+    "image": "14087_200x200_en.png",
+    "tag": ["slots"]
+  },
+  {
+    "id": 5,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14086,
+    "name": "Open Sesame Mega",
+    "image": "14086_200x200_en.png",
+    "tag": ["slots"]
+  },
+  {
+    "id": 6,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14085,
+    "name": "Fruity Bonanza",
+    "image": "14085_200x200_en.png",
+    "tag": ["slots"]
+  },
+  {
+    "id": 7,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14084,
+    "name": "Caishen Coming",
+    "image": "14084_200x200_en.png",
+    "tag": ["popular", "slots"]
+  },
+  {
+    "id": 8,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14083,
+    "name": "Coocoo Farm",
+    "image": "14083_200x200_en.png",
+    "tag": ["popular", "slots"]
+  },
+  {
+    "id": 9,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14082,
+    "name": "Elemental Link Water",
+    "image": "14082_200x200_en.png",
+    "tag": ["popular", "slots"]
+  },
+  {
+    "id": 10,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14080,
+    "name": "Elemental Link Fire",
+    "image": "14080_200x200_en.png",
+    "tag": ["popular", "slots"]
+  },
+  {
+    "id": 11,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14081,
+    "name": "Birdsparty Deluxe",
+    "image": "14081_200x200_en.png",
+    "tag": ["slots"]
+  },
+  {
+    "id": 12,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14079,
+    "name": "Moneybags Man 2",
+    "image": "14079_200x200_en.png",
+    "tag": ["casino"]
+  },
+  {
+    "id": 13,
+    "game_provider": "SPRIBE",
+    "g_type": 22,
+    "m_type": 22004,
+    "name": "Plinko",
+    "image": "22004_200x200_en.png",
+    "tag": ["popular", "popular_quick"]
+  },
+  {
+    "id": 14,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14075,
+    "name": "Fortune Neko",
+    "image": "14075_200x200_en.png",
+    "tag": ["slots", "popular"]
+  },
+  {
+    "id": 15,
+    "game_provider": "SPRIBE",
+    "g_type": 22,
+    "m_type": 22002,
+    "name": "Dice",
+    "image": "22002_200x200_en.png",
+    "tag": ["popular", "popular_quick"]
+  },
+  {
+    "id": 16,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14068,
+    "name": "Prosperity Tiger",
+    "image": "14068_200x200_en.png",
+    "tag": ["slots"]
+  },
+  {
+    "id": 17,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14067,
+    "name": "Glamorous Girl",
+    "image": "14067_200x200_en.png",
+    "tag": ["slots"]
+  },
+  {
+    "id": 18,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14065,
+    "name": "Blossom Of Wealth",
+    "image": "14065_200x200_en.png",
+    "tag": ["slots", "popular"]
+  },
+  {
+    "id": 19,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14064,
+    "name": "Boom Fiesta",
+    "image": "14064_200x200_en.png",
+    "tag": ["slots", "popular"]
+  },
+  {
+    "id": 20,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14063,
+    "name": "Big Three Dragons",
+    "image": "14063_200x200_en.png",
+    "tag": ["slots", "casino", "rummy", "original"]
+  },
+  {
+    "id": 21,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14061,
+    "name": "Mayagold Crazy",
+    "image": "14061_200x200_en.jpg",
+    "tag": ["slots", "casino", "rummy", "original"]
+  },
+  {
+    "id": 22,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14060,
+    "name": "Lantern Wealth",
+    "image": "14060_200x200_en.jpg",
+    "tag": ["slots", "original"]
+  },
+  {
+    "id": 23,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14059,
+    "name": "Marvelous Iv",
+    "image": "14059_200x200_en.jpg",
+    "tag": ["slots", "original"]
+  },
+  {
+    "id": 24,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14058,
+    "name": "Wonder Elephant",
+    "image": "14058_200x200_en.jpg",
+    "tag": ["slots", "original"]
+  },
+  {
+    "id": 25,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14055,
+    "name": "Kong",
+    "image": "14055_300x300_en.jpg",
+    "tag": ["slots", "original", "popular"]
+  },
+  {
+    "id": 26,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14054,
+    "name": "Lucky Diamond",
+    "image": "14054_200x200_en.jpg",
+    "tag": ["slots", "original", "popular"]
+  },
+  {
+    "id": 27,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14053,
+    "name": "Spindrift 2",
+    "image": "14053_200x200_en.png",
+    "tag": ["slots", "fishing", "popular"]
+  },
+  {
+    "id": 28,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14052,
+    "name": "Jungle Jungle",
+    "image": "14052_300x300_en.png",
+    "tag": ["slots", "popular"]
+  },
+  {
+    "id": 29,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14051,
+    "name": "Dragons Gate",
+    "image": "14051_200x200_en.png",
+    "tag": ["slots", "fishing"]
+  },
+  {
+    "id": 30,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14050,
+    "name": "Spindrift",
+    "image": "14050_200x200_en.png",
+    "tag": ["popular", "original"]
+  },
+  {
+    "id": 31,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14048,
+    "name": "Double Wilds",
+    "image": "14048_200x200_en.png",
+    "tag": ["popular", "original"]
+  },
+  {
+    "id": 32,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14047,
+    "name": "Moneybags Man",
+    "image": "14047_200x200_en.png",
+    "tag": ["slots", "original"]
+  },
+  {
+    "id": 34,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14045,
+    "name": "Super Niubi Deluxe",
+    "image": "14045_200x200_en.png",
+    "tag": ["casino", "popular"]
+  },
+  {
+    "id": 35,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14044,
+    "name": "Funky King Kong",
+    "image": "14044_200x200_en.png",
+    "tag": ["slots", "popular"]
+  },
+  {
+    "id": 36,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14043,
+    "name": "Golden Disco",
+    "image": "14043_200x200_en.png",
+    "tag": ["casino"]
+  },
+  {
+    "id": 37,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14042,
+    "name": "Treasure Bowl",
+    "image": "14042_200x200_en.png",
+    "tag": ["slots"]
+  },
+  {
+    "id": 38,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14041,
+    "name": "Mjolnir",
+    "image": "14041_200x200_en.png",
+    "tag": ["slots", "original"]
+  },
+  {
+    "id": 39,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14040,
+    "name": "Pirate Treasure",
+    "image": "14040_200x200_en.png",
+    "tag": ["slots", "original"]
+  },
+  {
+    "id": 40,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14039,
+    "name": "Fortune Treasure",
+    "image": "14039_200x200_en.png",
+    "tag": ["slots", "original"]
+  },
+  {
+    "id": 41,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14038,
+    "name": "Egypt Treasure",
+    "image": "14038_200x200_en.png",
+    "tag": ["slots", "original"]
+  },
+  {
+    "id": 1,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14091,
+    "name": "Piggy Bank",
+    "image": "14091_200x200_en.png",
+    "tag": ["popular", "slots"]
+  },
+  {
+    "id": 2,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14090,
+    "name": "Wealthway",
+    "image": "14090_200x200_en.png",
+    "tag": ["slots"]
+  },
+  {
+    "id": 3,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14089,
+    "name": "Dragon Soar",
+    "image": "14089_200x200_en.png",
+    "tag": ["slots"]
+  },
+  {
+    "id": 4,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14087,
+    "name": "Pop Pop Candy",
+    "image": "14087_200x200_en.png",
+    "tag": ["slots"]
+  },
+  {
+    "id": 5,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14086,
+    "name": "Open Sesame Mega",
+    "image": "14086_200x200_en.png",
+    "tag": ["slots"]
+  },
+  {
+    "id": 6,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14085,
+    "name": "Fruity Bonanza",
+    "image": "14085_200x200_en.png",
+    "tag": ["slots"]
+  },
+  {
+    "id": 7,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14084,
+    "name": "Caishen Coming",
+    "image": "14084_200x200_en.png",
+    "tag": ["popular", "slots"]
+  },
+  {
+    "id": 8,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14083,
+    "name": "Coocoo Farm",
+    "image": "14083_200x200_en.png",
+    "tag": ["popular", "slots"]
+  },
+  {
+    "id": 9,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14082,
+    "name": "Elemental Link Water",
+    "image": "14082_200x200_en.png",
+    "tag": ["popular", "slots"]
+  },
+  {
+    "id": 10,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14080,
+    "name": "Elemental Link Fire",
+    "image": "14080_200x200_en.png",
+    "tag": ["popular", "slots"]
+  },
+  {
+    "id": 11,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14081,
+    "name": "Birdsparty Deluxe",
+    "image": "14081_200x200_en.png",
+    "tag": ["slots"]
+  },
+  {
+    "id": 12,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14079,
+    "name": "Moneybags Man 2",
+    "image": "14079_200x200_en.png",
+    "tag": ["casino"]
+  },
+  {
+    "id": 13,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14077,
+    "name": "Trump Card",
+    "image": "14077_200x200_en.png",
+    "tag": ["casino", "popular_quick"]
+  },
+  {
+    "id": 14,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14075,
+    "name": "Fortune Neko",
+    "image": "14075_200x200_en.png",
+    "tag": ["slots", "popular"]
+  },
+  {
+    "id": 15,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14070,
+    "name": "Book Of Mystery",
+    "image": "14070_200x200_en.png",
+    "tag": ["slots", "popular", "popular_quick"]
+  },
+  {
+    "id": 16,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14068,
+    "name": "Prosperity Tiger",
+    "image": "14068_200x200_en.png",
+    "tag": ["slots"]
+  },
+  {
+    "id": 17,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14067,
+    "name": "Glamorous Girl",
+    "image": "14067_200x200_en.png",
+    "tag": ["slots"]
+  },
+  {
+    "id": 18,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14065,
+    "name": "Blossom Of Wealth",
+    "image": "14065_200x200_en.png",
+    "tag": ["slots", "popular"]
+  },
+  {
+    "id": 19,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14064,
+    "name": "Boom Fiesta",
+    "image": "14064_200x200_en.png",
+    "tag": ["slots", "popular"]
+  },
+  {
+    "id": 20,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14063,
+    "name": "Big Three Dragons",
+    "image": "14063_200x200_en.png",
+    "tag": ["slots", "casino", "rummy", "original"]
+  },
+  {
+    "id": 21,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14061,
+    "name": "Mayagold Crazy",
+    "image": "14061_200x200_en.jpg",
+    "tag": ["slots", "casino", "rummy", "original"]
+  },
+  {
+    "id": 22,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14060,
+    "name": "Lantern Wealth",
+    "image": "14060_200x200_en.jpg",
+    "tag": ["slots", "original"]
+  },
+  {
+    "id": 23,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14059,
+    "name": "Marvelous Iv",
+    "image": "14059_200x200_en.jpg",
+    "tag": ["slots", "original"]
+  },
+  {
+    "id": 24,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14058,
+    "name": "Wonder Elephant",
+    "image": "14058_200x200_en.jpg",
+    "tag": ["slots", "original"]
+  },
+  {
+    "id": 25,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14055,
+    "name": "Kong",
+    "image": "14055_300x300_en.jpg",
+    "tag": ["slots", "original", "popular"]
+  },
+  {
+    "id": 26,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14054,
+    "name": "Lucky Diamond",
+    "image": "14054_200x200_en.jpg",
+    "tag": ["slots", "original", "popular"]
+  },
+  {
+    "id": 27,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14053,
+    "name": "Spindrift 2",
+    "image": "14053_200x200_en.png",
+    "tag": ["slots", "fishing", "popular"]
+  },
+  {
+    "id": 28,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14052,
+    "name": "Jungle Jungle",
+    "image": "14052_300x300_en.png",
+    "tag": ["slots", "popular"]
+  },
+  {
+    "id": 29,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14051,
+    "name": "Dragons Gate",
+    "image": "14051_200x200_en.png",
+    "tag": ["slots", "fishing"]
+  },
+  {
+    "id": 30,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14050,
+    "name": "Spindrift",
+    "image": "14050_200x200_en.png",
+    "tag": ["popular", "original"]
+  },
+  {
+    "id": 31,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14048,
+    "name": "Double Wilds",
+    "image": "14048_200x200_en.png",
+    "tag": ["popular", "original"]
+  },
+  {
+    "id": 32,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14047,
+    "name": "Moneybags Man",
+    "image": "14047_200x200_en.png",
+    "tag": ["slots", "original"]
+  },
+  {
+    "id": 33,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14046,
+    "name": "Miner Babe",
+    "image": "14046_200x200_en.png",
+    "tag": ["slots", "popular_quick"]
+  },
+  {
+    "id": 34,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14045,
+    "name": "Super Niubi Deluxe",
+    "image": "14045_200x200_en.png",
+    "tag": ["casino", "popular"]
+  },
+  {
+    "id": 35,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14044,
+    "name": "Funky King Kong",
+    "image": "14044_200x200_en.png",
+    "tag": ["slots", "popular"]
+  },
+  {
+    "id": 36,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14043,
+    "name": "Golden Disco",
+    "image": "14043_200x200_en.png",
+    "tag": ["casino"]
+  },
+  {
+    "id": 37,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14042,
+    "name": "Treasure Bowl",
+    "image": "14042_200x200_en.png",
+    "tag": ["slots"]
+  },
+  {
+    "id": 38,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14041,
+    "name": "Mjolnir",
+    "image": "14041_200x200_en.png",
+    "tag": ["slots", "original"]
+  },
+  {
+    "id": 39,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14040,
+    "name": "Pirate Treasure",
+    "image": "14040_200x200_en.png",
+    "tag": ["slots", "original"]
+  },
+  {
+    "id": 40,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14039,
+    "name": "Fortune Treasure",
+    "image": "14039_200x200_en.png",
+    "tag": ["slots", "original"]
+  },
+  {
+    "id": 41,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14038,
+    "name": "Egypt Treasure",
+    "image": "14038_200x200_en.png",
+    "tag": ["slots", "original"]
+  },
+  {
+    "id": 42,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14036,
+    "name": "Super Niubi",
+    "image": "14036_200x200_en.png",
+    "tag": ["slots", "original"]
+  },
+  {
+    "id": 43,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14035,
+    "name": "Dragons World",
+    "image": "14035_200x200_en.png",
+    "tag": ["slots", "original"]
+  },
+  {
+    "id": 44,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14034,
+    "name": "Go Lai Fu",
+    "image": "14034_200x200_en.png",
+    "tag": ["slots", "casino"]
+  },
+  {
+    "id": 45,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14033,
+    "name": "Birds Party",
+    "image": "14033_200x200_en.png",
+    "tag": ["slots", "original"]
+  },
+  {
+    "id": 46,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14030,
+    "name": "Triple King Kong",
+    "image": "14030_200x200_Promo_en.png",
+    "tag": ["slots", "casino"]
+  },
+  {
+    "id": 47,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14029,
+    "name": "Orient Animals",
+    "image": "14029_200x200_en.png",
+    "tag": ["slots", "original"]
+  },
+  {
+    "id": 48,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14027,
+    "name": "Lucky Seven",
+    "image": "14027_199x199_en.png",
+    "tag": ["slots", "original"]
+  },
+  {
+    "id": 49,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14025,
+    "name": "Lucky Racing",
+    "image": "14025_199x199_en.png",
+    "tag": ["popular_quick", "original"]
+  },
+  {
+    "id": 50,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14022,
+    "name": "Mining Upstart",
+    "image": "14022_199x199_en.png",
+    "tag": ["popular", "original"]
+  },
+  {
+    "id": 51,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14021,
+    "name": "Rolling In Money",
+    "image": "14021_199x199_en.png",
+    "tag": ["popular", "original"]
+  },
+  {
+    "id": 52,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14018,
+    "name": "Daji",
+    "image": "14018_199x199_en.png",
+    "tag": ["popular", "original"]
+  },
+  {
+    "id": 53,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14016,
+    "name": "Kingsman",
+    "image": "14016_200x200_Promo_en.png",
+    "tag": ["popular", "original"]
+  },
+  {
+    "id": 54,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14012,
+    "name": "Street Fighter",
+    "image": "14012_199x199_en.png",
+    "tag": ["popular", "original"]
+  },
+  {
+    "id": 55,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14010,
+    "name": "Dragon",
+    "image": "14010_199x199_en.png",
+    "tag": ["popular", "original"]
+  },
+  {
+    "id": 56,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14008,
+    "name": "Dragon Warrior",
+    "image": "14008_199x199_en.png",
+    "tag": ["original", "slots"]
+  },
+  {
+    "id": 57,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14007,
+    "name": "One Punch Man",
+    "image": "14007_199x199_en.png",
+    "tag": ["original", "slots"]
+  },
+  {
+    "id": 58,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14006,
+    "name": "Billionaire",
+    "image": "14006_300x300_en.png",
+    "tag": ["original", "slots"]
+  },
+  {
+    "id": 59,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 14005,
+    "name": "Mr. Bao",
+    "image": "14005_199x199_en.png",
+    "tag": ["original", "slots"]
+  },
+  {
+    "id": 61,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 15012,
+    "name": "Legendary 5",
+    "image": "15012_199x199_en.png",
+    "tag": ["original", "slots"]
+  },
+  {
+    "id": 62,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 15010,
+    "name": "Chef Panda",
+    "image": "15010_199x199_en.png",
+    "tag": ["original", "slots"]
+  },
+  {
+    "id": 63,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 15005,
+    "name": "Lucky Fuwa",
+    "image": "15005_199x199_en.png",
+    "tag": ["original", "slots"]
+  },
+  {
+    "id": 64,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 15002,
+    "name": "Monkey King",
+    "image": "15002_199x199_en.png",
+    "tag": ["original", "slots"]
+  },
+  {
+    "id": 65,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 15001,
+    "name": "Rooster In Love",
+    "image": "15001_199x199_en.png",
+    "tag": ["original", "slots"]
+  },
+  {
+    "id": 66,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 8051,
+    "name": "Xi Yang Yang",
+    "image": "8051_200x200_en.png",
+    "tag": ["original", "slots"]
+  },
+  {
+    "id": 67,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 8050,
+    "name": "Fortune Horse",
+    "image": "8050_200x200_en.png",
+    "tag": ["popular", "original"]
+  },
+  {
+    "id": 68,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 8049,
+    "name": "Flirting Scholar Tang Ii",
+    "image": "8049_199x199_en.png",
+    "tag": ["popular", "original"]
+  },
+  {
+    "id": 69,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 8048,
+    "name": "Open Sesameii",
+    "image": "8048_200x200_Promo_en.png",
+    "tag": ["original"]
+  },
+  {
+    "id": 70,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 8047,
+    "name": "Winning Mask Ii",
+    "image": "8047_199x199_en.png",
+    "tag": ["original"]
+  },
+  {
+    "id": 71,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 8046,
+    "name": "Guan Gong",
+    "image": "8046_199x199_en.png",
+    "tag": ["original"]
+  },
+  {
+    "id": 72,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 8044,
+    "name": "Beauty And The Kingdom",
+    "image": "8044_199x199_en.png",
+    "tag": ["original"]
+  },
+  {
+    "id": 73,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 8035,
+    "name": "Lucky Phoenix",
+    "image": "8044_199x199_en.png",
+    "tag": ["original"]
+  },
+  {
+    "id": 74,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 8028,
+    "name": "Lucky Miner",
+    "image": "8028_199x199_en.png",
+    "tag": ["original"]
+  },
+  {
+    "id": 75,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 8023,
+    "name": "Olympian Temple",
+    "image": "8023_199x199_en.png",
+    "tag": ["original"]
+  },
+  {
+    "id": 76,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 8022,
+    "name": "Mahjong",
+    "image": "8022_199x199_en.png",
+    "tag": ["original"]
+  },
+  {
+    "id": 77,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 8021,
+    "name": "Banana Saga",
+    "image": "8021_199x199_en.png",
+    "tag": ["original"]
+  },
+  {
+    "id": 78,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 8020,
+    "name": "Open Sesame",
+    "image": "8020_200x200_Promo_en.png",
+    "tag": ["original"]
+  },
+  {
+    "id": 79,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 8019,
+    "name": "Four Treasures",
+    "image": "8019_199x199_en.png",
+    "tag": ["original"]
+  },
+  {
+    "id": 80,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 8018,
+    "name": "Napoleon",
+    "image": "8018_199x199_en.png",
+    "tag": ["original"]
+  },
+  {
+    "id": 81,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 8017,
+    "name": "New Year",
+    "image": "8017_199x199_en.png",
+    "tag": ["original"]
+  },
+  {
+    "id": 82,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 8015,
+    "name": "Moonlight Treasure",
+    "image": "8015_300x300_en.png",
+    "tag": ["original"]
+  },
+  {
+    "id": 83,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 8014,
+    "name": "Lucky Lion",
+    "image": "8014_199x199_en.png",
+    "tag": ["original"]
+  },
+  {
+    "id": 84,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 8007,
+    "name": "Lucky Qilin",
+    "image": "8007_199x199_en.png",
+    "tag": ["original"]
+  },
+  {
+    "id": 85,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 8006,
+    "name": "Formosa Bear",
+    "image": "8006_199x199_en.png",
+    "tag": ["original"]
+  },
+  {
+    "id": 86,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 8005,
+    "name": "The Llama Adventure",
+    "image": "8005_199x199_en.png",
+    "tag": ["original"]
+  },
+  {
+    "id": 87,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 8004,
+    "name": "Wukong",
+    "image": "8004_199x199_en.png",
+    "tag": ["original"]
+  },
+  {
+    "id": 87,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 8003,
+    "name": "Winning Mask",
+    "image": "8003_200x200_Promo_en.png",
+    "tag": ["original"]
+  },
+  {
+    "id": 88,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 8002,
+    "name": "Flirting Scholar Tang",
+    "image": "8002_199x199_en.png",
+    "tag": ["original"]
+  },
+  {
+    "id": 89,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 8001,
+    "name": "Lucky Dragons",
+    "image": "8001_199x199_en.png",
+    "tag": ["original"]
+  },
+  {
+    "id": 89,
+    "game_provider": "JDB",
+    "g_type": 0,
+    "m_type": 8001,
+    "name": "Lucky Dragons",
+    "image": "8001_199x199_en.png",
+    "tag": ["original"]
+  }
+]

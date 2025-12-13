@@ -1,0 +1,1209 @@
+<!doctype html>
+<html translate="no" data-dpr="1" style="font-size: 37.52px">
+
+<head>
+   <meta charset="utf-8" />
+   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+   <meta name="robots" content="noindex,nofollow" />
+   <meta content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no" name="viewport" />
+   <title>GOA EXCH</title>
+   <script src="/js/block.js"></script>
+   <link rel="stylesheet" href="/5d/css/chunk3.css" />
+   <link rel="stylesheet" href="/5d/css/main.css" />
+   <link rel="stylesheet" href="/5d/css/chunk1.css" />
+   <link rel="stylesheet" href="/5d/css/chunk2.css" />
+   <link rel="stylesheet" href="/css/bet/wingo/chunk-4e7d3985.25c9d2c0.css" />
+   <link rel="shortcut icon" href="/favicon.png" type="image/x-icon" />
+   <style>
+      html,
+      body {
+         height: 100%;
+         width: 100%;
+         background-color: #9195a3;
+         padding: 0;
+         margin: 0;
+      }
+
+      .slot-column {
+         margin-right: 0 !important;
+      }
+
+      .block-click {
+         pointer-events: none;
+      }
+
+      #result {
+         display: none;
+      }
+
+      .display-none {
+         display: none;
+      }
+
+      .navbar[data-v-19888208] {
+         height: 0px !important;
+         margin-top: -3px;
+      }
+
+      .game-betting[data-v-42f27458] {
+         margin-top: 0rem;
+      }
+   </style>
+   <link rel="stylesheet" href="/assets/css/modules-8b01ca49.css" />
+   <link rel="stylesheet" href="/assets/css/page-activity-9da3f4e3.css" />
+   <link rel="stylesheet" href="/assets/css/page-home-482c7bbf.css" />
+   <link rel="stylesheet" href="/assets/css/index-8560823f.css" />
+   <link rel="stylesheet" href="/assets/css/reset-910da13b.css" />
+   <link rel="stylesheet" href="/assets/css/modules-5dd73da0.css">
+   <link rel="stylesheet" href="/assets/css/page-activity-a00a89c0.css">
+   <link rel="stylesheet" href="/assets/css/index-f3f1dfe8.css">
+   <link rel="stylesheet" href="/assets/css/page-home-3eb4d423.css">
+
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+   <script src="https://cdn.socket.io/4.4.1/socket.io.min.js"
+      integrity="sha384-fKnu0iswBIqkjxrhQCTZ7qlLHOFEgNkRmK2vaO/LbTZSXdJfAu6ewRBdwHPhBo/H"
+      crossorigin="anonymous"></script>
+</head>
+
+<body style="font-size: 12px">
+   <div id="app">
+      <div data-v-f1b3a9ec class="FD__C" style="--76181987: 'Roboto', 'Inter', sans-serif">
+         <div data-v-42f27458="" class="mian game">
+            <!-- <div data-v-106b99c8="" data-v-42f27458="" class="navbar">
+          <div data-v-106b99c8="" class="navbar-left" onclick='location.href="/home"'>
+            <div data-v-42f27458="" data-v-106b99c8="" class="c-row c-row-middle-center">
+              <img data-v-42f27458="" data-v-106b99c8="" src="/images/back.c3244ab0.png" class="navbar-back">
+            </div>
+          </div>
+          <div data-v-106b99c8="" class="navbar-title">
+            <div data-v-42f27458="" data-v-106b99c8="" class="c-row c-row-middle-center">
+              <h4>5D</h4>
+            </div>
+          </div>
+          <div data-v-106b99c8="" class="navbar-right">
+            <div data-v-42f27458="" data-v-106b99c8="" class="c-row navbarR">
+              <div data-v-42f27458="" data-v-106b99c8="" class="c-row item c-row-middle-center"
+                onclick="location.href='/keFuMenu'">
+                <img data-v-42f27458="" data-v-106b99c8="" src="/images/audio.webp" class="item-audio">
+              </div>
+              <div data-v-42f27458="" data-v-106b99c8="" class="c-row item c-row-middle-center">
+                <img data-v-42f27458="" data-v-106b99c8="" src="/images/volume-up-line.webp" class="item-volume">
+              </div>
+            </div>
+          </div>
+        </div> -->
+            <div data-v-19888208="" data-v-40958d9a="" class="navbar">
+               <div data-v-19888208="" class="navbar-fixed wc"
+                  style="background: linear-gradient(90deg, rgb(177, 131, 90) 0%, rgb(217, 173, 130) 100%)">
+                  <div data-v-19888208="" class="navbar__content">
+                     <div data-v-19888208="" class="navbar__content-left" onclick="history.back()">
+                        <div data-v-40958d9a="" class="arrow-left"></div>
+                     </div>
+                     <div data-v-19888208="" class="navbar__content-center">
+                        <div data-v-19888208="" class="headLogo"
+                           style="background-image: url('/h5setting_202308141709544lm1.png')"></div>
+                        <div data-v-19888208="" class="navbar__content-title"></div>
+                     </div>
+                     <div data-v-19888208="" class="navbar__content-right">
+                        <div data-v-40958d9a="" class="WinGo__C-head-more">
+                           <div data-v-40958d9a="" onclick="location.href = '/support'"></div>
+                           <div data-v-40958d9a="" class="" id="audio_button"></div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div data-v-7dd1adab="" data-v-40958d9a="" class="Wallet__C">
+   <div data-v-7dd1adab="" class="Wallet__C-balance">
+      <div data-v-7dd1adab="" class="Wallet__C-balance-l1 reload_money">
+         <div data-v-7dd1adab="" id="balance_amount">₹ Loading...</div>
+      </div>
+      <div data-v-7dd1adab="" class="Wallet__C-balance-l2">
+         <div data-v-7dd1adab="">Wallet balance</div>
+      </div>
+      <div data-v-7dd1adab="" class="Wallet__C-balance-l3">
+         <div data-v-7dd1adab="" onclick="location.href='/wallet/withdrawal'">Withdraw</div>
+         <div data-v-7dd1adab="" onclick="location.href='/wallet/recharge'">Deposit</div>
+      </div>
+   </div>
+</div>
+
+<div data-v-b3a5ca79="" data-v-40958d9a="" class="noticeBar__container" style="--04aba014: linear-gradient(360deg, #f54545 20.19%, #fe6868 100%)">
+   <!---->
+   <div data-v-b3a5ca79="" class="noticeBar__container-body">
+      <div data-v-b3a5ca79="" class="noticeBar__container-body-text">Hello, withdrawals typically take 1-2 hours to process. We appreciate your patience and request that you wait for the status success before attempting to access your bank or e-wallet. Happy gaming!</div>
+   </div>
+   <button data-v-b3a5ca79="">Detail</button>
+</div>
+ <div data-v-42f27458="" class="game-betting">
+  <!-- <div data-v-42f27458="" class="tab">
+    <div data-v-42f27458="" class="box c-row" id="game-join">
+      <div data-v-42f27458="" game="1" class="item c-tc action block-click">
+        <div data-v-42f27458="" class="circular c-row c-row-middle-center c-tc"><span data-v-42f27458=""
+            class="li">?</span></div>
+        <div data-v-42f27458="" class="img c-row c-row-center p-b-10">
+          <div data-v-42f27458="" class="van-image" style="width: 50px; height: 50px;"><img
+              src="/images//images/360_F_331298353_73gUe2q6b36bwaCv1EDAHxbToOlUYZRV.jpg" class="van-image__img"></div>
+          <div data-v-42f27458="" class="van-image" style="width: 50px; height: 50px; display: none;"><img
+              src="/images/3-minutes-timer-stopwatch-countdown-260nw-1676521363.png" class="van-image__img"></div><i
+            data-v-42f27458="" class="triangle"></i>
+        </div>
+        <div data-v-42f27458="" class="txt c-tc">1 min</div>
+      </div>
+      <div data-v-42f27458="" game="3" class="item c-tc">
+        <div data-v-42f27458="" class="circular c-row c-row-middle-center c-tc"><span data-v-42f27458=""
+            class="li">?</span></div>
+        <div data-v-42f27458="" class="img c-row c-row-center p-b-10">
+          <div data-v-42f27458="" class="van-image" style="width: 50px; height: 50px; display: none;"><img
+              src="/images//images/360_F_331298353_73gUe2q6b36bwaCv1EDAHxbToOlUYZRV.jpg" class="van-image__img"></div>
+          <div data-v-42f27458="" class="van-image" style="width: 50px; height: 50px;"><img
+              src="/images/3-minutes-timer-stopwatch-countdown-260nw-1676521363.png" class="van-image__img"></div><i
+            data-v-42f27458="" class="triangle"></i>
+        </div>
+        <div data-v-42f27458="" class="txt c-tc">3 min</div>
+      </div>
+      <div data-v-42f27458="" game="5" class="item c-tc">
+        <div data-v-42f27458="" class="circular c-row c-row-middle-center c-tc"><span data-v-42f27458=""
+            class="li">?</span></div>
+        <div data-v-42f27458="" class="img c-row c-row-center p-b-10">
+          <div data-v-42f27458="" class="van-image" style="width: 50px; height: 50px; display: none;"><img
+              src="/images//images/360_F_331298353_73gUe2q6b36bwaCv1EDAHxbToOlUYZRV.jpg" class="van-image__img"></div>
+          <div data-v-42f27458="" class="van-image" style="width: 50px; height: 50px;"><img
+              src="/images/d88438c4f4c8e18410e7d163613fd655.png" class="van-image__img"></div><i data-v-42f27458=""
+            class="triangle"></i>
+        </div>
+        <div data-v-42f27458="" class="txt c-tc">5 min</div>
+      </div>
+      <div data-v-42f27458="" game="10" class="item c-tc">
+        <div data-v-42f27458="" class="circular c-row c-row-middle-center c-tc"><span data-v-42f27458=""
+            class="li">?</span></div>
+        <div data-v-42f27458="" class="img c-row c-row-center p-b-10">
+          <div data-v-42f27458="" class="van-image" style="width: 50px; height: 50px; display: none;"><img
+              src="/images//images/360_F_331298353_73gUe2q6b36bwaCv1EDAHxbToOlUYZRV.jpg" class="van-image__img"></div>
+          <div data-v-42f27458="" class="van-image" style="width: 50px; height: 50px;"><img
+              src="/images/3-minutes-timer-stopwatch-countdown-260nw-1676521363.png" class="van-image__img"></div><i
+            data-v-42f27458="" class="triangle"></i>
+        </div>
+        <div data-v-42f27458="" class="txt c-tc">10 min</div>
+      </div>
+    </div>
+  </div> -->
+  <!-- <style>
+    .main_tab {
+      /* padding: 0px; */
+      /* width: 100%; */
+      /* background: #fff; */
+      margin-left: 10px;
+      margin-right: 10px;
+      border-radius: 12px;
+    }
+
+    .clock_tabs {
+      display: flex;
+      justify-content: space-between;
+      gap: 4px;
+      width: 100%;
+      padding: 2px 3px;
+    }
+
+    .clock_tab {
+      background-color: rgb(253 240 208);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      width: auto;
+      height: 64px;
+      gap: 4px;
+      border-radius: 12px;
+      padding: 0px 15px;
+      color: black;
+      box-shadow: 1px 0px 12px #00000012;
+    }
+
+    .blue {
+      background-color: rgb(227 236 251);
+    }
+
+    .red {
+      background-color: rgb(255 238 244);
+    }
+
+    .green {
+      background-color: rgb(210 243 250);
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    .clock_tab img {
+      width: 38px;
+    }
+
+    .clock_tab .text {
+      font-weight: 600;
+      font-size: 11px;
+    }
+  </style>
+  <div data-v-a9660e98="" class="main_tab">
+    <div data-v-a9660e98="" class="clock_tabs">
+      <div data-v-a9660e98="" class="clock_tab" onclick="location.href='/5d?game_type=1'">
+        <img data-v-a9660e98="" src="/games_assets/clock_1.png" />
+        <p data-v-a9660e98="" class="text">
+          <span>1MIN</span>
+        </p>
+      </div>
+      <div data-v-a9660e98="" class="clock_tab blue" onclick="location.href='/5d?game_type=3'">
+        <img data-v-a9660e98="" src="/games_assets/clock_3.png" />
+        <p data-v-a9660e98="" class="text">
+          <span>3MIN</span>
+        </p>
+      </div>
+      <div data-v-a9660e98="" class="clock_tab red" onclick="location.href='/5d?game_type=5'">
+        <img data-v-a9660e98="" src="/games_assets/clock_5.png" />
+        <p data-v-a9660e98="" class="text">
+          <span>5MIN</span>
+        </p>
+      </div>
+      <div data-v-a9660e98="" class="clock_tab green" onclick="location.href='/5d?game_type=10'">
+        <img data-v-a9660e98="" src="/games_assets/clock_10.png" />
+        <p data-v-a9660e98="" class="text">
+          <span>10MIN</span>
+        </p>
+      </div>
+    </div>
+  </div> -->
+
+  <!-- <div data-v-b108ab4b="" data-v-40958d9a="" class="GameList__C">
+    <div data-v-b108ab4b="" class="GameList__C-item min_t_1" onclick="location.href='/5d/?game_type=1'">
+      <div data-v-b108ab4b="">5d 1Min</div>
+    </div>
+    <div data-v-b108ab4b="" class="GameList__C-item min_t_3" onclick="location.href='/5d/?game_type=3'">
+      <div data-v-b108ab4b="">5d 3Min</div>
+    </div>
+    <div data-v-b108ab4b="" class="GameList__C-item min_t_5" onclick="location.href='/5d/?game_type=5'">
+      <div data-v-b108ab4b="">5d 5Min</div>
+    </div>
+    <div data-v-b108ab4b="" class="GameList__C-item min_t_10" onclick="location.href='/5d/?game_type=10'">
+      <div data-v-b108ab4b="">5d 10Min</div>
+    </div>
+  </div> -->
+
+  <div data-v-17d56002="" data-v-4f526022="" class="GameList__C">
+    <div data-v-17d56002="" class="GameList__C-item min_t_1" onclick="location.href='/5d/?game_type=1'">
+      <div data-v-17d56002="">5D Lotre<br>1Min</div>
+    </div>
+    <div data-v-17d56002="" class="GameList__C-item min_t_3" onclick="location.href='/5d/?game_type=3'">
+      <div data-v-17d56002="">5D Lotre<br>3Min</div>
+    </div>
+    <div data-v-17d56002="" class="GameList__C-item min_t_5" onclick="location.href='/5d/?game_type=5'">
+      <div data-v-17d56002="">5D Lotre<br>5Min</div>
+    </div>
+    <div data-v-17d56002="" class="GameList__C-item min_t_10" onclick="location.href='/5d/?game_type=10'">
+      <div data-v-17d56002="">5D Lotre<br>10Min</div>
+    </div>
+  </div>
+
+  <script>
+    let selectedPageTime = Number(new URLSearchParams(window.location.search).get('game_type'))
+    console.log(selectedPageTime)
+    switch (selectedPageTime) {
+      case 1:
+        document.querySelector(".min_t_1").classList.add("active")
+        break;
+      case 3:
+        document.querySelector(".min_t_3").classList.add("active")
+        break;
+      case 5:
+        document.querySelector(".min_t_5").classList.add("active")
+        break;
+      case 10:
+        document.querySelector(".min_t_10").classList.add("active")
+        break;
+      default:
+        document.querySelector(".min_t_1").classList.add("active")
+        break;
+    }
+
+  </script>
+
+
+
+  <div data-v-42f27458="" class="content">
+    <div data-v-42f27458="" class="page-box">
+      <div data-v-42f27458="" class="last-round flex-row-between flex-center"><span data-v-42f27458="">Lottery Result
+        </span>
+        <div data-v-42f27458="" class="round-num">
+          <div data-v-42f27458="" class="num-scroll-box">
+            <div data-v-42f27458="" class="fade-item">0</div>
+          </div>
+          <div data-v-42f27458="" class="word-index">A</div>
+        </div>
+        <div data-v-42f27458="" class="round-num">
+          <div data-v-42f27458="" class="num-scroll-box">
+            <div data-v-42f27458="" class="fade-item">0</div>
+          </div>
+          <div data-v-42f27458="" class="word-index">B</div>
+        </div>
+        <div data-v-42f27458="" class="round-num">
+          <div data-v-42f27458="" class="num-scroll-box">
+            <div data-v-42f27458="" class="fade-item">0</div>
+          </div>
+          <div data-v-42f27458="" class="word-index">C</div>
+        </div>
+        <div data-v-42f27458="" class="round-num">
+          <div data-v-42f27458="" class="num-scroll-box">
+            <div data-v-42f27458="" class="fade-item">0</div>
+          </div>
+          <div data-v-42f27458="" class="word-index">D</div>
+        </div>
+        <div data-v-42f27458="" class="round-num">
+          <div data-v-42f27458="" class="num-scroll-box">
+            <div data-v-42f27458="" class="fade-item">0</div>
+          </div>
+          <div data-v-42f27458="" class="word-index">E</div>
+        </div>
+        <div data-v-42f27458="">=</div>
+        <div data-v-42f27458="" class="round-num red">
+          <div data-v-42f27458="" class="num-scroll-box">
+            <div data-v-42f27458="" class="fade-item" id="total_r">0</div>
+          </div>
+        </div>
+      </div>
+      <!-- <div data-v-42f27458="" class="flex-row-between period-title"><span data-v-42f27458=""> Draw</span><span
+          data-v-42f27458=""> Left Time</span></div>
+      <div data-v-42f27458="" class="flex-row-between flex-center period-span"><span data-v-42f27458=""
+          id="period">0</span>
+        <div data-v-42f27458="" class="flex-row-end">
+          <div data-v-42f27458="" class="li-item">0</div>
+          <div data-v-42f27458="" class="li-item">0</div><span data-v-42f27458="" class="li-symbol">:</span>
+          <div data-v-42f27458="" class="li-item">0</div>
+          <div data-v-42f27458="" class="li-item">0</div>
+        </div>
+      </div> -->
+      <!-- <div data-v-a9660e98="" class="time-box c-row c-row-between m-b-10">
+        <div data-v-a9660e98="" class="info">
+          <div data-v-a9660e98="" class="txt one_min_t" id="game_type_status">1 MIN</div>
+          <div data-v-a9660e98="" class="number" id="period">Loading...</div>
+        </div>
+        <div data-v-a9660e98="" class="out">
+          <div data-v-a9660e98="" class="txt">Time Left</div>
+          <div data-v-a9660e98="" class="number c-row c-row-middle c-flew-end">
+            <div data-v-a9660e98="" class="item count_down_d">0</div>
+            <div data-v-a9660e98="" class="item count_down_d">0</div>
+            <div data-v-a9660e98="" class="item c-row c-row-middle">:</div>
+            <div data-v-a9660e98="" class="item count_down_d">0</div>
+            <div data-v-a9660e98="" class="item count_down_d">0</div>
+          </div>
+        </div>
+      </div> -->
+
+      <div data-v-50bb39bb="" class="FDTL__C">
+        <div data-v-50bb39bb="" class="FDTL__C-l1">
+          <div data-v-50bb39bb="" class="left">
+            <div data-v-50bb39bb="">Period</div>
+            <div data-v-50bb39bb="" class="FDTL__C-rule">How to play</div>
+          </div>
+          <div data-v-50bb39bb="">Time remaining</div>
+        </div>
+        <div data-v-50bb39bb="" class="FDTL__C-l2">
+          <div data-v-50bb39bb="" id="period">20240524051320</div>
+          <div data-v-50bb39bb="" class="FDTL__C-time">
+            <div data-v-50bb39bb="" class="count_down_d">0</div>
+            <div data-v-50bb39bb="" class="count_down_d">0</div>
+            <div data-v-50bb39bb="" notime="">:</div>
+            <div data-v-50bb39bb="" class="count_down_d">0</div>
+            <div data-v-50bb39bb="" class="count_down_d">1</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div data-v-42f27458="" style="text-align: center;margin-top: -15px;">
+      <div data-v-42f27458="" class="slot-inner">
+        <div data-v-42f27458="" class="d5-slot-box">
+          <div data-v-42f27458="" class="slot-column">
+            <div data-v-42f27458="" class="slot-transform transform0">
+              <div data-v-42f27458="" num="1" class="slot-num">1</div>
+              <div data-v-42f27458="" num="2" class="slot-num">2</div>
+              <div data-v-42f27458="" num="3" class="slot-num">0</div>
+              <div data-v-42f27458="" class="slot-num">1</div>
+              <div data-v-42f27458="" class="slot-num">2</div>
+              <div data-v-42f27458="" class="slot-num">0</div>
+              <div data-v-42f27458="" class="slot-num">1</div>
+              <div data-v-42f27458="" class="slot-num">2</div>
+              <div data-v-42f27458="" class="slot-num">3</div>
+              <div data-v-42f27458="" class="slot-num">4</div>
+              <div data-v-42f27458="" class="slot-num">5</div>
+              <div data-v-42f27458="" class="slot-num">6</div>
+              <div data-v-42f27458="" class="slot-num">7</div>
+              <div data-v-42f27458="" class="slot-num">8</div>
+              <div data-v-42f27458="" class="slot-num">9</div>
+              <div data-v-42f27458="" class="slot-num">0</div>
+              <div data-v-42f27458="" class="slot-num">1</div>
+              <div data-v-42f27458="" class="slot-num">2</div>
+              <div data-v-42f27458="" class="slot-num">3</div>
+              <div data-v-42f27458="" class="slot-num">4</div>
+              <div data-v-42f27458="" class="slot-num">5</div>
+              <div data-v-42f27458="" class="slot-num">6</div>
+              <div data-v-42f27458="" class="slot-num">7</div>
+              <div data-v-42f27458="" class="slot-num">8</div>
+              <div data-v-42f27458="" class="slot-num">9</div>
+              <div data-v-42f27458="" class="slot-num">0</div>
+              <div data-v-42f27458="" class="slot-num">1</div>
+              <div data-v-42f27458="" class="slot-num">2</div>
+              <div data-v-42f27458="" class="slot-num">3</div>
+              <div data-v-42f27458="" class="slot-num">4</div>
+              <div data-v-42f27458="" class="slot-num">5</div>
+              <div data-v-42f27458="" class="slot-num">6</div>
+              <div data-v-42f27458="" class="slot-num">7</div>
+              <div data-v-42f27458="" class="slot-num">8</div>
+              <div data-v-42f27458="" class="slot-num">9</div>
+            </div>
+          </div>
+          <div data-v-42f27458="" class="slot-column">
+            <div data-v-42f27458="" class="slot-transform transform1">
+              <div data-v-42f27458="" num="1" class="slot-num">1</div>
+              <div data-v-42f27458="" num="0" class="slot-num">0</div>
+              <div data-v-42f27458="" num="9" class="slot-num">0</div>
+              <div data-v-42f27458="" class="slot-num">1</div>
+              <div data-v-42f27458="" class="slot-num">2</div>
+              <div data-v-42f27458="" class="slot-num">0</div>
+              <div data-v-42f27458="" class="slot-num">1</div>
+              <div data-v-42f27458="" class="slot-num">2</div>
+              <div data-v-42f27458="" class="slot-num">3</div>
+              <div data-v-42f27458="" class="slot-num">4</div>
+              <div data-v-42f27458="" class="slot-num">5</div>
+              <div data-v-42f27458="" class="slot-num">6</div>
+              <div data-v-42f27458="" class="slot-num">7</div>
+              <div data-v-42f27458="" class="slot-num">8</div>
+              <div data-v-42f27458="" class="slot-num">9</div>
+              <div data-v-42f27458="" class="slot-num">0</div>
+              <div data-v-42f27458="" class="slot-num">1</div>
+              <div data-v-42f27458="" class="slot-num">2</div>
+              <div data-v-42f27458="" class="slot-num">3</div>
+              <div data-v-42f27458="" class="slot-num">4</div>
+              <div data-v-42f27458="" class="slot-num">5</div>
+              <div data-v-42f27458="" class="slot-num">6</div>
+              <div data-v-42f27458="" class="slot-num">7</div>
+              <div data-v-42f27458="" class="slot-num">8</div>
+              <div data-v-42f27458="" class="slot-num">9</div>
+              <div data-v-42f27458="" class="slot-num">0</div>
+              <div data-v-42f27458="" class="slot-num">1</div>
+              <div data-v-42f27458="" class="slot-num">2</div>
+              <div data-v-42f27458="" class="slot-num">3</div>
+              <div data-v-42f27458="" class="slot-num">4</div>
+              <div data-v-42f27458="" class="slot-num">5</div>
+              <div data-v-42f27458="" class="slot-num">6</div>
+              <div data-v-42f27458="" class="slot-num">7</div>
+              <div data-v-42f27458="" class="slot-num">8</div>
+              <div data-v-42f27458="" class="slot-num">9</div>
+            </div>
+          </div>
+          <div data-v-42f27458="" class="slot-column">
+            <div data-v-42f27458="" class="slot-transform transform2">
+              <div data-v-42f27458="" num="4" class="slot-num">4</div>
+              <div data-v-42f27458="" num="5" class="slot-num">5</div>
+              <div data-v-42f27458="" num="6" class="slot-num">0</div>
+              <div data-v-42f27458="" class="slot-num">1</div>
+              <div data-v-42f27458="" class="slot-num">2</div>
+              <div data-v-42f27458="" class="slot-num">0</div>
+              <div data-v-42f27458="" class="slot-num">1</div>
+              <div data-v-42f27458="" class="slot-num">2</div>
+              <div data-v-42f27458="" class="slot-num">3</div>
+              <div data-v-42f27458="" class="slot-num">4</div>
+              <div data-v-42f27458="" class="slot-num">5</div>
+              <div data-v-42f27458="" class="slot-num">6</div>
+              <div data-v-42f27458="" class="slot-num">7</div>
+              <div data-v-42f27458="" class="slot-num">8</div>
+              <div data-v-42f27458="" class="slot-num">9</div>
+              <div data-v-42f27458="" class="slot-num">0</div>
+              <div data-v-42f27458="" class="slot-num">1</div>
+              <div data-v-42f27458="" class="slot-num">2</div>
+              <div data-v-42f27458="" class="slot-num">3</div>
+              <div data-v-42f27458="" class="slot-num">4</div>
+              <div data-v-42f27458="" class="slot-num">5</div>
+              <div data-v-42f27458="" class="slot-num">6</div>
+              <div data-v-42f27458="" class="slot-num">7</div>
+              <div data-v-42f27458="" class="slot-num">8</div>
+              <div data-v-42f27458="" class="slot-num">9</div>
+              <div data-v-42f27458="" class="slot-num">0</div>
+              <div data-v-42f27458="" class="slot-num">1</div>
+              <div data-v-42f27458="" class="slot-num">2</div>
+              <div data-v-42f27458="" class="slot-num">3</div>
+              <div data-v-42f27458="" class="slot-num">4</div>
+              <div data-v-42f27458="" class="slot-num">5</div>
+              <div data-v-42f27458="" class="slot-num">6</div>
+              <div data-v-42f27458="" class="slot-num">7</div>
+              <div data-v-42f27458="" class="slot-num">8</div>
+              <div data-v-42f27458="" class="slot-num">9</div>
+            </div>
+          </div>
+          <div data-v-42f27458="" class="slot-column">
+            <div data-v-42f27458="" class="slot-transform transform3">
+              <div data-v-42f27458="" num="6" class="slot-num">6</div>
+              <div data-v-42f27458="" num="7" class="slot-num">7</div>
+              <div data-v-42f27458="" num="8" class="slot-num">0</div>
+              <div data-v-42f27458="" class="slot-num">1</div>
+              <div data-v-42f27458="" class="slot-num">2</div>
+              <div data-v-42f27458="" class="slot-num">0</div>
+              <div data-v-42f27458="" class="slot-num">1</div>
+              <div data-v-42f27458="" class="slot-num">2</div>
+              <div data-v-42f27458="" class="slot-num">3</div>
+              <div data-v-42f27458="" class="slot-num">4</div>
+              <div data-v-42f27458="" class="slot-num">5</div>
+              <div data-v-42f27458="" class="slot-num">6</div>
+              <div data-v-42f27458="" class="slot-num">7</div>
+              <div data-v-42f27458="" class="slot-num">8</div>
+              <div data-v-42f27458="" class="slot-num">9</div>
+              <div data-v-42f27458="" class="slot-num">0</div>
+              <div data-v-42f27458="" class="slot-num">1</div>
+              <div data-v-42f27458="" class="slot-num">2</div>
+              <div data-v-42f27458="" class="slot-num">3</div>
+              <div data-v-42f27458="" class="slot-num">4</div>
+              <div data-v-42f27458="" class="slot-num">5</div>
+              <div data-v-42f27458="" class="slot-num">6</div>
+              <div data-v-42f27458="" class="slot-num">7</div>
+              <div data-v-42f27458="" class="slot-num">8</div>
+              <div data-v-42f27458="" class="slot-num">9</div>
+              <div data-v-42f27458="" class="slot-num">0</div>
+              <div data-v-42f27458="" class="slot-num">1</div>
+              <div data-v-42f27458="" class="slot-num">2</div>
+              <div data-v-42f27458="" class="slot-num">3</div>
+              <div data-v-42f27458="" class="slot-num">4</div>
+              <div data-v-42f27458="" class="slot-num">5</div>
+              <div data-v-42f27458="" class="slot-num">6</div>
+              <div data-v-42f27458="" class="slot-num">7</div>
+              <div data-v-42f27458="" class="slot-num">8</div>
+              <div data-v-42f27458="" class="slot-num">9</div>
+            </div>
+          </div>
+          <div data-v-42f27458="" class="slot-column">
+            <div data-v-42f27458="" class="slot-transform transform4">
+              <div data-v-42f27458="" num="0" class="slot-num">0</div>
+              <div data-v-42f27458="" num="1" class="slot-num">1</div>
+              <div data-v-42f27458="" num="2" class="slot-num">0</div>
+              <div data-v-42f27458="" class="slot-num">1</div>
+              <div data-v-42f27458="" class="slot-num">2</div>
+              <div data-v-42f27458="" class="slot-num">0</div>
+              <div data-v-42f27458="" class="slot-num">1</div>
+              <div data-v-42f27458="" class="slot-num">2</div>
+              <div data-v-42f27458="" class="slot-num">3</div>
+              <div data-v-42f27458="" class="slot-num">4</div>
+              <div data-v-42f27458="" class="slot-num">5</div>
+              <div data-v-42f27458="" class="slot-num">6</div>
+              <div data-v-42f27458="" class="slot-num">7</div>
+              <div data-v-42f27458="" class="slot-num">8</div>
+              <div data-v-42f27458="" class="slot-num">9</div>
+              <div data-v-42f27458="" class="slot-num">0</div>
+              <div data-v-42f27458="" class="slot-num">1</div>
+              <div data-v-42f27458="" class="slot-num">2</div>
+              <div data-v-42f27458="" class="slot-num">3</div>
+              <div data-v-42f27458="" class="slot-num">4</div>
+              <div data-v-42f27458="" class="slot-num">5</div>
+              <div data-v-42f27458="" class="slot-num">6</div>
+              <div data-v-42f27458="" class="slot-num">7</div>
+              <div data-v-42f27458="" class="slot-num">8</div>
+              <div data-v-42f27458="" class="slot-num">9</div>
+              <div data-v-42f27458="" class="slot-num">0</div>
+              <div data-v-42f27458="" class="slot-num">1</div>
+              <div data-v-42f27458="" class="slot-num">2</div>
+              <div data-v-42f27458="" class="slot-num">3</div>
+              <div data-v-42f27458="" class="slot-num">4</div>
+              <div data-v-42f27458="" class="slot-num">5</div>
+              <div data-v-42f27458="" class="slot-num">6</div>
+              <div data-v-42f27458="" class="slot-num">7</div>
+              <div data-v-42f27458="" class="slot-num">8</div>
+              <div data-v-42f27458="" class="slot-num">9</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div data-v-42f27458="" class="bet-box minH">
+      <div data-v-42f27458="" class="mark-box c-row c-row-middle-center" style="display: none;"><span data-v-42f27458=""
+          class="item m-r-20">0</span><span data-v-42f27458="" class="item m-l-20">9</span>
+      </div>
+      <div data-v-42f27458="">
+        <div data-v-42f27458="" class="flex-row-start bet-type-group a-b-c-d-e">
+          <div data-v-42f27458="" data-join="a" class="d5-bet-type active">A</div>
+          <div data-v-42f27458="" data-join="b" class="d5-bet-type">B</div>
+          <div data-v-42f27458="" data-join="c" class="d5-bet-type">C</div>
+          <div data-v-42f27458="" data-join="d" class="d5-bet-type">D</div>
+          <div data-v-42f27458="" data-join="e" class="d5-bet-type">E</div>
+          <div data-v-42f27458="" data-join="total" class="d5-bet-type"> SUM </div>
+        </div>
+        <div data-v-42f27458="">
+          <div data-v-42f27458="" class="flex-row-between small-big">
+            <div data-v-42f27458="" data-join="active1" join="b" class="bet-type-btn flex-row-between"> Big <span
+                data-v-42f27458="">2</span>
+            </div>
+            <div data-v-42f27458="" data-join="active2" join="s" class="bet-type-btn flex-row-between"> Small <span
+                data-v-42f27458="">2</span>
+            </div>
+            <div data-v-42f27458="" data-join="active3" join="l" class="bet-type-btn flex-row-between">Odd <span
+                data-v-42f27458="">2</span>
+            </div>
+            <div data-v-42f27458="" data-join="active4" join="c" class="bet-type-btn flex-row-between"> Even <span
+                data-v-42f27458="">2</span>
+            </div>
+          </div>
+          <div data-v-42f27458="" class="c-row c-flex-warp c-row-center 0-9 select-number-0-9">
+            <div data-v-42f27458="" txt="0" class="c-row c-row-middle-center bet-num-line">
+              <div data-v-42f27458="" class="bet-box-num">0 <div data-v-42f27458="">9</div>
+              </div>
+            </div>
+            <div data-v-42f27458="" txt="1" class="c-row c-row-middle-center bet-num-line">
+              <div data-v-42f27458="" class="bet-box-num">1 <div data-v-42f27458="">9</div>
+              </div>
+            </div>
+            <div data-v-42f27458="" txt="2" class="c-row c-row-middle-center bet-num-line">
+              <div data-v-42f27458="" class="bet-box-num">2 <div data-v-42f27458="">9</div>
+              </div>
+            </div>
+            <div data-v-42f27458="" txt="3" class="c-row c-row-middle-center bet-num-line">
+              <div data-v-42f27458="" class="bet-box-num">3 <div data-v-42f27458="">9</div>
+              </div>
+            </div>
+            <div data-v-42f27458="" txt="4" class="c-row c-row-middle-center bet-num-line">
+              <div data-v-42f27458="" class="bet-box-num">4 <div data-v-42f27458="">9</div>
+              </div>
+            </div>
+            <div data-v-42f27458="" txt="5" class="c-row c-row-middle-center bet-num-line">
+              <div data-v-42f27458="" class="bet-box-num">5 <div data-v-42f27458="">9</div>
+              </div>
+            </div>
+            <div data-v-42f27458="" txt="6" class="c-row c-row-middle-center bet-num-line">
+              <div data-v-42f27458="" class="bet-box-num">6 <div data-v-42f27458="">9</div>
+              </div>
+            </div>
+            <div data-v-42f27458="" txt="7" class="c-row c-row-middle-center bet-num-line">
+              <div data-v-42f27458="" class="bet-box-num">7 <div data-v-42f27458="">9</div>
+              </div>
+            </div>
+            <div data-v-42f27458="" txt="8" class="c-row c-row-middle-center bet-num-line">
+              <div data-v-42f27458="" class="bet-box-num">8 <div data-v-42f27458="">9</div>
+              </div>
+            </div>
+            <div data-v-42f27458="" txt="9" class="c-row c-row-middle-center bet-num-line">
+              <div data-v-42f27458="" class="bet-box-num">9 <div data-v-42f27458="">9</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div> <div data-v-42f27458="" class="game-list">
+   <div data-v-42f27458="" class="tab c-row c-row-between">
+      <div data-v-42f27458="" class="li c-row c-row-center block-click" id="GetNoaverageEmerdList">
+         <span data-v-42f27458="" class="txt action"> Game History </span>
+      </div>
+      <div data-v-42f27458="" class="li c-row c-row-center" id="trend_tab_button">
+         <span data-v-42f27458="" class="txt"> Chart </span>
+      </div>
+      <div data-v-42f27458="" class="li c-row c-row-center" id="GetMyEmerdList">
+         <span data-v-42f27458="" class="txt"> My History </span>
+      </div>
+   </div>
+   <style>
+      .info_data__root {
+         margin-left: 10px;
+         margin-right: 10px;
+         border-radius: 0.25rem;
+         overflow: hidden;
+      }
+   </style>
+   <div data-v-42f27458="" class="con-boxp-b-20">
+      <div data-v-42f27458="" class="list m-t-10 info_data__root" id="all">
+         <div data-v-42f27458="" class="wrap">
+            <div data-v-42f27458="" class="c-tc van-row">
+               <div data-v-42f27458="" class="van-col van-col--8">Periods</div>
+               <div data-v-42f27458="" class="van-col van-col--12">Result</div>
+               <div data-v-42f27458="" class="van-col van-col--4">Total</div>
+            </div>
+         </div>
+         <div data-v-42f27458="">
+            <div data-v-42f27458="" class="hb" id="list_order"></div>
+         </div>
+         <!-- <div data-v-42f27458="" class="list-fooder"></div> -->
+      </div>
+      <div data-v-42f27458="" class="list m-t-10" id="trend" style="display: none">
+         <div data-v-c53b15fb="" data-v-3f742540="" selected-tab="A" class="Trend__C" apifun="e=>r(g.WinTxrGetTRXMyEmerdList,e).then(s=>s.data)" gopathname="AllLotteryGames-BettingRecordWinTrx">
+            <div data-v-c53b15fb="" class="Trend__C-body1">
+               <div data-v-c53b15fb="" class="Trend__C-nav">
+                  <div data-v-c53b15fb="" class="statistic_tab_a active" onclick="openChartStatisticsTab('A')">A</div>
+                  <div data-v-c53b15fb="" class="statistic_tab_b" onclick="openChartStatisticsTab('B')">B</div>
+                  <div data-v-c53b15fb="" class="statistic_tab_c" onclick="openChartStatisticsTab('C')">C</div>
+                  <div data-v-c53b15fb="" class="statistic_tab_d" onclick="openChartStatisticsTab('D')">D</div>
+                  <div data-v-c53b15fb="" class="statistic_tab_e" onclick="openChartStatisticsTab('E')">E</div>
+               </div>
+               <div data-v-c53b15fb="" class="Trend__C-body1-line">Statistic (last 100 Periods)</div>
+               <div data-v-c53b15fb="" class="Trend__C-body1-line">
+                  <div data-v-c53b15fb="">Missing</div>
+                  <div data-v-c53b15fb="" class="Trend__C-body1-line-num" id="chart_missing_box">
+                     <div data-v-c53b15fb="">13</div>
+                     <div data-v-c53b15fb="">1</div>
+                     <div data-v-c53b15fb="">2</div>
+                     <div data-v-c53b15fb="">14</div>
+                     <div data-v-c53b15fb="">41</div>
+                     <div data-v-c53b15fb="">3</div>
+                     <div data-v-c53b15fb="">6</div>
+                     <div data-v-c53b15fb="">0</div>
+                     <div data-v-c53b15fb="">12</div>
+                     <div data-v-c53b15fb="">9</div>
+                  </div>
+               </div>
+               <div data-v-c53b15fb="" class="Trend__C-body1-line">
+                  <div data-v-c53b15fb="">Avg missing</div>
+                  <div data-v-c53b15fb="" class="Trend__C-body1-line-num" id="chart_avg_missing_box">
+                     <div data-v-c53b15fb="">9</div>
+                     <div data-v-c53b15fb="">6</div>
+                     <div data-v-c53b15fb="">5</div>
+                     <div data-v-c53b15fb="">6</div>
+                     <div data-v-c53b15fb="">15</div>
+                     <div data-v-c53b15fb="">11</div>
+                     <div data-v-c53b15fb="">8</div>
+                     <div data-v-c53b15fb="">15</div>
+                     <div data-v-c53b15fb="">8</div>
+                     <div data-v-c53b15fb="">13</div>
+                  </div>
+               </div>
+               <div data-v-c53b15fb="" class="Trend__C-body1-line">
+                  <div data-v-c53b15fb="">Frequency</div>
+                  <div data-v-c53b15fb="" class="Trend__C-body1-line-num" id="chart_frequency_box">
+                     <div data-v-c53b15fb="">11</div>
+                     <div data-v-c53b15fb="">13</div>
+                     <div data-v-c53b15fb="">17</div>
+                     <div data-v-c53b15fb="">12</div>
+                     <div data-v-c53b15fb="">6</div>
+                     <div data-v-c53b15fb="">7</div>
+                     <div data-v-c53b15fb="">10</div>
+                     <div data-v-c53b15fb="">7</div>
+                     <div data-v-c53b15fb="">10</div>
+                     <div data-v-c53b15fb="">7</div>
+                  </div>
+               </div>
+               <div data-v-c53b15fb="" class="Trend__C-body1-line">
+                  <div data-v-c53b15fb="">Max consecutive</div>
+                  <div data-v-c53b15fb="" class="Trend__C-body1-line-num" id="chart_max_consecutive_box">
+                     <div data-v-c53b15fb="">2</div>
+                     <div data-v-c53b15fb="">2</div>
+                     <div data-v-c53b15fb="">2</div>
+                     <div data-v-c53b15fb="">1</div>
+                     <div data-v-c53b15fb="">2</div>
+                     <div data-v-c53b15fb="">1</div>
+                     <div data-v-c53b15fb="">1</div>
+                     <div data-v-c53b15fb="">1</div>
+                     <div data-v-c53b15fb="">1</div>
+                     <div data-v-c53b15fb="">2</div>
+                  </div>
+               </div>
+            </div>
+            <div data-v-c53b15fb="" class="Trend__C-body2" id="chart_container"></div>
+            <div data-v-c53b15fb="" class="Trend__C-foot" id="chart__bottom_nav">
+               <div data-v-c53b15fb="" class="Trend__C-foot-previous disabled previous_page">
+                  <i data-v-c53b15fb="" class="van-badge__wrapper van-icon van-icon-arrow-left Trend__C-icon" style="font-size: 20px"></i>
+               </div>
+               <div data-v-c53b15fb="" class="Trend__C-foot-page" id="number_result__chart">1/1670</div>
+               <div data-v-c53b15fb="" class="Trend__C-foot-next next_page">
+                  <i data-v-c53b15fb="" class="van-badge__wrapper van-icon van-icon-arrow Trend__C-icon" style="font-size: 20px"></i>
+               </div>
+            </div>
+         </div>
+      </div>
+      <div data-v-42f27458="" class="list m-t-10" id="me" style="display: none">
+         <!-- <div data-v-42f27458="">
+            <div data-v-42f27458="" class="hb" id="showJoinMe"></div>
+         </div> -->
+         <div data-v-223ff8ce="" class="MyGameRecord__C-body">
+            <div data-v-b4b99df8="" data-v-223ff8ce="" class="MyGameRecordList__C" id="showJoinMe">
+               <div data-v-b4b99df8="" class="MyGameRecordList__C-item">
+                  <div data-v-b4b99df8="" class="MyGameRecordList__C-item-l MyGameRecordList__C-item-l-8">8</div>
+                  <div data-v-b4b99df8="" class="MyGameRecordList__C-item-m">
+                     <div data-v-b4b99df8="" class="MyGameRecordList__C-item-m-top">20240601070178</div>
+                     <div data-v-b4b99df8="" class="MyGameRecordList__C-item-m-bottom">2024-06-01 14:45:28</div>
+                  </div>
+                  <div data-v-b4b99df8="" class="MyGameRecordList__C-item-r">
+                     <div data-v-b4b99df8="" class="">Failed</div>
+                     <span data-v-b4b99df8="">-₹0.98</span>
+                  </div>
+               </div>
+
+               <div data-v-b4b99df8="" class="MyGameRecordList__C-item">
+                  <div data-v-b4b99df8="" class="MyGameRecordList__C-item-l MyGameRecordList__C-item-l-7">7</div>
+                  <div data-v-b4b99df8="" class="MyGameRecordList__C-item-m">
+                     <div data-v-b4b99df8="" class="MyGameRecordList__C-item-m-top">20240601070178</div>
+                     <div data-v-b4b99df8="" class="MyGameRecordList__C-item-m-bottom">2024-06-01 14:45:19</div>
+                  </div>
+                  <div data-v-b4b99df8="" class="MyGameRecordList__C-item-r">
+                     <div data-v-b4b99df8="" class="">Failed</div>
+                     <span data-v-b4b99df8="">-₹0.98</span>
+                  </div>
+               </div>
+
+               <div data-v-b4b99df8="" class="MyGameRecordList__C-item">
+                  <div data-v-b4b99df8="" class="MyGameRecordList__C-item-l MyGameRecordList__C-item-l-1">1</div>
+                  <div data-v-b4b99df8="" class="MyGameRecordList__C-item-m">
+                     <div data-v-b4b99df8="" class="MyGameRecordList__C-item-m-top">20240601070178</div>
+                     <div data-v-b4b99df8="" class="MyGameRecordList__C-item-m-bottom">2024-06-01 14:45:13</div>
+                  </div>
+                  <div data-v-b4b99df8="" class="MyGameRecordList__C-item-r">
+                     <div data-v-b4b99df8="" class="">Failed</div>
+                     <span data-v-b4b99df8="">-₹0.98</span>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <!-- <div data-v-42f27458="" class="list-fooder"></div> -->
+      </div>
+      <div data-v-42f27458="" class="page-nav c-row c-row-center c-tc" id="pagination_nav">
+         <div data-v-42f27458="" class="arr c-row c-row-middle-center block-click" id="previous">
+            <i data-v-42f27458="" class="van-icon van-icon-arrow-left icon" style="font-size: 20px"> </i>
+         </div>
+         <div data-v-42f27458="" class="number" id="number_result" data-select="all"></div>
+         <div data-v-42f27458="" class="arr c-row c-row-middle-center action" id="next">
+            <i data-v-42f27458="" class="van-icon van-icon-arrow icon action" style="font-size: 20px"> </i>
+         </div>
+      </div>
+   </div>
+</div>
+ <div class="van-overlay" style="z-index: 2031; display: none;"></div>
+<div data-v-42f27458="" class="van-popup van-popup--center supportss" style="width: 80%; border-radius: 10px; max-width: 340px;z-index: 999999!important; display: none;">
+    <div data-v-42f27458="" class="rule-box">
+        <div data-v-42f27458="" class="title c-row c-row-middle-center">Rules</div>
+        <div data-v-42f27458="" class="info">
+            <div data-v-42f27458="" class="comment">
+                <div data-v-42f27458="">
+                    <div data-v-42f27458="">
+                        <p class="MsoNormal">
+                            <font face="Times New Roman">Rules Of 5D</font>
+                        </p>
+                        <p class="MsoNormal">
+                            <font face="Times New Roman">*Must Follow below Rules</font>
+                        </p>
+                        <p class="MsoNormal">
+                            <font face="Times New Roman">( 1 ) Not allowed to bet on both sides (opposite bets), for example: in a lottery game, you cannot bet on Big/Small, Even/Odd...</font>
+                        </p>
+                        <p class="MsoNormal">
+                            <font face="Times New Roman">( 2 ) Not allowed to bet on more than 8 numbers in the same lottery game.
+                            </font>
+                        </p>
+                        <p class="MsoNormal">
+                            <font face="Times New Roman">( 3 ) If any illegal betting or contradictory betting is detected, the withdrawal request will be canceled.</font>
+                        </p>
+                        <p class="MsoNormal">
+                            <font face="Times New Roman">Prize Instructions</font>
+                        </p>
+                        <p class="MsoNormal">
+                            <font face="Times New Roman">Each game will randomly draw 5 numbers (00000-99999).</font>
+                        </p>
+                        <p class="MsoNormal">
+                            <font face="Times New Roman">Example:</font>
+                        </p>
+                        <p class="MsoNormal">
+                            <font face="Times New Roman">
+The current lottery result is 12345.</font>
+                        </p>
+                        <p class="MsoNormal">
+                            <font face="Times New Roman">A=1</font>
+                        </p>
+                        <p class="MsoNormal">
+                            <font face="Times New Roman">B=2</font>
+                        </p>
+                        <p class="MsoNormal">
+                            <font face="Times New Roman">C=3</font>
+                        </p>
+                        <p class="MsoNormal">
+                            <font face="Times New Roman">D=4</font>
+                        </p>
+                        <p class="MsoNormal">
+                            <font face="Times New Roman">E=5</font>
+                        </p>
+                        <p class="MsoNormal">
+                            <font face="Times New Roman">Total =A+B+C+D+E=15</font>
+                        </p>
+                        <p class="MsoNormal">
+                            <font face="Times New Roman">How to Play:</font>
+                        </p>
+                        <p class="MsoNormal">
+                            <font face="Times New Roman">Players can place bets on A, B, C, D, E, and the sum of the five results.</font>
+                        </p>
+                        <p class="MsoNormal">
+                            <font face="Times New Roman">A,B,C,D,E can buy</font>
+                        </p>
+                        <p class="MsoNormal">
+                            <font face="Times New Roman">Numbers（0 1 2 3 4 5 6 7 8 9）</font>
+                        </p>
+                        <p class="MsoNormal">
+                            <font face="Times New Roman">Small; （0 1 2 3 4）</font>
+                        </p>
+                        <p class="MsoNormal">
+                            <font face="Times New Roman">Big; （5 6 7 8 9）</font>
+                        </p>
+                        <p class="MsoNormal">
+                            <font face="Times New Roman">Odd; &nbsp;（1 3 5 7 9）</font>
+                        </p>
+                        <p class="MsoNormal">
+                            <font face="Times New Roman">Even; （0 2 4 6 8）</font>
+                        </p>
+                        <p class="MsoNormal">
+                            <font face="Times New Roman">The Sum =A+B+C+D+E Can be purchased as follow.</font>
+                        </p>
+                        <p class="MsoNormal">
+                            <font face="Times New Roman">Small; （0-22）</font>
+                        </p>
+                        <p class="MsoNormal">
+                            <font face="Times New Roman">Big; （23-45）</font>
+                        </p>
+                        <p class="MsoNormal">
+                            <font face="Times New Roman">Odd; &nbsp;（1 3 ···43 45）</font>
+                        </p>
+                        <p class="MsoNormal">
+                            <font face="Times New Roman">Even; （0 2 ···42 44）</font>
+                        </p>
+                    </div>
+                </div>
+                <div data-v-42f27458="">
+                    <!---->
+                </div>
+                <div data-v-42f27458="">
+                    <!---->
+                </div>
+                <div data-v-42f27458="">
+                    <!---->
+                </div>
+            </div>
+            <div data-v-42f27458="" class="rule-btn c-row m-t-20 c-row-center">
+                <button data-v-42f27458="" class="submit-support btn van-button van-button--default van-button--normal van-button--block van-button--round" style="color: rgb(255, 255, 255); background: rgb(242, 65, 59); border-color: rgb(242, 65, 59);">
+                    <div data-v-42f27458="" class="van-button__content">
+                        <span data-v-42f27458="" class="van-button__text">
+                            <span data-v-42f27458="">I Know</span>
+                        </span>
+                    </div>
+                </button>
+            </div>
+        </div>
+    </div>
+</div>    <div id="box-join" data-v-42f27458="" class="van-popup van-popup--round van-popup--bottom"
+        style="max-width: 10rem; left: auto; z-index: 2032;transform: translateY(1000px)">
+        <div data-v-42f27458="" class="betting-mark">
+            <div data-v-42f27458="" class="bet-box">
+                <div data-v-42f27458="" class="bet-mask p-l-10 p-r-10">
+                    <div data-v-42f27458="" class="flex-row-start bet-type-group a-b-c-d-e">
+                        <div data-v-42f27458="" data-join="a" class="d5-bet-type active">A</div>
+                        <div data-v-42f27458="" data-join="b" class="d5-bet-type">B</div>
+                        <div data-v-42f27458="" data-join="c" class="d5-bet-type">C</div>
+                        <div data-v-42f27458="" data-join="d" class="d5-bet-type">D</div>
+                        <div data-v-42f27458="" data-join="e" class="d5-bet-type">E</div>
+                        <div data-v-42f27458="" data-join="total" class="d5-bet-type">SUM</div>
+                    </div>
+                    <div data-v-42f27458="">
+                        <div data-v-42f27458="" class="flex-row-between small-big">
+                            <div data-v-42f27458="" data-join="active1" join="b" class="bet-type-btn flex-row-between">
+                                Big <span data-v-42f27458="">2</span>
+                            </div>
+                            <div data-v-42f27458="" data-join="active2" join="s" class="bet-type-btn flex-row-between">
+                                Small <span data-v-42f27458="">2</span>
+                            </div>
+                            <div data-v-42f27458="" data-join="active3" join="l" class="bet-type-btn flex-row-between">
+                                odd <span data-v-42f27458="">2</span>
+                            </div>
+                            <div data-v-42f27458="" data-join="active4" join="c" class="bet-type-btn flex-row-between">
+                                even <span data-v-42f27458="">2</span>
+                            </div>
+                        </div>
+                        <div data-v-42f27458="" class="c-row c-flex-warp c-row-center 0-9">
+                            <div data-v-42f27458="" txt="0" class="c-row c-row-middle-center bet-num-line">
+                                <div data-v-42f27458="" class="bet-box-num">
+                                    0
+                                    <div data-v-42f27458="">9</div>
+                                </div>
+                            </div>
+                            <div data-v-42f27458="" txt="1" class="c-row c-row-middle-center bet-num-line">
+                                <div data-v-42f27458="" class="bet-box-num">
+                                    1
+                                    <div data-v-42f27458="">9</div>
+                                </div>
+                            </div>
+                            <div data-v-42f27458="" txt="2" class="c-row c-row-middle-center bet-num-line">
+                                <div data-v-42f27458="" class="bet-box-num">
+                                    2
+                                    <div data-v-42f27458="">9</div>
+                                </div>
+                            </div>
+                            <div data-v-42f27458="" txt="3" class="c-row c-row-middle-center bet-num-line">
+                                <div data-v-42f27458="" class="bet-box-num">
+                                    3
+                                    <div data-v-42f27458="">9</div>
+                                </div>
+                            </div>
+                            <div data-v-42f27458="" txt="4" class="c-row c-row-middle-center bet-num-line">
+                                <div data-v-42f27458="" class="bet-box-num">
+                                    4
+                                    <div data-v-42f27458="">9</div>
+                                </div>
+                            </div>
+                            <div data-v-42f27458="" txt="5" class="c-row c-row-middle-center bet-num-line">
+                                <div data-v-42f27458="" class="bet-box-num">
+                                    5
+                                    <div data-v-42f27458="">9</div>
+                                </div>
+                            </div>
+                            <div data-v-42f27458="" txt="6" class="c-row c-row-middle-center bet-num-line">
+                                <div data-v-42f27458="" class="bet-box-num">
+                                    6
+                                    <div data-v-42f27458="">9</div>
+                                </div>
+                            </div>
+                            <div data-v-42f27458="" txt="7" class="c-row c-row-middle-center bet-num-line">
+                                <div data-v-42f27458="" class="bet-box-num">
+                                    7
+                                    <div data-v-42f27458="">9</div>
+                                </div>
+                            </div>
+                            <div data-v-42f27458="" txt="8" class="c-row c-row-middle-center bet-num-line">
+                                <div data-v-42f27458="" class="bet-box-num">
+                                    8
+                                    <div data-v-42f27458="">9</div>
+                                </div>
+                            </div>
+                            <div data-v-42f27458="" txt="9" class="c-row c-row-middle-center bet-num-line">
+                                <div data-v-42f27458="" class="bet-box-num">
+                                    9
+                                    <div data-v-42f27458="">9</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div data-v-42f27458="" class="info">
+                <div data-v-42f27458="" class="item c-row c-row-between">
+                    <div data-v-42f27458="" class="tit">Amount</div>
+                    <div data-v-42f27458="" class="c-row amount-box">
+                        <div data-v-42f27458="" value="1" class="action li">1</div>
+                        <div data-v-42f27458="" value="10" class="li">10</div>
+                        <div data-v-42f27458="" value="100" class="li">100</div>
+                        <div data-v-42f27458="" value="1000" class="li">1000</div>
+                    </div>
+                </div>
+                <div data-v-42f27458="" class="item c-row c-row-between">
+                    <div data-v-42f27458="" class="tit">Quantity</div>
+                    <div data-v-42f27458="" class="c-row c-row-between stepper-box" id="plus-minus">
+                        <div data-v-42f27458="" class="li minus">-</div>
+                        <div data-v-42f27458="" class="digit-box van-cell van-field">
+                            <div class="van-cell__value van-cell__value--alone van-field__value">
+                                <div class="van-field__body">
+                                    <input type="tel" inputmode="numeric" oninput="value=value.replace(/\D/g,'')"
+                                        value="1" class="van-field__control" id="value-join" />
+                                </div>
+                            </div>
+                        </div>
+                        <div data-v-42f27458="" class="li plus c-row c-row-middle-center action">+</div>
+                    </div>
+                </div>
+                <div data-v-42f27458="" class="item c-row c-flew-end">
+                    <div data-v-42f27458="" class="c-row multiple-box">
+                        <div data-v-42f27458="" amount="1" class="li action">X1</div>
+                        <div data-v-42f27458="" amount="5" class="li">X5</div>
+                        <div data-v-42f27458="" amount="10" class="li">X10</div>
+                        <div data-v-42f27458="" amount="20" class="li">X20</div>
+                        <div data-v-42f27458="" amount="50" class="li">X50</div>
+                        <div data-v-42f27458="" amount="100" class="li">X100</div>
+                    </div>
+                </div>
+                <div data-v-42f27458="" class="item c-row c-row-middle">
+                    <div data-v-42f27458="" role="checkbox" tabindex="0" aria-checked="true" class="van-checkbox">
+                        <div class="van-checkbox__icon van-checkbox__icon--square van-checkbox__icon--checked">
+                            <i class="van-icon van-icon-success"
+                                style="border-color: rgb(244, 69, 62);background-color: rgb(244, 69, 62);">
+                                <!---->
+                            </i>
+                        </div>
+                        <span class="van-checkbox__label">
+                            <div data-v-42f27458="" class="agree p-r-15">I agree to</div>
+                        </span>
+                    </div>
+                    <span data-v-42f27458="" class="txt" id="quytacs">Rules</span>
+                </div>
+            </div>
+            <div data-v-42f27458="" class="foot c-row">
+                <div data-v-42f27458="" class="left canned-alert">Cancel</div>
+                <div data-v-42f27458="" class="right">
+                    <span id="result" list-join="" join="a" value="1"></span>
+                    <span data-v-42f27458="" class="p-r-5">Total Amount</span>
+                    <span data-v-42f27458="" id="total">1 TRX </span>
+                </div>
+            </div>
+        </div>
+    </div>                        <!---->
+                        <div data-v-7692a079="" data-v-42f27458="" class="Loading c-row c-row-middle-center">
+                           <div data-v-7692a079="" class="van-loading van-loading--circular">
+                              <span data-v-7692a079="" class="van-loading__spinner van-loading__spinner--circular"
+                                 style="color: rgb(242, 65, 59)">
+                                 <svg data-v-7692a079="" viewBox="25 25 50 50" class="van-loading__circular">
+                                    <circle data-v-7692a079="" cx="50" cy="50" r="20" fill="none"></circle>
+                                 </svg>
+                              </span>
+                           </div>
+                        </div>
+         </div>
+      </div>
+      <div data-v-e2a7b350="" data-v-f1b3a9ec="" class="WinningTip__C" style="display: none" id="popup_modal">
+   <div data-v-e2a7b350="" class="WinningTip__C-body" id="popup_background">
+      <div data-v-e2a7b350="" class="WinningTip__C-body-l1" id="popup_greeting_display">Congratulations</div>
+      <div data-v-e2a7b350="" class="WinningTip__C-body-l2">
+         Lottery results
+         <div data-v-e2a7b350="" class="line1" id="lottery_results_box">
+            <div data-v-e2a7b350="">
+               <div data-v-e2a7b350="" class="title">A</div>
+               <div data-v-e2a7b350="" class="num">1</div>
+            </div>
+            <div data-v-e2a7b350="">
+               <div data-v-e2a7b350="" class="title">B</div>
+               <div data-v-e2a7b350="" class="num">5</div>
+            </div>
+            <div data-v-e2a7b350="">
+               <div data-v-e2a7b350="" class="title">C</div>
+               <div data-v-e2a7b350="" class="num">0</div>
+            </div>
+            <div data-v-e2a7b350="">
+               <div data-v-e2a7b350="" class="title">D</div>
+               <div data-v-e2a7b350="" class="num">0</div>
+            </div>
+            <div data-v-e2a7b350="">
+               <div data-v-e2a7b350="" class="title">E</div>
+               <div data-v-e2a7b350="" class="num">1</div>
+            </div>
+            <div data-v-e2a7b350="">
+               <div data-v-e2a7b350="" class="title sum">SUM</div>
+               <div data-v-e2a7b350="" class="num">7</div>
+            </div>
+         </div>
+      </div>
+      <div data-v-e2a7b350="" class="WinningTip__C-body-l3">
+         <div data-v-e2a7b350="" class="isLose" id="popup_loss_symbol">Lose</div>
+         <div data-v-e2a7b350="" class="head" id="popup_win_symbol">Bonus</div>
+         <div data-v-e2a7b350="" class="bonus" id="popup_win_rupees_display">₹1.96</div>
+         <div data-v-e2a7b350="" class="gameDetail" id="popup_game_details">Period:5D 1 minute 20240602011409</div>
+      </div>
+      <div data-v-e2a7b350="" class="WinningTip__C-body-l4">
+         <div data-v-e2a7b350="" class="acitveBtn"></div>
+         3 seconds auto close
+      </div>
+      <div data-v-e2a7b350="" class="closeBtn"></div>
+   </div>
+</div>
+
+<script>
+   $(".closeBtn").click(function () {
+      $(".WinningTip__C").hide()
+   })
+</script>
+   </div>
+
+   <script src="/5d/js/main.js"></script>
+</body>
+
+</html>

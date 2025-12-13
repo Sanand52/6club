@@ -1,0 +1,3377 @@
+[
+  {
+    "money": "109477.54",
+    "rechargeTotal": 15820,
+    "phone": "9324745223",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "796.27",
+    "rechargeTotal": 5110,
+    "phone": "7013893165",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "23440.41",
+    "rechargeTotal": 0,
+    "phone": "9696994213",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "361.24",
+    "rechargeTotal": 100,
+    "phone": "7510012330",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": "1383"
+  },
+  {
+    "money": "890.86",
+    "rechargeTotal": 500,
+    "phone": "9350213727",
+    "sum": 20,
+    "count": 4,
+    "single": 5,
+    "withdraws": "2450"
+  },
+  {
+    "money": "114.49",
+    "rechargeTotal": 1110,
+    "phone": "9220538044",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": "5100"
+  },
+  {
+    "money": "5185.87",
+    "rechargeTotal": 6701,
+    "phone": "9330205299",
+    "sum": 10846,
+    "count": 10,
+    "single": 1084.6,
+    "withdraws": "1000"
+  },
+  {
+    "money": "0.73",
+    "rechargeTotal": 110,
+    "phone": "7086720019",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "453.00",
+    "rechargeTotal": 23006,
+    "phone": "6351907676",
+    "sum": 151,
+    "count": 6,
+    "single": 25.17,
+    "withdraws": 0
+  },
+  {
+    "money": "4580.92",
+    "rechargeTotal": 0,
+    "phone": "8601898088",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": "115"
+  },
+  {
+    "money": "1145.05",
+    "rechargeTotal": 560,
+    "phone": "9817737918",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "16.36",
+    "rechargeTotal": 0,
+    "phone": "9060247750",
+    "sum": 51,
+    "count": 5,
+    "single": 10.2,
+    "withdraws": 0
+  },
+  {
+    "money": "2644.59",
+    "rechargeTotal": 110,
+    "phone": "8795468070",
+    "sum": 10728,
+    "count": 8,
+    "single": 1341,
+    "withdraws": "2600"
+  },
+  {
+    "money": "19.09",
+    "rechargeTotal": 0,
+    "phone": "9588403770",
+    "sum": 10,
+    "count": 2,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "1112.84",
+    "rechargeTotal": 4300,
+    "phone": "9812202424",
+    "sum": 751,
+    "count": 8,
+    "single": 93.88,
+    "withdraws": "5050"
+  },
+  {
+    "money": "330.97",
+    "rechargeTotal": 300,
+    "phone": "7999337800",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "201.84",
+    "rechargeTotal": 220,
+    "phone": "7524980331",
+    "sum": 323,
+    "count": 4,
+    "single": 80.75,
+    "withdraws": "201"
+  },
+  {
+    "money": "260.25",
+    "rechargeTotal": 300,
+    "phone": "6283134949",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "123.00",
+    "rechargeTotal": 0,
+    "phone": "7081924448",
+    "sum": 123,
+    "count": 3,
+    "single": 41,
+    "withdraws": 0
+  },
+  {
+    "money": "11.55",
+    "rechargeTotal": 0,
+    "phone": "9050865711",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "8.83",
+    "rechargeTotal": 500,
+    "phone": "9439179198",
+    "sum": 15,
+    "count": 3,
+    "single": 5,
+    "withdraws": "200"
+  },
+  {
+    "money": "0.75",
+    "rechargeTotal": 300,
+    "phone": "9979190726",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "21.55",
+    "rechargeTotal": 110,
+    "phone": "7056794672",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "0.74",
+    "rechargeTotal": 110,
+    "phone": "9348613045",
+    "sum": 10,
+    "count": 2,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "193.31",
+    "rechargeTotal": 100,
+    "phone": "9682557276",
+    "sum": 23,
+    "count": 2,
+    "single": 11.5,
+    "withdraws": "501"
+  },
+  {
+    "money": "0.23",
+    "rechargeTotal": 0,
+    "phone": "7218629086",
+    "sum": 10,
+    "count": 2,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "-275.10",
+    "rechargeTotal": 2000,
+    "phone": "6290855114",
+    "sum": 20,
+    "count": 4,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "0.05",
+    "rechargeTotal": 410,
+    "phone": "8875602729",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "2151.98",
+    "rechargeTotal": 1000,
+    "phone": "8696450728",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "81.39",
+    "rechargeTotal": 1440,
+    "phone": "7525900959",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "0.54",
+    "rechargeTotal": 110,
+    "phone": "8435517054",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "0.81",
+    "rechargeTotal": 500,
+    "phone": "7226040184",
+    "sum": 23,
+    "count": 2,
+    "single": 11.5,
+    "withdraws": "411"
+  },
+  {
+    "money": "0.15",
+    "rechargeTotal": 0,
+    "phone": "7485056953",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "105.35",
+    "rechargeTotal": 500,
+    "phone": "9334042474",
+    "sum": 23,
+    "count": 2,
+    "single": 11.5,
+    "withdraws": 0
+  },
+  {
+    "money": "3117.84",
+    "rechargeTotal": 500,
+    "phone": "9113354316",
+    "sum": 10,
+    "count": 2,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "32214.13",
+    "rechargeTotal": 24006,
+    "phone": "9892924008",
+    "sum": 23,
+    "count": 2,
+    "single": 11.5,
+    "withdraws": 0
+  },
+  {
+    "money": "6377.13",
+    "rechargeTotal": 1010,
+    "phone": "9939328980",
+    "sum": 28,
+    "count": 3,
+    "single": 9.33,
+    "withdraws": "201"
+  },
+  {
+    "money": "19.22",
+    "rechargeTotal": 0,
+    "phone": "6388700449",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "652.00",
+    "rechargeTotal": 1000,
+    "phone": "7091922772",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": "201"
+  },
+  {
+    "money": "0.64",
+    "rechargeTotal": 500,
+    "phone": "7728006551",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": "1401"
+  },
+  {
+    "money": "161.67",
+    "rechargeTotal": 1550,
+    "phone": "6382424267",
+    "sum": 10,
+    "count": 2,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "0.23",
+    "rechargeTotal": 220,
+    "phone": "7880638404",
+    "sum": 28,
+    "count": 3,
+    "single": 9.33,
+    "withdraws": 0
+  },
+  {
+    "money": "0.96",
+    "rechargeTotal": 110,
+    "phone": "6390213861",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "0.18",
+    "rechargeTotal": 110,
+    "phone": "9101253936",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": "210"
+  },
+  {
+    "money": "0.35",
+    "rechargeTotal": 1000,
+    "phone": "9168022264",
+    "sum": 11446,
+    "count": 12,
+    "single": 953.83,
+    "withdraws": "1000"
+  },
+  {
+    "money": "5.20",
+    "rechargeTotal": 300,
+    "phone": "9927307175",
+    "sum": 10,
+    "count": 2,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "56.55",
+    "rechargeTotal": 1510,
+    "phone": "7666477752",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": "210"
+  },
+  {
+    "money": "2.96",
+    "rechargeTotal": 200,
+    "phone": "8445015028",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "0.89",
+    "rechargeTotal": 220,
+    "phone": "8958066983",
+    "sum": 969,
+    "count": 11,
+    "single": 88.09,
+    "withdraws": 0
+  },
+  {
+    "money": "1892.77",
+    "rechargeTotal": 11935,
+    "phone": "9004842869",
+    "sum": 10,
+    "count": 2,
+    "single": 5,
+    "withdraws": "4000"
+  },
+  {
+    "money": "5.13",
+    "rechargeTotal": 200,
+    "phone": "7089122756",
+    "sum": 46,
+    "count": 4,
+    "single": 11.5,
+    "withdraws": 0
+  },
+  {
+    "money": "1500.61",
+    "rechargeTotal": 1320,
+    "phone": "7870577074",
+    "sum": 64,
+    "count": 5,
+    "single": 12.8,
+    "withdraws": 0
+  },
+  {
+    "money": "533.13",
+    "rechargeTotal": 100,
+    "phone": "9934120174",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "352.85",
+    "rechargeTotal": 200,
+    "phone": "9628696503",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "0.65",
+    "rechargeTotal": 610,
+    "phone": "8077005294",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "0.74",
+    "rechargeTotal": 330,
+    "phone": "7634077801",
+    "sum": 20,
+    "count": 4,
+    "single": 5,
+    "withdraws": "1200"
+  },
+  {
+    "money": "11.89",
+    "rechargeTotal": 1000,
+    "phone": "9262337832",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "0.73",
+    "rechargeTotal": 100,
+    "phone": "6001761279",
+    "sum": 10,
+    "count": 2,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "2002.33",
+    "rechargeTotal": 2000,
+    "phone": "9305815923",
+    "sum": 33,
+    "count": 4,
+    "single": 8.25,
+    "withdraws": 0
+  },
+  {
+    "money": "0.35",
+    "rechargeTotal": 220,
+    "phone": "8303271662",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "0.86",
+    "rechargeTotal": 700,
+    "phone": "8857005188",
+    "sum": 10,
+    "count": 2,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "8731.70",
+    "rechargeTotal": 10000,
+    "phone": "8009332725",
+    "sum": 10,
+    "count": 2,
+    "single": 5,
+    "withdraws": "510"
+  },
+  {
+    "money": "5.66",
+    "rechargeTotal": 100,
+    "phone": "8690199109",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "1497.48",
+    "rechargeTotal": 500,
+    "phone": "7007016025",
+    "sum": 23,
+    "count": 2,
+    "single": 11.5,
+    "withdraws": "900"
+  },
+  {
+    "money": "3365.91",
+    "rechargeTotal": 500,
+    "phone": "9918466412",
+    "sum": 28,
+    "count": 3,
+    "single": 9.33,
+    "withdraws": "500"
+  },
+  {
+    "money": "6.55",
+    "rechargeTotal": 300,
+    "phone": "9554001039",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "3396.64",
+    "rechargeTotal": 100,
+    "phone": "9598672965",
+    "sum": 3723,
+    "count": 6,
+    "single": 620.5,
+    "withdraws": "603"
+  },
+  {
+    "money": "113.42",
+    "rechargeTotal": 1100,
+    "phone": "7379264186",
+    "sum": 10,
+    "count": 2,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "5.15",
+    "rechargeTotal": 330,
+    "phone": "7233921537",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "5.74",
+    "rechargeTotal": 110,
+    "phone": "9696718144",
+    "sum": 10,
+    "count": 2,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "162.02",
+    "rechargeTotal": 1000,
+    "phone": "9517525139",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "1.81",
+    "rechargeTotal": 200,
+    "phone": "9936068161",
+    "sum": 51,
+    "count": 5,
+    "single": 10.2,
+    "withdraws": "2000"
+  },
+  {
+    "money": "6.92",
+    "rechargeTotal": 500,
+    "phone": "9598177883",
+    "sum": 10,
+    "count": 2,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "54106.56",
+    "rechargeTotal": 690,
+    "phone": "9721651142",
+    "sum": 14446,
+    "count": 13,
+    "single": 1111.23,
+    "withdraws": "11210"
+  },
+  {
+    "money": "23.00",
+    "rechargeTotal": 0,
+    "phone": "7398920974",
+    "sum": 23,
+    "count": 2,
+    "single": 11.5,
+    "withdraws": 0
+  },
+  {
+    "money": "7415.87",
+    "rechargeTotal": 300,
+    "phone": "7499381212",
+    "sum": 10746,
+    "count": 9,
+    "single": 1194,
+    "withdraws": "3210"
+  },
+  {
+    "money": "0.08",
+    "rechargeTotal": 298,
+    "phone": "7310344617",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": "210"
+  },
+  {
+    "money": "0.46",
+    "rechargeTotal": 200,
+    "phone": "9627732609",
+    "sum": 11446,
+    "count": 12,
+    "single": 953.83,
+    "withdraws": "3500"
+  },
+  {
+    "money": "0.38",
+    "rechargeTotal": 1500,
+    "phone": "7388308535",
+    "sum": 15,
+    "count": 3,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "3335.66",
+    "rechargeTotal": 300,
+    "phone": "9315950933",
+    "sum": 10746,
+    "count": 9,
+    "single": 1194,
+    "withdraws": "201"
+  },
+  {
+    "money": "0.80",
+    "rechargeTotal": 2100,
+    "phone": "6393497322",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "23868.24",
+    "rechargeTotal": 210,
+    "phone": "9511442572",
+    "sum": 10846,
+    "count": 10,
+    "single": 1084.6,
+    "withdraws": "2401"
+  },
+  {
+    "money": "10926.85",
+    "rechargeTotal": 0,
+    "phone": "8175990961",
+    "sum": 10746,
+    "count": 9,
+    "single": 1194,
+    "withdraws": "201"
+  },
+  {
+    "money": "162.32",
+    "rechargeTotal": 110,
+    "phone": "9923212521",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "0.22",
+    "rechargeTotal": 110,
+    "phone": "8107439134",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "7913.32",
+    "rechargeTotal": 600,
+    "phone": "6386110503",
+    "sum": 10846,
+    "count": 10,
+    "single": 1084.6,
+    "withdraws": "201"
+  },
+  {
+    "money": "6.05",
+    "rechargeTotal": 0,
+    "phone": "7217830664",
+    "sum": 323,
+    "count": 4,
+    "single": 80.75,
+    "withdraws": 0
+  },
+  {
+    "money": "2603.48",
+    "rechargeTotal": 2000,
+    "phone": "9702468015",
+    "sum": 38,
+    "count": 5,
+    "single": 7.6,
+    "withdraws": 0
+  },
+  {
+    "money": "0.59",
+    "rechargeTotal": 600,
+    "phone": "9235640393",
+    "sum": 10,
+    "count": 2,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "0.53",
+    "rechargeTotal": 950,
+    "phone": "7498273156",
+    "sum": 15,
+    "count": 3,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "13446.47",
+    "rechargeTotal": 1000,
+    "phone": "9080444150",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": "220"
+  },
+  {
+    "money": "0.89",
+    "rechargeTotal": 500,
+    "phone": "8104434616",
+    "sum": 13746,
+    "count": 10,
+    "single": 1374.6,
+    "withdraws": "10710"
+  },
+  {
+    "money": "0.72",
+    "rechargeTotal": 100,
+    "phone": "7275859161",
+    "sum": 323,
+    "count": 4,
+    "single": 80.75,
+    "withdraws": 0
+  },
+  {
+    "money": "500.00",
+    "rechargeTotal": 500,
+    "phone": "6203148973",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "1354.66",
+    "rechargeTotal": 1111,
+    "phone": "9565197205",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": "205"
+  },
+  {
+    "money": "2016.34",
+    "rechargeTotal": 20000,
+    "phone": "9831097040",
+    "sum": 3728,
+    "count": 7,
+    "single": 532.57,
+    "withdraws": 0
+  },
+  {
+    "money": "0.79",
+    "rechargeTotal": 110,
+    "phone": "6307445107",
+    "sum": 123,
+    "count": 3,
+    "single": 41,
+    "withdraws": "201"
+  },
+  {
+    "money": "788.38",
+    "rechargeTotal": 250,
+    "phone": "8354067799",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "5.00",
+    "rechargeTotal": 1000,
+    "phone": "3333333333",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "7810.65",
+    "rechargeTotal": 2600,
+    "phone": "7999850141",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "275.40",
+    "rechargeTotal": 100,
+    "phone": "9696392855",
+    "sum": 123,
+    "count": 3,
+    "single": 41,
+    "withdraws": "201"
+  },
+  {
+    "money": "64.33",
+    "rechargeTotal": 500,
+    "phone": "9960860604",
+    "sum": 11446,
+    "count": 12,
+    "single": 953.83,
+    "withdraws": "1020"
+  },
+  {
+    "money": "113.62",
+    "rechargeTotal": 1000,
+    "phone": "7897568321",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "0.96",
+    "rechargeTotal": 300,
+    "phone": "9828696375",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "0.46",
+    "rechargeTotal": 610,
+    "phone": "6238384134",
+    "sum": 23,
+    "count": 2,
+    "single": 11.5,
+    "withdraws": 0
+  },
+  {
+    "money": "17685.10",
+    "rechargeTotal": 0,
+    "phone": "9131991282",
+    "sum": 323,
+    "count": 4,
+    "single": 80.75,
+    "withdraws": 0
+  },
+  {
+    "money": "0.21",
+    "rechargeTotal": 400,
+    "phone": "9652653901",
+    "sum": 10,
+    "count": 2,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "10000.74",
+    "rechargeTotal": 400,
+    "phone": "9341160232",
+    "sum": 11046,
+    "count": 11,
+    "single": 1004.18,
+    "withdraws": "800"
+  },
+  {
+    "money": "123.18",
+    "rechargeTotal": 110,
+    "phone": "9304723324",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "3676.20",
+    "rechargeTotal": 1000,
+    "phone": "9073782268",
+    "sum": 323,
+    "count": 4,
+    "single": 80.75,
+    "withdraws": 0
+  },
+  {
+    "money": "0.92",
+    "rechargeTotal": 500,
+    "phone": "8248059483",
+    "sum": 10,
+    "count": 2,
+    "single": 5,
+    "withdraws": "500"
+  },
+  {
+    "money": "0.82",
+    "rechargeTotal": 610,
+    "phone": "9097510057",
+    "sum": 38,
+    "count": 5,
+    "single": 7.6,
+    "withdraws": "600"
+  },
+  {
+    "money": "8301.74",
+    "rechargeTotal": 500,
+    "phone": "9748250584",
+    "sum": 323,
+    "count": 4,
+    "single": 80.75,
+    "withdraws": "201"
+  },
+  {
+    "money": "0.86",
+    "rechargeTotal": 0,
+    "phone": "7039145564",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "3.72",
+    "rechargeTotal": 110,
+    "phone": "7666104148",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "0.52",
+    "rechargeTotal": 1804,
+    "phone": "9619584437",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": "350"
+  },
+  {
+    "money": "-675.61",
+    "rechargeTotal": 1114,
+    "phone": "8779751212",
+    "sum": 23,
+    "count": 2,
+    "single": 11.5,
+    "withdraws": 0
+  },
+  {
+    "money": "15.13",
+    "rechargeTotal": 220,
+    "phone": "9340409429",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "11976.35",
+    "rechargeTotal": 1000,
+    "phone": "9691396093",
+    "sum": 323,
+    "count": 4,
+    "single": 80.75,
+    "withdraws": "7050"
+  },
+  {
+    "money": "-0.12",
+    "rechargeTotal": 510,
+    "phone": "6284889582",
+    "sum": 18528,
+    "count": 11,
+    "single": 1684.36,
+    "withdraws": "17405"
+  },
+  {
+    "money": "0.19",
+    "rechargeTotal": 2200,
+    "phone": "6268237496",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": "759"
+  },
+  {
+    "money": "-47456.74",
+    "rechargeTotal": 1000,
+    "phone": "9771839474",
+    "sum": 733,
+    "count": 7,
+    "single": 104.71,
+    "withdraws": 0
+  },
+  {
+    "money": "0.12",
+    "rechargeTotal": 100,
+    "phone": "8638150516",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "31.50",
+    "rechargeTotal": 2000,
+    "phone": "8340643405",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "0.59",
+    "rechargeTotal": 150,
+    "phone": "7398202099",
+    "sum": 10846,
+    "count": 10,
+    "single": 1084.6,
+    "withdraws": "7801"
+  },
+  {
+    "money": "280.13",
+    "rechargeTotal": 2500,
+    "phone": "9131730389",
+    "sum": 3723,
+    "count": 6,
+    "single": 620.5,
+    "withdraws": "450"
+  },
+  {
+    "money": "3.72",
+    "rechargeTotal": 200,
+    "phone": "8948708087",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "931.76",
+    "rechargeTotal": 500,
+    "phone": "9122240067",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "167.15",
+    "rechargeTotal": 0,
+    "phone": "9161617661",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "0.35",
+    "rechargeTotal": 0,
+    "phone": "7974277695",
+    "sum": 323,
+    "count": 4,
+    "single": 80.75,
+    "withdraws": 0
+  },
+  {
+    "money": "0.74",
+    "rechargeTotal": 0,
+    "phone": "6261510935",
+    "sum": 123,
+    "count": 3,
+    "single": 41,
+    "withdraws": 0
+  },
+  {
+    "money": "3.30",
+    "rechargeTotal": 1500,
+    "phone": "8102772029",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": "600"
+  },
+  {
+    "money": "-10170.67",
+    "rechargeTotal": 1000,
+    "phone": "7858069912",
+    "sum": 10,
+    "count": 2,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "1.21",
+    "rechargeTotal": 0,
+    "phone": "7471117667",
+    "sum": 323,
+    "count": 4,
+    "single": 80.75,
+    "withdraws": "300"
+  },
+  {
+    "money": "78.36",
+    "rechargeTotal": 0,
+    "phone": "9179207893",
+    "sum": 123,
+    "count": 3,
+    "single": 41,
+    "withdraws": 0
+  },
+  {
+    "money": "0.84",
+    "rechargeTotal": 0,
+    "phone": "7370991304",
+    "sum": 10846,
+    "count": 10,
+    "single": 1084.6,
+    "withdraws": "7000"
+  },
+  {
+    "money": "100.25",
+    "rechargeTotal": 0,
+    "phone": "7091495022",
+    "sum": 10846,
+    "count": 10,
+    "single": 1084.6,
+    "withdraws": "7000"
+  },
+  {
+    "money": "2085.84",
+    "rechargeTotal": 0,
+    "phone": "8095423753",
+    "sum": 10728,
+    "count": 8,
+    "single": 1341,
+    "withdraws": "5000"
+  },
+  {
+    "money": "182.58",
+    "rechargeTotal": 0,
+    "phone": "9905153330",
+    "sum": 10846,
+    "count": 10,
+    "single": 1084.6,
+    "withdraws": "3911"
+  },
+  {
+    "money": "0.68",
+    "rechargeTotal": 0,
+    "phone": "7000050553",
+    "sum": 123,
+    "count": 3,
+    "single": 41,
+    "withdraws": 0
+  },
+  {
+    "money": "1200.61",
+    "rechargeTotal": 500,
+    "phone": "9406283916",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": "500"
+  },
+  {
+    "money": "265166.00",
+    "rechargeTotal": 11000,
+    "phone": "9009118850",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": "50201"
+  },
+  {
+    "money": "1456.92",
+    "rechargeTotal": 0,
+    "phone": "7795164971",
+    "sum": 738,
+    "count": 8,
+    "single": 92.25,
+    "withdraws": 0
+  },
+  {
+    "money": "9538.98",
+    "rechargeTotal": 0,
+    "phone": "8521605553",
+    "sum": 10846,
+    "count": 10,
+    "single": 1084.6,
+    "withdraws": 0
+  },
+  {
+    "money": "9933.70",
+    "rechargeTotal": 0,
+    "phone": "8521955704",
+    "sum": 11046,
+    "count": 11,
+    "single": 1004.18,
+    "withdraws": 0
+  },
+  {
+    "money": "47.31",
+    "rechargeTotal": 110,
+    "phone": "8291617193",
+    "sum": 10728,
+    "count": 8,
+    "single": 1341,
+    "withdraws": "13000"
+  },
+  {
+    "money": "0.58",
+    "rechargeTotal": 100,
+    "phone": "9718017184",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "-65435.86",
+    "rechargeTotal": 2002,
+    "phone": "9004254195",
+    "sum": 10,
+    "count": 2,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "0.80",
+    "rechargeTotal": 0,
+    "phone": "8237255259",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "9443.04",
+    "rechargeTotal": 0,
+    "phone": "6206213923",
+    "sum": 11446,
+    "count": 12,
+    "single": 953.83,
+    "withdraws": 0
+  },
+  {
+    "money": "2.21",
+    "rechargeTotal": 0,
+    "phone": "8197904138",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "5.00",
+    "rechargeTotal": 0,
+    "phone": "9973962632",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "6100.28",
+    "rechargeTotal": 0,
+    "phone": "8795156448",
+    "sum": 10846,
+    "count": 10,
+    "single": 1084.6,
+    "withdraws": 0
+  },
+  {
+    "money": "0.79",
+    "rechargeTotal": 0,
+    "phone": "7899295821",
+    "sum": 269,
+    "count": 8,
+    "single": 33.63,
+    "withdraws": 0
+  },
+  {
+    "money": "7.44",
+    "rechargeTotal": 500,
+    "phone": "7088359510",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": "2712"
+  },
+  {
+    "money": "25.75",
+    "rechargeTotal": 310,
+    "phone": "7858868243",
+    "sum": 138,
+    "count": 6,
+    "single": 23,
+    "withdraws": 0
+  },
+  {
+    "money": "7.99",
+    "rechargeTotal": 0,
+    "phone": "7398541710",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "321.08",
+    "rechargeTotal": 110,
+    "phone": "6265312611",
+    "sum": 169,
+    "count": 7,
+    "single": 24.14,
+    "withdraws": 0
+  },
+  {
+    "money": "1052.84",
+    "rechargeTotal": 110,
+    "phone": "7999187305",
+    "sum": 23,
+    "count": 2,
+    "single": 11.5,
+    "withdraws": 0
+  },
+  {
+    "money": "0.10",
+    "rechargeTotal": 0,
+    "phone": "7037371583",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "10807.98",
+    "rechargeTotal": 0,
+    "phone": "8122065153",
+    "sum": 10851,
+    "count": 11,
+    "single": 986.45,
+    "withdraws": 0
+  },
+  {
+    "money": "198.55",
+    "rechargeTotal": 0,
+    "phone": "9039542577",
+    "sum": 333,
+    "count": 6,
+    "single": 55.5,
+    "withdraws": 0
+  },
+  {
+    "money": "6860.50",
+    "rechargeTotal": 0,
+    "phone": "7869773402",
+    "sum": 10723,
+    "count": 7,
+    "single": 1531.86,
+    "withdraws": "2310"
+  },
+  {
+    "money": "323.96",
+    "rechargeTotal": 0,
+    "phone": "8718916013",
+    "sum": 323,
+    "count": 4,
+    "single": 80.75,
+    "withdraws": 0
+  },
+  {
+    "money": "5.15",
+    "rechargeTotal": 0,
+    "phone": "6265158531",
+    "sum": 15,
+    "count": 3,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "0.24",
+    "rechargeTotal": 0,
+    "phone": "9759801910",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "5.94",
+    "rechargeTotal": 110,
+    "phone": "7759976931",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "0.53",
+    "rechargeTotal": 0,
+    "phone": "7905633697",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "46.22",
+    "rechargeTotal": 0,
+    "phone": "7275404391",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "6.96",
+    "rechargeTotal": 0,
+    "phone": "9554067523",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "148.58",
+    "rechargeTotal": 3400,
+    "phone": "8092625082",
+    "sum": 23,
+    "count": 2,
+    "single": 11.5,
+    "withdraws": 0
+  },
+  {
+    "money": "0.90",
+    "rechargeTotal": 730,
+    "phone": "9454898183",
+    "sum": 10,
+    "count": 2,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "0.48",
+    "rechargeTotal": 0,
+    "phone": "9721005182",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "0.45",
+    "rechargeTotal": 0,
+    "phone": "7724069189",
+    "sum": 351,
+    "count": 7,
+    "single": 50.14,
+    "withdraws": 0
+  },
+  {
+    "money": "9115.36",
+    "rechargeTotal": 110,
+    "phone": "7274055433",
+    "sum": 10728,
+    "count": 8,
+    "single": 1341,
+    "withdraws": "400"
+  },
+  {
+    "money": "0.45",
+    "rechargeTotal": 0,
+    "phone": "8092908954",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "2.23",
+    "rechargeTotal": 500,
+    "phone": "8953462911",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "2.07",
+    "rechargeTotal": 110,
+    "phone": "8875714153",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "10.31",
+    "rechargeTotal": 0,
+    "phone": "6359612006",
+    "sum": 10746,
+    "count": 9,
+    "single": 1194,
+    "withdraws": "5000"
+  },
+  {
+    "money": "5.15",
+    "rechargeTotal": 0,
+    "phone": "8815595906",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "3981.60",
+    "rechargeTotal": 0,
+    "phone": "8434911891",
+    "sum": 10746,
+    "count": 9,
+    "single": 1194,
+    "withdraws": "3000"
+  },
+  {
+    "money": "0.81",
+    "rechargeTotal": 0,
+    "phone": "8433059385",
+    "sum": 74,
+    "count": 7,
+    "single": 10.57,
+    "withdraws": 0
+  },
+  {
+    "money": "100.54",
+    "rechargeTotal": 110,
+    "phone": "9301184832",
+    "sum": 469,
+    "count": 9,
+    "single": 52.11,
+    "withdraws": "200"
+  },
+  {
+    "money": "0.10",
+    "rechargeTotal": 500,
+    "phone": "7310404131",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "0.00",
+    "rechargeTotal": 0,
+    "phone": "7983494367",
+    "sum": 723,
+    "count": 5,
+    "single": 144.6,
+    "withdraws": 0
+  },
+  {
+    "money": "8000.08",
+    "rechargeTotal": 100,
+    "phone": "8357911854",
+    "sum": 10846,
+    "count": 10,
+    "single": 1084.6,
+    "withdraws": "2201"
+  },
+  {
+    "money": "101.46",
+    "rechargeTotal": 0,
+    "phone": "9839822662",
+    "sum": 723,
+    "count": 5,
+    "single": 144.6,
+    "withdraws": "201"
+  },
+  {
+    "money": "0.57",
+    "rechargeTotal": 2940,
+    "phone": "9653178006",
+    "sum": 23,
+    "count": 2,
+    "single": 11.5,
+    "withdraws": "210"
+  },
+  {
+    "money": "0.29",
+    "rechargeTotal": 110,
+    "phone": "9700243970",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "5.00",
+    "rechargeTotal": 0,
+    "phone": "9451260084",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "0.80",
+    "rechargeTotal": 0,
+    "phone": "8168088924",
+    "sum": 10,
+    "count": 2,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "0.03",
+    "rechargeTotal": 200,
+    "phone": "8462923868",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "9.00",
+    "rechargeTotal": 0,
+    "phone": "7803064612",
+    "sum": 128,
+    "count": 4,
+    "single": 32,
+    "withdraws": 0
+  },
+  {
+    "money": "10669.66",
+    "rechargeTotal": 1001,
+    "phone": "7267914783",
+    "sum": 10728,
+    "count": 8,
+    "single": 1341,
+    "withdraws": 0
+  },
+  {
+    "money": "0.89",
+    "rechargeTotal": 0,
+    "phone": "7724056217",
+    "sum": 351,
+    "count": 7,
+    "single": 50.14,
+    "withdraws": 0
+  },
+  {
+    "money": "162.59",
+    "rechargeTotal": 0,
+    "phone": "9303232943",
+    "sum": 346,
+    "count": 6,
+    "single": 57.67,
+    "withdraws": 0
+  },
+  {
+    "money": "217.09",
+    "rechargeTotal": 220,
+    "phone": "8446680245",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "0.00",
+    "rechargeTotal": 0,
+    "phone": "9528932871",
+    "sum": 728,
+    "count": 6,
+    "single": 121.33,
+    "withdraws": 0
+  },
+  {
+    "money": "-25598.75",
+    "rechargeTotal": 11610,
+    "phone": "8780253991",
+    "sum": 269,
+    "count": 8,
+    "single": 33.63,
+    "withdraws": 0
+  },
+  {
+    "money": "0.39",
+    "rechargeTotal": 0,
+    "phone": "7067365207",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "1638.66",
+    "rechargeTotal": 0,
+    "phone": "9303781337",
+    "sum": 11446,
+    "count": 12,
+    "single": 953.83,
+    "withdraws": "5201"
+  },
+  {
+    "money": "0.98",
+    "rechargeTotal": 110,
+    "phone": "7043602882",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "108.45",
+    "rechargeTotal": 0,
+    "phone": "9335037105",
+    "sum": 123,
+    "count": 3,
+    "single": 41,
+    "withdraws": 0
+  },
+  {
+    "money": "1.46",
+    "rechargeTotal": 500,
+    "phone": "9453717636",
+    "sum": 23,
+    "count": 2,
+    "single": 11.5,
+    "withdraws": 0
+  },
+  {
+    "money": "0.26",
+    "rechargeTotal": 0,
+    "phone": "9570605653",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "0.61",
+    "rechargeTotal": 2100,
+    "phone": "0913786785",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "-59212.24",
+    "rechargeTotal": 2130,
+    "phone": "8169508306",
+    "sum": 4046,
+    "count": 10,
+    "single": 404.6,
+    "withdraws": 0
+  },
+  {
+    "money": "-59124.08",
+    "rechargeTotal": 1000,
+    "phone": "8160667976",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "-88539.91",
+    "rechargeTotal": 1000,
+    "phone": "7722850532",
+    "sum": 10,
+    "count": 2,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "0.95",
+    "rechargeTotal": 0,
+    "phone": "8948457740",
+    "sum": 23,
+    "count": 2,
+    "single": 11.5,
+    "withdraws": 0
+  },
+  {
+    "money": "0.30",
+    "rechargeTotal": 0,
+    "phone": "8948275053",
+    "sum": 10,
+    "count": 2,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "0.44",
+    "rechargeTotal": 0,
+    "phone": "7047462943",
+    "sum": 723,
+    "count": 5,
+    "single": 144.6,
+    "withdraws": "629"
+  },
+  {
+    "money": "18.54",
+    "rechargeTotal": 300,
+    "phone": "8469251694",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "-65219.59",
+    "rechargeTotal": 1000,
+    "phone": "7736159355",
+    "sum": 1451,
+    "count": 11,
+    "single": 131.91,
+    "withdraws": 0
+  },
+  {
+    "money": "100.99",
+    "rechargeTotal": 2500,
+    "phone": "9372963331",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "4.27",
+    "rechargeTotal": 2000,
+    "phone": "9382313021",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": "3000"
+  },
+  {
+    "money": "0.63",
+    "rechargeTotal": 200,
+    "phone": "8271126975",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "0.77",
+    "rechargeTotal": 0,
+    "phone": "7084507437",
+    "sum": 23,
+    "count": 2,
+    "single": 11.5,
+    "withdraws": 0
+  },
+  {
+    "money": "1.02",
+    "rechargeTotal": 502,
+    "phone": "9837658286",
+    "sum": 11046,
+    "count": 11,
+    "single": 1004.18,
+    "withdraws": "7620"
+  },
+  {
+    "money": "0.00",
+    "rechargeTotal": 0,
+    "phone": "6388220323",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "821.17",
+    "rechargeTotal": 200,
+    "phone": "8815532669",
+    "sum": 323,
+    "count": 4,
+    "single": 80.75,
+    "withdraws": "201"
+  },
+  {
+    "money": "5.00",
+    "rechargeTotal": 0,
+    "phone": "8079002203",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "0.00",
+    "rechargeTotal": 1150,
+    "phone": "7897661985",
+    "sum": 10,
+    "count": 2,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "6.03",
+    "rechargeTotal": 0,
+    "phone": "7000254284",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "0.21",
+    "rechargeTotal": 0,
+    "phone": "8999152203",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "5.00",
+    "rechargeTotal": 0,
+    "phone": "8141551374",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "5.00",
+    "rechargeTotal": 0,
+    "phone": "9301414771",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "19.03",
+    "rechargeTotal": 0,
+    "phone": "9691350161",
+    "sum": 23,
+    "count": 2,
+    "single": 11.5,
+    "withdraws": 0
+  },
+  {
+    "money": "0.44",
+    "rechargeTotal": 515,
+    "phone": "9759364195",
+    "sum": 23,
+    "count": 2,
+    "single": 11.5,
+    "withdraws": 0
+  },
+  {
+    "money": "3018.67",
+    "rechargeTotal": 500,
+    "phone": "7607380939",
+    "sum": 10746,
+    "count": 9,
+    "single": 1194,
+    "withdraws": "2601"
+  },
+  {
+    "money": "9.80",
+    "rechargeTotal": 0,
+    "phone": "8827453742",
+    "sum": 246,
+    "count": 6,
+    "single": 41,
+    "withdraws": "210"
+  },
+  {
+    "money": "18.69",
+    "rechargeTotal": 0,
+    "phone": "9926896926",
+    "sum": 23,
+    "count": 2,
+    "single": 11.5,
+    "withdraws": 0
+  },
+  {
+    "money": "-3479.80",
+    "rechargeTotal": 3300,
+    "phone": "6391922856",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "219.44",
+    "rechargeTotal": 110,
+    "phone": "7987106509",
+    "sum": 23,
+    "count": 2,
+    "single": 11.5,
+    "withdraws": "201"
+  },
+  {
+    "money": "0.38",
+    "rechargeTotal": 0,
+    "phone": "7797632344",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "0.47",
+    "rechargeTotal": 0,
+    "phone": "7088641097",
+    "sum": 4046,
+    "count": 10,
+    "single": 404.6,
+    "withdraws": "2800"
+  },
+  {
+    "money": "0.04",
+    "rechargeTotal": 0,
+    "phone": "7456824404",
+    "sum": 4046,
+    "count": 10,
+    "single": 404.6,
+    "withdraws": "3000"
+  },
+  {
+    "money": "0.15",
+    "rechargeTotal": 0,
+    "phone": "6294967278",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "0.34",
+    "rechargeTotal": 0,
+    "phone": "9675518221",
+    "sum": 4046,
+    "count": 10,
+    "single": 404.6,
+    "withdraws": 0
+  },
+  {
+    "money": "3.70",
+    "rechargeTotal": 300,
+    "phone": "8503949508",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "0.10",
+    "rechargeTotal": 500,
+    "phone": "9588366564",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "0.88",
+    "rechargeTotal": 0,
+    "phone": "9193711475",
+    "sum": 4046,
+    "count": 10,
+    "single": 404.6,
+    "withdraws": "3000"
+  },
+  {
+    "money": "23053.70",
+    "rechargeTotal": 20100,
+    "phone": "8436484433",
+    "sum": 723,
+    "count": 5,
+    "single": 144.6,
+    "withdraws": 0
+  },
+  {
+    "money": "0.91",
+    "rechargeTotal": 110,
+    "phone": "7974690691",
+    "sum": 23,
+    "count": 2,
+    "single": 11.5,
+    "withdraws": 0
+  },
+  {
+    "money": "0.00",
+    "rechargeTotal": 0,
+    "phone": "7056220046",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "10211.31",
+    "rechargeTotal": 100,
+    "phone": "7411418536",
+    "sum": 11046,
+    "count": 11,
+    "single": 1004.18,
+    "withdraws": "621"
+  },
+  {
+    "money": "9107.39",
+    "rechargeTotal": 200,
+    "phone": "7795164972",
+    "sum": 11046,
+    "count": 11,
+    "single": 1004.18,
+    "withdraws": 0
+  },
+  {
+    "money": "5.95",
+    "rechargeTotal": 0,
+    "phone": "8808285261",
+    "sum": 33,
+    "count": 4,
+    "single": 8.25,
+    "withdraws": 0
+  },
+  {
+    "money": "7062.53",
+    "rechargeTotal": 0,
+    "phone": "9580261450",
+    "sum": 11046,
+    "count": 11,
+    "single": 1004.18,
+    "withdraws": "201"
+  },
+  {
+    "money": "23.00",
+    "rechargeTotal": 0,
+    "phone": "8953223926",
+    "sum": 23,
+    "count": 2,
+    "single": 11.5,
+    "withdraws": 0
+  },
+  {
+    "money": "18210.14",
+    "rechargeTotal": 0,
+    "phone": "9984797653",
+    "sum": 11046,
+    "count": 11,
+    "single": 1004.18,
+    "withdraws": "500"
+  },
+  {
+    "money": "517.25",
+    "rechargeTotal": 0,
+    "phone": "9198719278",
+    "sum": 723,
+    "count": 5,
+    "single": 144.6,
+    "withdraws": "210"
+  },
+  {
+    "money": "1051.00",
+    "rechargeTotal": 0,
+    "phone": "8882650283",
+    "sum": 1051,
+    "count": 10,
+    "single": 105.1,
+    "withdraws": 0
+  },
+  {
+    "money": "0.18",
+    "rechargeTotal": 0,
+    "phone": "8006985906",
+    "sum": 11046,
+    "count": 11,
+    "single": 1004.18,
+    "withdraws": 0
+  },
+  {
+    "money": "7360.33",
+    "rechargeTotal": 0,
+    "phone": "7309758701",
+    "sum": 11046,
+    "count": 11,
+    "single": 1004.18,
+    "withdraws": 0
+  },
+  {
+    "money": "5.00",
+    "rechargeTotal": 0,
+    "phone": "7599444431",
+    "sum": 4046,
+    "count": 10,
+    "single": 404.6,
+    "withdraws": "2500"
+  },
+  {
+    "money": "11058.00",
+    "rechargeTotal": 0,
+    "phone": "8417044096",
+    "sum": 11046,
+    "count": 11,
+    "single": 1004.18,
+    "withdraws": 0
+  },
+  {
+    "money": "0.44",
+    "rechargeTotal": 0,
+    "phone": "7398359899",
+    "sum": 11046,
+    "count": 11,
+    "single": 1004.18,
+    "withdraws": 0
+  },
+  {
+    "money": "3.90",
+    "rechargeTotal": 0,
+    "phone": "6388043064",
+    "sum": 11046,
+    "count": 11,
+    "single": 1004.18,
+    "withdraws": "440"
+  },
+  {
+    "money": "323.82",
+    "rechargeTotal": 0,
+    "phone": "7232931209",
+    "sum": 11046,
+    "count": 11,
+    "single": 1004.18,
+    "withdraws": 0
+  },
+  {
+    "money": "12.45",
+    "rechargeTotal": 0,
+    "phone": "9648195798",
+    "sum": 11046,
+    "count": 11,
+    "single": 1004.18,
+    "withdraws": "701"
+  },
+  {
+    "money": "5.00",
+    "rechargeTotal": 0,
+    "phone": "8795215327",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "5.00",
+    "rechargeTotal": 0,
+    "phone": "9151326564",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "5.00",
+    "rechargeTotal": 0,
+    "phone": "9151323564",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "691.94",
+    "rechargeTotal": 0,
+    "phone": "7880476804",
+    "sum": 846,
+    "count": 8,
+    "single": 105.75,
+    "withdraws": 0
+  },
+  {
+    "money": "469.00",
+    "rechargeTotal": 0,
+    "phone": "8853983642",
+    "sum": 469,
+    "count": 9,
+    "single": 52.11,
+    "withdraws": 0
+  },
+  {
+    "money": "469.00",
+    "rechargeTotal": 0,
+    "phone": "8527663250",
+    "sum": 469,
+    "count": 9,
+    "single": 52.11,
+    "withdraws": 0
+  },
+  {
+    "money": "288.16",
+    "rechargeTotal": 1055,
+    "phone": "9867332202",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "300.12",
+    "rechargeTotal": 0,
+    "phone": "9198151904",
+    "sum": 346,
+    "count": 6,
+    "single": 57.67,
+    "withdraws": 0
+  },
+  {
+    "money": "3.41",
+    "rechargeTotal": 500,
+    "phone": "9980805366",
+    "sum": 10,
+    "count": 2,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "0.14",
+    "rechargeTotal": 555,
+    "phone": "9303205564",
+    "sum": 138,
+    "count": 6,
+    "single": 23,
+    "withdraws": 0
+  },
+  {
+    "money": "175.40",
+    "rechargeTotal": 110,
+    "phone": "6263852743",
+    "sum": 123,
+    "count": 3,
+    "single": 41,
+    "withdraws": 0
+  },
+  {
+    "money": "10.03",
+    "rechargeTotal": 0,
+    "phone": "9990242257",
+    "sum": 10,
+    "count": 2,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "0.45",
+    "rechargeTotal": 0,
+    "phone": "9118229956",
+    "sum": 15,
+    "count": 3,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "153.36",
+    "rechargeTotal": 0,
+    "phone": "7379831770",
+    "sum": 10728,
+    "count": 8,
+    "single": 1341,
+    "withdraws": 0
+  },
+  {
+    "money": "0.22",
+    "rechargeTotal": 557,
+    "phone": "9321650798",
+    "sum": 23,
+    "count": 2,
+    "single": 11.5,
+    "withdraws": "1000"
+  },
+  {
+    "money": "71.96",
+    "rechargeTotal": 0,
+    "phone": "9628891520",
+    "sum": 10746,
+    "count": 9,
+    "single": 1194,
+    "withdraws": "10621"
+  },
+  {
+    "money": "70.22",
+    "rechargeTotal": 0,
+    "phone": "9559686475",
+    "sum": 143,
+    "count": 7,
+    "single": 20.43,
+    "withdraws": 0
+  },
+  {
+    "money": "95.28",
+    "rechargeTotal": 100,
+    "phone": "7355850919",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "630.18",
+    "rechargeTotal": 710,
+    "phone": "8789205952",
+    "sum": 10846,
+    "count": 10,
+    "single": 1084.6,
+    "withdraws": "9500"
+  },
+  {
+    "money": "3.77",
+    "rechargeTotal": 0,
+    "phone": "6261379924",
+    "sum": 169,
+    "count": 7,
+    "single": 24.14,
+    "withdraws": 0
+  },
+  {
+    "money": "20.45",
+    "rechargeTotal": 0,
+    "phone": "7489814953",
+    "sum": 128,
+    "count": 4,
+    "single": 32,
+    "withdraws": 0
+  },
+  {
+    "money": "5.00",
+    "rechargeTotal": 0,
+    "phone": "9691651350",
+    "sum": 128,
+    "count": 4,
+    "single": 32,
+    "withdraws": 0
+  },
+  {
+    "money": "5.50",
+    "rechargeTotal": 110,
+    "phone": "8356975385",
+    "sum": 10,
+    "count": 2,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "-104404.36",
+    "rechargeTotal": 1000,
+    "phone": "6206064227",
+    "sum": 28,
+    "count": 3,
+    "single": 9.33,
+    "withdraws": 0
+  },
+  {
+    "money": "0.04",
+    "rechargeTotal": 0,
+    "phone": "9161654834",
+    "sum": 15,
+    "count": 3,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "1.99",
+    "rechargeTotal": 0,
+    "phone": "9725646214",
+    "sum": 133,
+    "count": 5,
+    "single": 26.6,
+    "withdraws": 0
+  },
+  {
+    "money": "246.90",
+    "rechargeTotal": 0,
+    "phone": "8755196229",
+    "sum": 123,
+    "count": 3,
+    "single": 41,
+    "withdraws": 0
+  },
+  {
+    "money": "10841.00",
+    "rechargeTotal": 0,
+    "phone": "7518069354",
+    "sum": 10846,
+    "count": 10,
+    "single": 1084.6,
+    "withdraws": 0
+  },
+  {
+    "money": "510.68",
+    "rechargeTotal": 300,
+    "phone": "9407709092",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "1628.62",
+    "rechargeTotal": 1300,
+    "phone": "9467029103",
+    "sum": 23,
+    "count": 2,
+    "single": 11.5,
+    "withdraws": 0
+  },
+  {
+    "money": "0.00",
+    "rechargeTotal": 100,
+    "phone": "9897039810",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "0.50",
+    "rechargeTotal": 500,
+    "phone": "7000230036",
+    "sum": 10,
+    "count": 2,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "123.00",
+    "rechargeTotal": 0,
+    "phone": "6396727162",
+    "sum": 123,
+    "count": 3,
+    "single": 41,
+    "withdraws": 0
+  },
+  {
+    "money": "303.04",
+    "rechargeTotal": 0,
+    "phone": "9326510613",
+    "sum": 328,
+    "count": 5,
+    "single": 65.6,
+    "withdraws": 0
+  },
+  {
+    "money": "2641.72",
+    "rechargeTotal": 3110,
+    "phone": "9073869222",
+    "sum": 128,
+    "count": 4,
+    "single": 32,
+    "withdraws": 0
+  },
+  {
+    "money": "0.10",
+    "rechargeTotal": 100,
+    "phone": "9696895853",
+    "sum": 10,
+    "count": 2,
+    "single": 5,
+    "withdraws": "400"
+  },
+  {
+    "money": "5.00",
+    "rechargeTotal": 0,
+    "phone": "7869883703",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "10483.76",
+    "rechargeTotal": 0,
+    "phone": "9142812766",
+    "sum": 10846,
+    "count": 10,
+    "single": 1084.6,
+    "withdraws": 0
+  },
+  {
+    "money": "5046.48",
+    "rechargeTotal": 0,
+    "phone": "8950844301",
+    "sum": 3846,
+    "count": 9,
+    "single": 427.33,
+    "withdraws": 0
+  },
+  {
+    "money": "0.99",
+    "rechargeTotal": 0,
+    "phone": "7081845590",
+    "sum": 151,
+    "count": 6,
+    "single": 25.17,
+    "withdraws": 0
+  },
+  {
+    "money": "5.15",
+    "rechargeTotal": 0,
+    "phone": "6392659047",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "0.00",
+    "rechargeTotal": 0,
+    "phone": "9335420621",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "4.24",
+    "rechargeTotal": 0,
+    "phone": "6388177314",
+    "sum": 133,
+    "count": 5,
+    "single": 26.6,
+    "withdraws": 0
+  },
+  {
+    "money": "0.28",
+    "rechargeTotal": 0,
+    "phone": "9161136628",
+    "sum": 151,
+    "count": 6,
+    "single": 25.17,
+    "withdraws": 0
+  },
+  {
+    "money": "304.30",
+    "rechargeTotal": 200,
+    "phone": "7307122457",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "5.15",
+    "rechargeTotal": 0,
+    "phone": "9982293363",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "2.33",
+    "rechargeTotal": 0,
+    "phone": "6377108176",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "380.01",
+    "rechargeTotal": 0,
+    "phone": "9029409266",
+    "sum": 3723,
+    "count": 6,
+    "single": 620.5,
+    "withdraws": "3000"
+  },
+  {
+    "money": "0.30",
+    "rechargeTotal": 200,
+    "phone": "9693212116",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "0.55",
+    "rechargeTotal": 2055,
+    "phone": "8452057101",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": "2212"
+  },
+  {
+    "money": "328.81",
+    "rechargeTotal": 300,
+    "phone": "9140430089",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "9992.42",
+    "rechargeTotal": 0,
+    "phone": "7091053135",
+    "sum": 10846,
+    "count": 10,
+    "single": 1084.6,
+    "withdraws": 0
+  },
+  {
+    "money": "554.03",
+    "rechargeTotal": 500,
+    "phone": "7003093641",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "82.98",
+    "rechargeTotal": 3000,
+    "phone": "7003777621",
+    "sum": 74,
+    "count": 7,
+    "single": 10.57,
+    "withdraws": 0
+  },
+  {
+    "money": "3.85",
+    "rechargeTotal": 500,
+    "phone": "9303257097",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "5.00",
+    "rechargeTotal": 0,
+    "phone": "7991381514",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "12092.30",
+    "rechargeTotal": 100,
+    "phone": "9131143603",
+    "sum": 10723,
+    "count": 7,
+    "single": 1531.86,
+    "withdraws": 0
+  },
+  {
+    "money": "127.18",
+    "rechargeTotal": 0,
+    "phone": "6391844159",
+    "sum": 128,
+    "count": 4,
+    "single": 32,
+    "withdraws": 0
+  },
+  {
+    "money": "0.50",
+    "rechargeTotal": 0,
+    "phone": "9555061685",
+    "sum": 10846,
+    "count": 10,
+    "single": 1084.6,
+    "withdraws": "2100"
+  },
+  {
+    "money": "0.19",
+    "rechargeTotal": 0,
+    "phone": "6391721488",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "12.64",
+    "rechargeTotal": 0,
+    "phone": "9795413737",
+    "sum": 10846,
+    "count": 10,
+    "single": 1084.6,
+    "withdraws": "1501"
+  },
+  {
+    "money": "10.45",
+    "rechargeTotal": 0,
+    "phone": "8931086807",
+    "sum": 15,
+    "count": 3,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "356.89",
+    "rechargeTotal": 300,
+    "phone": "8010851037",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "10002.54",
+    "rechargeTotal": 0,
+    "phone": "7204088113",
+    "sum": 10846,
+    "count": 10,
+    "single": 1084.6,
+    "withdraws": 0
+  },
+  {
+    "money": "0.20",
+    "rechargeTotal": 100,
+    "phone": "9792535369",
+    "sum": 20,
+    "count": 4,
+    "single": 5,
+    "withdraws": "500"
+  },
+  {
+    "money": "124.59",
+    "rechargeTotal": 0,
+    "phone": "7898155443",
+    "sum": 369,
+    "count": 9,
+    "single": 41,
+    "withdraws": 0
+  },
+  {
+    "money": "237.01",
+    "rechargeTotal": 0,
+    "phone": "8583937114",
+    "sum": 123,
+    "count": 3,
+    "single": 41,
+    "withdraws": 0
+  },
+  {
+    "money": "0.00",
+    "rechargeTotal": 0,
+    "phone": "9648926049",
+    "sum": 15,
+    "count": 3,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "5.00",
+    "rechargeTotal": 0,
+    "phone": "6392357867",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "125.02",
+    "rechargeTotal": 0,
+    "phone": "7259304832",
+    "sum": 133,
+    "count": 5,
+    "single": 26.6,
+    "withdraws": 0
+  },
+  {
+    "money": "3.14",
+    "rechargeTotal": 110,
+    "phone": "9163362367",
+    "sum": 23,
+    "count": 2,
+    "single": 11.5,
+    "withdraws": 0
+  },
+  {
+    "money": "10946.00",
+    "rechargeTotal": 0,
+    "phone": "6388935106",
+    "sum": 10946,
+    "count": 10,
+    "single": 1094.6,
+    "withdraws": 0
+  },
+  {
+    "money": "0.02",
+    "rechargeTotal": 0,
+    "phone": "9870282710",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "995.61",
+    "rechargeTotal": 800,
+    "phone": "9735354358",
+    "sum": 28,
+    "count": 3,
+    "single": 9.33,
+    "withdraws": 0
+  },
+  {
+    "money": "0.55",
+    "rechargeTotal": 0,
+    "phone": "9756910873",
+    "sum": 346,
+    "count": 6,
+    "single": 57.67,
+    "withdraws": 0
+  },
+  {
+    "money": "990.92",
+    "rechargeTotal": 1000,
+    "phone": "7000162093",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "3746.00",
+    "rechargeTotal": 0,
+    "phone": "91186 4730",
+    "sum": 3746,
+    "count": 8,
+    "single": 468.25,
+    "withdraws": 0
+  },
+  {
+    "money": "6.00",
+    "rechargeTotal": 0,
+    "phone": "8004699354",
+    "sum": 10746,
+    "count": 9,
+    "single": 1194,
+    "withdraws": "10740"
+  },
+  {
+    "money": "10746.00",
+    "rechargeTotal": 0,
+    "phone": "7518071670",
+    "sum": 10746,
+    "count": 9,
+    "single": 1194,
+    "withdraws": 0
+  },
+  {
+    "money": "366.00",
+    "rechargeTotal": 0,
+    "phone": "7525994425",
+    "sum": 10746,
+    "count": 9,
+    "single": 1194,
+    "withdraws": "10380"
+  },
+  {
+    "money": "6.00",
+    "rechargeTotal": 0,
+    "phone": "9956270107",
+    "sum": 10746,
+    "count": 9,
+    "single": 1194,
+    "withdraws": "10740"
+  },
+  {
+    "money": "6.00",
+    "rechargeTotal": 0,
+    "phone": "9956276107",
+    "sum": 10746,
+    "count": 9,
+    "single": 1194,
+    "withdraws": "10740"
+  },
+  {
+    "money": "6.00",
+    "rechargeTotal": 0,
+    "phone": "9044015429",
+    "sum": 10746,
+    "count": 9,
+    "single": 1194,
+    "withdraws": "10740"
+  },
+  {
+    "money": "0.45",
+    "rechargeTotal": 0,
+    "phone": "9926896934",
+    "sum": 10746,
+    "count": 9,
+    "single": 1194,
+    "withdraws": "7000"
+  },
+  {
+    "money": "16.99",
+    "rechargeTotal": 0,
+    "phone": "7869384179",
+    "sum": 10,
+    "count": 2,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "110.75",
+    "rechargeTotal": 100,
+    "phone": "9754037849",
+    "sum": 28,
+    "count": 3,
+    "single": 9.33,
+    "withdraws": 0
+  },
+  {
+    "money": "16.95",
+    "rechargeTotal": 0,
+    "phone": "9009431726",
+    "sum": 10,
+    "count": 2,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "8034.42",
+    "rechargeTotal": 555,
+    "phone": "7000584577",
+    "sum": 10723,
+    "count": 7,
+    "single": 1531.86,
+    "withdraws": "7270"
+  },
+  {
+    "money": "4614.11",
+    "rechargeTotal": 10600,
+    "phone": "7987534888",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": "201"
+  },
+  {
+    "money": "133.00",
+    "rechargeTotal": 0,
+    "phone": "8101308699",
+    "sum": 123,
+    "count": 3,
+    "single": 41,
+    "withdraws": 0
+  },
+  {
+    "money": "0.79",
+    "rechargeTotal": 110,
+    "phone": "7840866058",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "20307.90",
+    "rechargeTotal": 0,
+    "phone": "9129403020",
+    "sum": 10746,
+    "count": 9,
+    "single": 1194,
+    "withdraws": "201"
+  },
+  {
+    "money": "31315.04",
+    "rechargeTotal": 10900,
+    "phone": "6394279582",
+    "sum": 10746,
+    "count": 9,
+    "single": 1194,
+    "withdraws": "25522"
+  },
+  {
+    "money": "16550.77",
+    "rechargeTotal": 1000,
+    "phone": "8948743424",
+    "sum": 10728,
+    "count": 8,
+    "single": 1341,
+    "withdraws": 0
+  },
+  {
+    "money": "5.15",
+    "rechargeTotal": 0,
+    "phone": "9235098160",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "17088.20",
+    "rechargeTotal": 4100,
+    "phone": "8967452207",
+    "sum": 10746,
+    "count": 9,
+    "single": 1194,
+    "withdraws": "210"
+  },
+  {
+    "money": "10237.12",
+    "rechargeTotal": 0,
+    "phone": "6394109198",
+    "sum": 10746,
+    "count": 9,
+    "single": 1194,
+    "withdraws": 0
+  },
+  {
+    "money": "0.89",
+    "rechargeTotal": 2000,
+    "phone": "9820474491",
+    "sum": 10,
+    "count": 2,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "9317.38",
+    "rechargeTotal": 0,
+    "phone": "9340305396",
+    "sum": 10746,
+    "count": 9,
+    "single": 1194,
+    "withdraws": "402"
+  },
+  {
+    "money": "0.04",
+    "rechargeTotal": 0,
+    "phone": "9559770254",
+    "sum": 10728,
+    "count": 8,
+    "single": 1341,
+    "withdraws": 0
+  },
+  {
+    "money": "23.00",
+    "rechargeTotal": 0,
+    "phone": "9098198032",
+    "sum": 23,
+    "count": 2,
+    "single": 11.5,
+    "withdraws": 0
+  },
+  {
+    "money": "23.00",
+    "rechargeTotal": 0,
+    "phone": "6261919102",
+    "sum": 23,
+    "count": 2,
+    "single": 11.5,
+    "withdraws": 0
+  },
+  {
+    "money": "0.05",
+    "rechargeTotal": 0,
+    "phone": "7800044109",
+    "sum": 33,
+    "count": 4,
+    "single": 8.25,
+    "withdraws": 0
+  },
+  {
+    "money": "0.39",
+    "rechargeTotal": 0,
+    "phone": "9875309112",
+    "sum": 10,
+    "count": 2,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "7.83",
+    "rechargeTotal": 1000,
+    "phone": "8328853286",
+    "sum": 28,
+    "count": 3,
+    "single": 9.33,
+    "withdraws": "600"
+  },
+  {
+    "money": "1420.28",
+    "rechargeTotal": 0,
+    "phone": "9372336458",
+    "sum": 723,
+    "count": 5,
+    "single": 144.6,
+    "withdraws": 0
+  },
+  {
+    "money": "600.44",
+    "rechargeTotal": 0,
+    "phone": "8779520862",
+    "sum": 723,
+    "count": 5,
+    "single": 144.6,
+    "withdraws": 0
+  },
+  {
+    "money": "128.00",
+    "rechargeTotal": 0,
+    "phone": "8303697701",
+    "sum": 128,
+    "count": 4,
+    "single": 32,
+    "withdraws": 0
+  },
+  {
+    "money": "5.43",
+    "rechargeTotal": 0,
+    "phone": "9565640256",
+    "sum": 10728,
+    "count": 8,
+    "single": 1341,
+    "withdraws": 0
+  },
+  {
+    "money": "-5132.41",
+    "rechargeTotal": 1112,
+    "phone": "8299254176",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "600.66",
+    "rechargeTotal": 500,
+    "phone": "9690285243",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "2419.62",
+    "rechargeTotal": 2000,
+    "phone": "7987204377",
+    "sum": 5,
+    "count": 1,
+    "single": 5,
+    "withdraws": 0
+  },
+  {
+    "money": "1.95",
+    "rechargeTotal": 0,
+    "phone": "9565962342",
+    "sum": 169,
+    "count": 7,
+    "single": 24.14,
+    "withdraws": 0
+  },
+  {
+    "money": "3411.68",
+    "rechargeTotal": 0,
+    "phone": "9648050305",
+    "sum": 3746,
+    "count": 8,
+    "single": 468.25,
+    "withdraws": 0
+  }
+]

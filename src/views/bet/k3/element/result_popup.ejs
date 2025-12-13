@@ -1,0 +1,195 @@
+<style>
+    .modal-backdrop {
+        width: 100%;
+        height: 100%;
+        background: #00000089;
+        position: fixed;
+        top: 0px;
+        bottom: 0px;
+        left: 0px;
+        right: 0px;
+        z-index: 100;
+        display: none;
+        /* display: flex; */
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+
+    }
+
+    .modal-popup_img {
+        z-index: -1;
+        width: 100%;
+        height: auto;
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        right: 0px;
+        bottom: 0px;
+        filter: hue-rotate(320deg) saturate(2.5);
+    }
+
+    .modal-popup {
+        /* 
+        background: rgb(8, 90, 187);
+        background: linear-gradient(100deg, rgba(8, 90, 187, 1) 0%, rgba(119, 202, 255, 1) 100%);*/
+        z-index: 101;
+        border-radius: 20px;
+        padding-bottom: 10px;
+        padding-inline: 30px;
+        padding-top: 5px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap: 2px;
+        position: relative;
+    }
+
+    .modal-popup__title {
+        color: #ffffff;
+        font-size: 0.65rem;
+        margin-top: 140px;
+        margin-top: 110px;
+        text-align: center;
+        width: 222px;
+        /* height: 71px; */
+        height: fit-content;
+    }
+
+    .modal-result_img {
+        width: 60px;
+        height: 60px;
+        margin-top: 10px;
+    }
+
+    .modal-popup__msg {
+        color: #f30000;
+        font-size: 0.45rem;
+        margin-top: 40px;
+    }
+
+    .modal-popup__amount {
+        color: #f30000;
+        font-size: 0.75rem;
+        border-bottom-right-radius: 10px;
+        border-bottom-left-radius: 10px;
+        padding-bottom: 5px;
+        padding-inline: 30px;
+        padding-top: 10px;
+        margin-top: 40px;
+    }
+
+    .win .loss_item {
+        display: none;
+    }
+
+    .loss .win_item {
+        display: none;
+    }
+
+    .modal-backdrop.open {
+        display: flex;
+    }
+
+    .modal-backdrop-close_button {
+        width: 100%;
+        height: 100%;
+        z-index: -1;
+        position: absolute;
+        top: 0px;
+        bottom: 0px;
+    }
+
+    .modal-popup__period {
+        margin-top: 40px;
+        font-size: 17px;
+        color: #fff;
+    }
+
+    .popup_result_img {
+        width: 35px;
+        height: 35px;
+        filter: drop-shadow(4px 4px 6px #fb2c2d);
+    }
+
+    .modal-popup__result {
+        display: flex;
+        gap: 10px;
+        margin-top: 30px;
+    }
+
+    .popup_result_img.img1 {
+        background: url(/images/1.c33ac1e3.png) no-repeat 50%;
+        background-size: 100% 100%
+    }
+
+    .popup_result_img.img2 {
+        background: url(/images/2.a3dbd317.png) no-repeat 50%;
+        background-size: 100% 100%
+    }
+
+    .popup_result_img.img3 {
+        background: url(/images/3.6e9f4676.png) no-repeat 50%;
+        background-size: 100% 100%
+    }
+
+    .popup_result_img.img4 {
+        background: url(/images/4.49ad5147.png) no-repeat 50%;
+        background-size: 100% 100%
+    }
+
+    .popup_result_img.img5 {
+        background: url(/images/5.135b3ae6.png) no-repeat 50%;
+        background-size: 100% 100%
+    }
+
+    .popup_result_img.img6 {
+        background: url(/images/6.bbf99ab0.png) no-repeat 50%;
+        background-size: 100% 100%
+    }
+</style>
+
+<!-- The Modal -->
+<div id="result_modal" class="modal-backdrop">
+    <div id="result_modal_close_button" class="modal-backdrop-close_button"></div>
+    <!-- Modal content -->
+    <div class="modal-popup">
+        <img src="/missningBg-9deda6ac.png" alt="Popup Image" class="modal-popup_img" />
+
+        <h3 class="modal-popup__title">
+            Congratulations
+            <!-- <br />
+            😊 -->
+        </h3>
+
+
+        <div class="modal-popup__result">
+        </div>
+
+        <!-- <h3 class="modal-popup__title loss_item">
+            So Sad
+            <br />
+            😔
+        </h3> -->
+
+        <!-- <h6 class="modal-popup__msg win_item">You won</h6> -->
+
+        <!-- <h6 class="modal-popup__msg loss_item">You loss</h6> -->
+
+        <h4 class="modal-popup__amount" id="modal_amount">600</h4>
+        <h4 class="modal-popup__period" id="period_pop">2022070158454</h4>
+    </div>
+</div>
+
+
+<script>
+    // Get the modal
+    var modal = document.getElementById("result_modal")
+    var closeButton = document.getElementById("result_modal_close_button")
+
+    // When the user clicks anywhere outside of the modal, also close it
+    closeButton.addEventListener("click", () => {
+        modal.classList.remove("open")
+    })
+</script>

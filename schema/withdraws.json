@@ -1,0 +1,22 @@
+[
+  {
+    "phone": "7666123450",
+    "money": 502,
+    "isNoRecharge": false,
+    "isSuccess": true,
+    "success": {
+      "status": true,
+      "message": "Payout initiated successfully!",
+      "data": {
+        "state": "2",
+        "failReason": "-",
+        "merchantId": "INR999888",
+        "merchantOrderId": "2024512792968886585024",
+        "orderId": "1719528060369161584",
+        "amount": "502.00",
+        "ext": "AUTO WITHDRAWAL",
+        "createdAt": "2024-06-28 04:11:00"
+      }
+    }
+  }
+]

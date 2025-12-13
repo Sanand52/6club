@@ -1,0 +1,37 @@
+[
+  {
+    "phone": "9802700727",
+    "sum": 304,
+    "count": 8,
+    "single": 38,
+    "withdraws": 0
+  },
+  {
+    "phone": "8318772340",
+    "sum": 560538,
+    "count": 14751,
+    "single": 38,
+    "withdraws": "6430"
+  },
+  {
+    "phone": "9120220844",
+    "sum": 616246,
+    "count": 16217,
+    "single": 38,
+    "withdraws": "1200"
+  },
+  {
+    "phone": "8318772341",
+    "sum": 608635,
+    "count": 16019,
+    "single": 37.99,
+    "withdraws": "5012"
+  },
+  {
+    "phone": "9120220845",
+    "sum": 135850,
+    "count": 3575,
+    "single": 38,
+    "withdraws": "600"
+  }
+]

@@ -1,0 +1,179 @@
+@charset "UTF-8";
+.van-calendar__day {
+    color: #fff
+}
+
+.van-calendar__day--disabled,
+.van-calendar__weekdays {
+    color: #80849c
+}
+
+:root {
+    --van-popup-background: #151c26;
+    --van-action-sheet-item-text-color: #fff;
+    --van-tabs-nav-background: transparent;
+    --van-tab-active-text-color: #F7D349;
+    --van-tab-text-color: rgba(255, 255, 255, .6);
+    --van-tabs-bottom-bar-color: #F7D349;
+    --van-popup-round-radius: 6px;
+    --van-action-sheet-item-background: #151c26;
+    --van-picker-background: #151c26;
+    --van-picker-mask-color: transparent;
+    --van-picker-option-text-color: #ffffff;
+    --van-calendar-background: #151c26;
+    --van-text-color: #ffffff;
+    --van-picker-confirm-action-color: #F7D349;
+    --van-picker-mask-color: #ffffff;
+    --van-calendar-month-mark-color: rgba(100, 101, 102, .2);
+    --van-dialog-confirm-button-text-color: #ffffff;
+    --van-dialog-background: #151c26;
+    --van-button-default-background: #151c26;
+    --van-dialog-has-title-message-text-color: #ffffff;
+    --van-cell-right-icon-color: #0e131b
+}
+
+.van-toast {
+    word-break: break-word !important
+}
+
+.cg-default.van-button {
+    box-shadow: 0 .05333rem #e04846;
+    font-weight: 700;
+    font-size: .4rem
+}
+
+.cg-default.van-button .van-button__icon {
+    height: 100%;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    align-items: center
+}
+
+.cg-default.van-button .van-button__icon>img {
+    height: 80%
+}
+
+#app .profit__list-item__info .price {
+    color: #fff;
+    font-size: .4rem
+}
+
+#app .noticeBar__container {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+    width: 100%;
+    padding-inline: .26667rem;
+    color: #fff;
+    font-size: .32rem;
+    border-radius: .21333rem;
+    height: .90667rem;
+    margin-top: .48rem;
+    background: -webkit-linear-gradient(left, #3042db 0%, rgba(48, 66, 219, 0) 100%);
+    background: linear-gradient(90deg, #3042db 0%, rgba(48, 66, 219, 0) 100%)
+}
+
+#app .noticeBar__container .notice-icon {
+    color: #fff;
+    width: .56rem;
+    height: .56rem
+}
+
+#app .noticeBar__container-body {
+    width: 6.4rem;
+    height: 100%;
+    overflow: hidden;
+    position: relative;
+    height: .8rem;
+    line-height: .98667rem;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    align-items: center
+}
+
+#app .noticeBar__container-body-text {
+    width: 100%;
+    height: -webkit-fit-content;
+    height: fit-content;
+    max-height: .98667rem;
+    line-height: .49333rem;
+    -webkit-animation: marquee 7s linear infinite;
+    animation: marquee 7s linear infinite;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-pack: column;
+    -webkit-justify-content: column;
+    justify-content: column;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    word-wrap: break-word;
+    word-break: break-all
+}
+
+@-webkit-keyframes marquee {
+    0% {
+        -webkit-transform: translateY(100%);
+        transform: translateY(100%)
+    }
+    10% {
+        -webkit-transform: translateY(0);
+        transform: translateY(0)
+    }
+    90% {
+        -webkit-transform: translateY(0);
+        transform: translateY(0)
+    }
+    to {
+        -webkit-transform: translateY(-100%);
+        transform: translateY(-100%)
+    }
+}
+
+@keyframes marquee {
+    0% {
+        -webkit-transform: translateY(100%);
+        transform: translateY(100%)
+    }
+    10% {
+        -webkit-transform: translateY(0);
+        transform: translateY(0)
+    }
+    90% {
+        -webkit-transform: translateY(0);
+        transform: translateY(0)
+    }
+    to {
+        -webkit-transform: translateY(-100%);
+        transform: translateY(-100%)
+    }
+}
+
+#app .noticeBar__container>svg {
+    width: .42667rem;
+    -webkit-flex-shrink: 0;
+    flex-shrink: 0;
+    height: auto;
+    margin-right: .22667rem
+}
+
+#app .noticeBar__container .more {
+    width: 1.54667rem;
+    height: .64rem;
+    color: #fff;
+    position: relative;
+    background: -webkit-linear-gradient(right, #7a2bbf 0%, #e616de 27%, #f90089 73%, #fb2936 100%);
+    background: linear-gradient(270deg, #7a2bbf 0%, #e616de 27%, #f90089 73%, #fb2936 100%);
+    text-align: center;
+    line-height: .64rem;
+    border-radius: .32rem
+}

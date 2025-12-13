@@ -1,0 +1,767 @@
+@charset "UTF-8";
+:root {
+  --van-popup-background: #f0f0f5;
+}
+.van-toast {
+  word-break: break-word !important;
+}
+.cg-default.van-button {
+  box-shadow: 0 0.05333rem #896646;
+  font-weight: 700;
+  font-size: 0.4rem;
+}
+.cg-default.van-button .van-button__icon {
+  height: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  align-items: center;
+}
+.cg-default.van-button .van-button__icon > img {
+  height: 80%;
+}
+html:lang(ar) #app .van-radio__label {
+  margin-left: 0;
+  margin-right: 0.06667rem;
+}
+html:lang(ar) #app .van-field__control {
+  text-align: right !important;
+}
+html:lang(ar) #app .withdraw__container .Recharge__container-intro p {
+  text-align: right !important;
+}
+html:lang(ar) #app .withdraw__container .Recharge__container-intro p:after {
+  position: absolute;
+  content: "";
+  width: 0.13333rem;
+  height: 0.13333rem;
+  -webkit-transform: rotate(45deg);
+  transform: rotate(45deg);
+  background: #FFF;
+  right: -0.06667rem;
+  top: 0.18667rem;
+}
+html:lang(ar) #app .withdraw__container .wC4Id .title {
+  background-position: right center !important;
+}
+html:lang(ar) #app .withdraw__container .wC4Id .right-icon {
+  left: 0.48rem;
+  right: auto !important;
+}
+html:lang(ar)
+  #app
+  .withdraw__container
+  .bankInfo
+  .bankInfoItem
+  > div:nth-of-type(2) {
+  background-position: right center !important;
+}
+html:lang(ar)
+  #app
+  .withdraw__container
+  .arType
+  .c2cWithdraw__C-input
+  .place-div {
+  border-left: 0.01333rem solid #bdbdbd;
+  border-right: 0;
+  -webkit-padding-start: 0.13333rem;
+  padding-inline-start: 0.13333rem;
+}
+html:lang(ar) #app .bankCard__container .line:after {
+  display: none;
+}
+html:lang(ar) #app .bankCard__container-content__card-mid .line .right {
+  text-align: left;
+}
+html:lang(ar) #app .type4_C-item .header,
+html:lang(ar) #app .addtype4_C-header {
+  background-position: right center !important;
+}
+html:lang(ar) #app .Recharge__content-paymoney__money-input .amount-input {
+  margin-right: 1.33333rem;
+}
+html:lang(ar) #app .Recharge__container-intro__lists .item p:after {
+  left: 0 !important;
+  right: -0.06667rem;
+}
+html:lang(ar) #app .rechargeDetail__container-body__title h1,
+html:lang(ar) #app .rechargeDetail__container .van-action-sheet .title h1 {
+  background-position: right center;
+}
+html:lang(ar) #app .vip-RebateDetails-items .header {
+  background-position: right top !important;
+}
+html:lang(ar)
+  #app
+  .vip-RebateDetails-items
+  .item
+  > div:first-child
+  > span:first-child,
+html:lang(ar)
+  #app
+  .vip-RebateDetails-items
+  .item
+  > div:not(.line)
+  > span:first-child {
+  background-position: right;
+}
+html:lang(ar) #app .bonus-items .head .left {
+  border-radius: 0 0.26667rem 0 0;
+}
+html:lang(ar) #app .bonus-items .head .left:before {
+  right: auto !important;
+  left: 0;
+  background: -webkit-linear-gradient(344deg, #fff 50%, transparent 50%);
+  background: linear-gradient(106deg, #fff 50%, transparent 50%);
+  -webkit-clip-path: polygon(0 0, 0 100%, 100% 0);
+  clip-path: polygon(0 0, 0 100%, 100% 0);
+}
+html:lang(ar) #app .bonus-items .head .right {
+  -webkit-box-pack: left;
+  -webkit-justify-content: left;
+  justify-content: left;
+  -webkit-padding-start: 0.26667rem;
+  padding-inline-start: 0.26667rem;
+}
+html:lang(ar)
+  #app
+  .Laundry-page
+  .laundry-page_container
+  .laundry-page_list
+  .title:before {
+  left: auto !important;
+  right: 0;
+}
+html:lang(ar) #app .dailySignInRules__container .rule > div:not(.head):before {
+  left: auto !important;
+  right: 0;
+}
+html:lang(ar)
+  #app
+  .redeem__container-detail__description-body__left
+  > div:last-of-type
+  span:first-of-type:after {
+  margin-left: auto;
+  margin-right: 50%;
+}
+html:lang(ar) #app .addAddress__container-forum__item .input_model .dropCon {
+  margin-right: 0;
+  margin-left: 0.13333rem;
+}
+html:lang(ar) #app .turntable-detail .rule > div:not(.head):before {
+  left: auto !important;
+  right: 0;
+}
+html:lang(ar) #app .turntable-pointRule__title {
+  -webkit-clip-path: polygon(0 0, 100% 0, 100% 100%, 3% 100%);
+  clip-path: polygon(0 0, 100% 0, 100% 100%, 3% 100%);
+}
+html:lang(ar) #app .turntable-pointRule__title svg {
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+}
+html:lang(ar) #app .ChampionshipDetail .rule .con p:after {
+  left: auto !important;
+  right: 0;
+}
+html:lang(ar) #app .popup__container-numLine > div:first-child {
+  background: -webkit-linear-gradient(28deg, transparent 0.46667rem, #fff 0) 0 0;
+  background: linear-gradient(-298deg, transparent 0.46667rem, #fff 0) 0 0;
+  -webkit-padding-start: 0 !important;
+  padding-inline-start: 0 !important;
+}
+html:lang(ar) #app .StrongBoxAbout__container-header {
+  background: -webkit-linear-gradient(28deg, transparent 0.46667rem, #FFF 0)
+    0 0;
+  background: linear-gradient(-298deg, transparent 0.46667rem, #FFF 0) 0 0;
+}
+html:lang(ar) #app .StrongBoxAbout__container-header:before {
+  left: auto !important;
+  right: 0;
+}
+html:lang(ar) #app .StrongBoxAbout__container-header:after {
+  display: none;
+}
+html:lang(ar) #app .treasure__container__treasure-item__footer-ending > span,
+html:lang(ar) #app .treasure__container__treasure-item__footer-cost > span,
+html:lang(ar) #app .lotteryDetail__container-item__hero-footer__ending > span,
+html:lang(ar) #app .lotteryDetail__container-item__hero-footer__cost > span {
+  -webkit-clip-path: polygon(0 0, 100% 0, 100% 100%, 7% 100%);
+  clip-path: polygon(0 0, 100% 0, 100% 100%, 7% 100%);
+}
+html:lang(ar)
+  #app
+  .pointMall__container-products__tabs
+  > div:first-of-type:before,
+html:lang(ar) #app .lotteryDetail__container-item__luckyNumber h1:before {
+  left: auto !important;
+  right: 0;
+}
+html:lang(ar)
+  #app
+  .pointMall__container-products__content-item__header-redeemed {
+  right: auto !important;
+  left: 0;
+  background: -webkit-linear-gradient(top, #FFF 20%, #FFF 100%);
+  background: linear-gradient(180deg, #FFF 20%, #FFF 100%);
+  border-top-right-radius: 0.53333rem;
+}
+html:lang(ar)
+  #app
+  .myLottery__container-products__item-header__right
+  > div:last-of-type
+  span.right {
+  margin-right: auto;
+  margin-left: 0 !important;
+}
+html:lang(ar)
+  #app
+  .myLottery__container-products__item-header__right
+  > div:last-of-type
+  span.right:before {
+  right: -65%;
+  left: auto;
+}
+html:lang(ar) #app .pointMallRecord__container-header-date div {
+  padding: 0 0.26667rem;
+}
+html:lang(ar) #app .myOrders__container-item__footer > div span:first-of-type,
+html:lang(ar)
+  #app
+  .orderDetail__container-content__itemDetail-body__footer
+  > div
+  span:first-of-type {
+  -webkit-clip-path: polygon(0 0, 100% 0, 100% 100%, 7% 100%);
+  clip-path: polygon(0 0, 100% 0, 100% 100%, 7% 100%);
+}
+html:lang(ar) #app .StrongBoxAbout__container-detail-text {
+  background: none;
+  position: relative;
+}
+html:lang(ar) #app .StrongBoxAbout__container-detail-text:after {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 0.4rem;
+  height: 0.4rem;
+  background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAYCAYAAAAVibZIAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAFHSURBVHgBrZUxcoJAGEa/XU2TyiOQG3gEjgBFZiJNzBHsYwLB9HoCLZ00GJNebsAR9AhUppH9s2wIOkyIyO6bgYJlHsNj2WWQRP6dDcZtkIhdfxlDExb5Xp93kJQXGBbZQQRSvkNLOBic0wtEGPIO336E3nPkOz20gNcNCMDnneskevGGMCUtsDjD/D30trK7BUPSo1wmWU+8eRN5U6mi6J3kvY1JC3p5b5Wkpncb6S+q9zocbKpJdKQKArOrvbWlpfyn9+ZzMrg3Ji2wMmJT01IJpaalqSAKjEkFaCay/Y37tFx0oQmBYnkE7vi4ZGpIaSeQjdzx26o60kaayj9qhuxr6vqr9K8bLpI2XcAbSctuj822mnNSOUXEKP+iuIBurUx129d2+1/KRSyXgHJ9VK+a0YPOxsfyU/R628fhyskfcDrf2vINhBeT8jty+60AAAAASUVORK5CYII=)
+    no-repeat center;
+  background-size: cover;
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+}
+html:lang(ar) #app .StrongBox__container .popup__amount div {
+  text-align: center;
+  -webkit-padding-start: 0;
+  padding-inline-start: 0;
+}
+html:lang(ar) #app .StrongBox__container .popup__amount div + div {
+  border-right: 0.01333rem solid #d9d9d9;
+  border-left: none;
+}
+html:lang(ar) #app .StrongBox__container .popup__container-allBtn {
+  right: auto;
+  left: 0.26667rem;
+}
+html:lang(ar) #app .verifyInput__container-input button {
+  right: auto !important;
+  left: 0.26667rem;
+}
+html:lang(ar) #app .gverify-container-header-belly {
+  -webkit-padding-start: 0 !important;
+  padding-inline-start: 0 !important;
+}
+html:lang(ar) #app .resgister__C-heading,
+html:lang(ar) #app .rpwd__C-heading {
+  padding: 0 0.26667rem;
+}
+html:lang(ar) #app .setting-wrapper .content-sub_title > div {
+  border-right: 0.10667rem solid #FFF;
+  border-left: none;
+}
+html:lang(ar) #app .onlineGames__container input {
+  background-position: 4% center;
+}
+html:lang(ar) #app .dailyProfitRank .rank_list .daily_item .left .avatar_img {
+  margin-right: 0;
+  margin-left: 0.13333rem;
+}
+html:lang(ar) #app .treasure__container__treasure-item__header .treasure-state {
+  border-radius: 0.26667rem 0 0 0.26667rem !important;
+  padding: 0.04rem 0 0.04rem 0.04rem;
+}
+html:lang(ar)
+  #app
+  .treasure__container__treasure-item__header
+  .treasure-state
+  span {
+  border-radius: 0.26667rem 0 0 0.26667rem !important;
+  background: -webkit-linear-gradient(
+    left,
+    rgb(159, 170, 210) 18.36%,
+    rgb(163, 176, 222) 89.84%,
+    rgb(213, 225, 255) 96.48%,
+    rgb(120, 132, 176) 100%
+  ) !important;
+  background: linear-gradient(
+    to right,
+    rgb(159, 170, 210) 18.36%,
+    rgb(163, 176, 222) 89.84%,
+    rgb(213, 225, 255) 96.48%,
+    rgb(120, 132, 176) 100%
+  ) !important;
+}
+html:lang(ar) #app * {
+  letter-spacing: 0;
+}
+html:lang(ar) #app .navbar__content-left {
+  left: unset;
+  right: 0.32rem;
+}
+html:lang(ar) #app .navbar__content-left > div {
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+}
+html:lang(ar) #app .navbar__content-right {
+  left: 0.32rem;
+  right: unset;
+}
+html:lang(ar) #app .dropdown__list {
+  left: unset;
+  right: 0;
+}
+html:lang(ar) #app .passwordInput__container-input img {
+  right: unset;
+  left: 0.4rem;
+}
+html:lang(ar) #app .customer {
+  left: 0.4rem;
+  right: unset;
+}
+html:lang(ar) #app .noticeBar__container {
+  padding: 0 1.06667rem 0 0.26667rem;
+}
+html:lang(ar) #app .noticeBar__container {
+  background-image: url(/assets/png/ar-notice-2afc1522.png);
+  background-repeat: no-repeat;
+  background-position: 97% center;
+  background-size: 0.6rem 0.6rem;
+}
+html:lang(ar) #app .btn .close {
+  left: 0.06667rem;
+  right: unset;
+}
+html:lang(ar) #app .btn .line {
+  left: 1rem;
+  right: unset;
+}
+html:lang(ar) #app .tabbar__container-item .tab_icon,
+html:lang(ar) #app .van-icon {
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+}
+html:lang(ar) #app .tabbar__container-item:nth-of-type(3) .tab_icon {
+  -webkit-transform: translate(-50%, -92%) scaleX(-1);
+  transform: translate(-50%, -92%) scaleX(-1);
+}
+html:lang(ar) #app .hot_container .win-odds .win-p {
+  left: unset;
+  right: 0;
+}
+html:lang(ar) #app .StrongBox__container-income-godetail img,
+html:lang(ar) #app .pointMall-rule__container-claimRule__title,
+html:lang(ar) #app .pointMall-rule__container-pointRule__title {
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+}
+html:lang(ar) #app .pointMall__container-treasureActivity {
+  left: -50%;
+  -webkit-transform: translateX(50%);
+  transform: translate(50%);
+}
+html:lang(ar) #app .ar-searchbar__selector > div:first-of-type i {
+  right: unset;
+  left: 0.21333rem;
+}
+html:lang(ar)
+  #app
+  .dailySignIn__container-content__wrapper-block:last-of-type
+  .daySevenGift {
+  left: unset;
+  right: 0.53333rem;
+}
+html:lang(ar) #app .rule .head {
+  left: unset;
+  right: -0.37333rem;
+}
+html:lang(ar) #app .bonus-header {
+  background-position-x: 95%;
+}
+html:lang(ar) #app .container .info_content .info .head {
+  background-position: 96%;
+}
+html:lang(ar) #app [data-v-7cca14f8] .navbar__content-right img,
+html:lang(ar) #app .promote__cell-item .arrow img {
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+}
+html:lang(ar) #app .searchbar-container .searchIcon {
+  right: unset;
+  left: 0.13333rem;
+}
+html:lang(ar)
+  #app
+  .dailySignIn__container-content__wrapper-block:last-of-type
+  .days-span {
+  padding: 0.26667rem 0 0 0.88rem;
+}
+html:lang(ar) #app .dailySignIn__container-hero {
+  background:
+    url(/assets/png/ar-headerBg-27af7ca7.png) no-repeat 0 -0.26667rem,
+    -webkit-linear-gradient(left, #FFF 0%, #d9ad82 100%);
+  background:
+    url(/assets/png/ar-headerBg-27af7ca7.png) no-repeat 0 -0.26667rem,
+    linear-gradient(90deg, #FFF 0%, #d9ad82 100%);
+}
+html:lang(ar) #app .van-sticky {
+  direction: ltr;
+}
+html:lang(ar) #app .van-cell:after {
+  right: unset;
+  left: var(--van-padding-md);
+}
+html:lang(ar) #app .Recharge__content-paymoney__money-input .place-div:before {
+  right: unset;
+  left: 0;
+  -webkit-border-start: unset;
+  border-inline-start: unset;
+  -webkit-border-end: 0.01333rem solid #bdbdbd;
+  border-inline-end: 0.01333rem solid #bdbdbd;
+}
+html:lang(ar)
+  #app
+  .dailySignIn__container
+  .task-panel
+  .task-item-header
+  .hearder-status {
+  border-bottom-right-radius: unset;
+  border-bottom-left-radius: 0.33333rem;
+}
+html:lang(ar) #app .bonus-items .head .left {
+  border-top-left-radius: unset;
+  border-top-right-radius: 0.26667rem;
+  background-position: left 0.4rem center;
+  padding: 0 0.26667rem 0 0.93333rem;
+}
+html:lang(ar)
+  #app
+  .Laundry-page
+  .laundry-page_container
+  .laundry-page_list
+  .title:before {
+  left: unset;
+  right: 0;
+}
+html:lang(ar) #app .van-badge--top-right {
+  right: unset;
+  left: 0;
+}
+html:lang(ar) #app .partner-banner img {
+  left: unset;
+  right: 0;
+}
+html:lang(ar) #app .partner-entry svg {
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+}
+html:lang(ar) #app .partner-title {
+  text-align: right;
+}
+html:lang(ar) #app .partner-code:before {
+  left: 0;
+  right: unset;
+  border-top-left-radius: 0.66667rem;
+  border-bottom-left-radius: 0.66667rem;
+  -webkit-clip-path: polygon(0 0, 72% 0, 82% 100%, 0 100%);
+  clip-path: polygon(0 0, 72% 0, 82% 100%, 0 100%);
+  width: 2.85rem;
+}
+html:lang(ar) #app .partner-code:after {
+  display: none;
+}
+html:lang(ar) #app .partner-rule p:before {
+  left: unset;
+  right: 0;
+}
+html:lang(ar) #app .balanceAssets__main {
+  margin: 0.21333rem 0 0.37333rem 0.37333rem;
+}
+html:lang(ar) #app .arType .tip {
+  text-align: right;
+}
+html:lang(ar) #app .c2cConfirm {
+  text-align: right;
+}
+html:lang(ar) #app .c2cConfirm .imgBox .box > div {
+  -webkit-clip-path: polygon(0 0, 102% 0%, 143% 104%, 4% 100%);
+  clip-path: polygon(0 0, 102% 0%, 143% 104%, 4% 100%);
+}
+html:lang(ar) #app .USDT__container-content__card-top > img:last-of-type {
+  left: unset;
+  right: 0.26667rem;
+}
+html:lang(ar) #app .Recharge__content-paymoney__money-list__item .amount span {
+  left: unset;
+  right: 0.21333rem;
+}
+html:lang(ar) #app .Recharge__content-paymoney__money-input .unit {
+  left: 1.06667rem;
+  right: unset;
+}
+html:lang(ar) #app .Recharge__container-tabcard__items .gift {
+  left: 0.05333rem;
+  right: unset;
+}
+html:lang(ar) #app .new_upi .upi_item .upi_image {
+  left: 0.13333rem;
+  right: unset;
+}
+html:lang(ar) #app .Recharge__container-intro__lists {
+  padding: 0.18667rem 0.4rem 0.48rem 0.22667rem;
+}
+html:lang(ar) #app .Recharge__container-intro__lists .item p:after {
+  left: unset;
+  right: -0.06667rem;
+}
+html:lang(ar) #app .Recharge__content .WC4__C-input .place-div {
+  -webkit-border-end: unset;
+  border-inline-end: unset;
+  -webkit-border-start: 0.01333rem solid #bdbdbd;
+  border-inline-start: 0.01333rem solid #bdbdbd;
+}
+html:lang(ar) #app .ar-searchbar__selector,
+html:lang(ar) #app .StrongBox__container-income-tip {
+  text-align: right;
+}
+html:lang(ar) #app .TotalAssets__container-main {
+  margin: 0.21333rem 0 0.37333rem 0.37333rem;
+}
+html:lang(ar) #app .StrongBox__container-income-header-right {
+  -webkit-border-start: unset;
+  border-inline-start: unset;
+  -webkit-border-end: 0.01333rem solid #daddf0;
+  border-inline-end: 0.01333rem solid #daddf0;
+}
+html:lang(ar) #app .popup__container-numLine > div:first-child {
+  background: -webkit-linear-gradient(27deg, transparent 0.46667rem, #fff 0) 0 0;
+  background: linear-gradient(63deg, transparent 0.46667rem, #fff 0) 0 0;
+}
+html:lang(ar) #app .notification-container-content-title:before {
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+}
+html:lang(ar) #app .Wallet__C-balance-l2 > div {
+  background-position-x: right;
+}
+html:lang(ar) #app .Wallet__C-balance-l1 > div:after {
+  left: -1.33333rem;
+  right: unset;
+}
+html:lang(ar) #app .Betting__C-foot-b {
+  border-radius: 0 0.53333rem 0.53333rem 0;
+}
+html:lang(ar) #app .Betting__C-foot-s {
+  border-radius: 0.53333rem 0 0 0.53333rem;
+}
+html:lang(ar) #app .BettingRecordWin__C-foot-previous,
+html:lang(ar) #app .BettingRecordWin__C-foot-next,
+html:lang(ar) #app .MyGameRecord__C-foot-previous .MyGameRecord__C-foot-next,
+html:lang(ar) #app .bankInfo .bankInfoItem i {
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+}
+html:lang(ar) #app .TimeLeft__C-name {
+  right: 0.29333rem;
+  left: unset;
+}
+html:lang(ar) #app .TimeLeft__C-time {
+  left: 0.34667rem;
+  right: unset;
+  direction: ltr;
+}
+html:lang(ar) #app .TimeLeft__C-id {
+  left: 0.29333rem;
+  right: unset;
+}
+html:lang(ar) #app .TimeLeft__C-text {
+  left: 0.32rem;
+  right: unset;
+}
+html:lang(ar) #app .TimeLeft__C-rule,
+html:lang(ar) #app .TimeLeft__C-num {
+  left: unset;
+  right: 0.29333rem;
+}
+html:lang(ar) #app .changlongEnter,
+html:lang(ar) #app .turntable-lottery {
+  right: unset;
+  left: 0.4rem;
+}
+html:lang(ar) #app .bankInfo .bankInfoItem > div:nth-of-type(2) {
+  text-align: right;
+}
+html:lang(ar) #app .van-checkbox__label {
+  margin-left: unset;
+  margin-right: 0.10667rem;
+}
+html:lang(ar) #app .van-swipe {
+  direction: ltr;
+}
+html:lang(ar) #app .van-field__control {
+  direction: rtl;
+}
+html:lang(ar) #app .BettingRecordWin__C-head-bcak,
+html:lang(ar) #app .BettingRecord5D__C-head-bcak,
+html:lang(ar) #app .BettingRecordK3__C-head-bcak,
+html:lang(ar) #app .BettingRecordWinTrx__C-head-bcak {
+  right: 0.34667rem;
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+  top: 25%;
+}
+html:lang(ar) #app .Recharge__content-paymoney__money-input {
+  direction: rtl;
+}
+.noticeBar__container {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  align-items: center;
+  width: 100%;
+  height: 0.98667rem;
+  padding-inline: 0.26667rem;
+  color: #303a4c;
+  font-size: 0.32rem;
+  border-radius: 99rem;
+  background: #fff;
+  box-shadow: 0 0.10667rem 0.16rem #d0d0ed4d;
+}
+.noticeBar__container-body {
+  width: 9.33333rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  height: 0.8rem;
+  line-height: 0.98667rem;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  align-items: center;
+}
+.noticeBar__container-body-text {
+  width: 100%;
+  height: -webkit-fit-content;
+  height: fit-content;
+  max-height: 0.98667rem;
+  line-height: 0.49333rem;
+  -webkit-animation: marquee 7s linear infinite;
+  animation: marquee 7s linear infinite;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: column;
+  -webkit-justify-content: column;
+  justify-content: column;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  word-wrap: break-word;
+  word-break: break-all;
+}
+@-webkit-keyframes marquee {
+  0% {
+    -webkit-transform: translateY(100%);
+    transform: translateY(100%);
+  }
+  10% {
+    -webkit-transform: translateY(0);
+    transform: translateY(0);
+  }
+  90% {
+    -webkit-transform: translateY(0);
+    transform: translateY(0);
+  }
+  to {
+    -webkit-transform: translateY(-100%);
+    transform: translateY(-100%);
+  }
+}
+@keyframes marquee {
+  0% {
+    -webkit-transform: translateY(100%);
+    transform: translateY(100%);
+  }
+  10% {
+    -webkit-transform: translateY(0);
+    transform: translateY(0);
+  }
+  90% {
+    -webkit-transform: translateY(0);
+    transform: translateY(0);
+  }
+  to {
+    -webkit-transform: translateY(-100%);
+    transform: translateY(-100%);
+  }
+}
+.noticeBar__container > svg {
+  width: 0.42667rem;
+  -webkit-flex-shrink: 0;
+  flex-shrink: 0;
+  height: auto;
+  margin-right: 0.22667rem;
+}
+.noticeBar__container button {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-flex-shrink: 0;
+  flex-shrink: 0;
+  gap: 0.06667rem;
+  width: 2rem;
+  height: 0.66667rem;
+  margin-left: auto;
+  color: #fff;
+  border: none;
+  border-radius: 0.53333rem;
+  background: -webkit-linear-gradient(
+    317deg,
+    #f2d5b2 0%,
+    #FFF 86.26%
+  ) !important;
+  background: linear-gradient(133deg, #f2d5b2 0%, #FFF 86.26%) !important;
+}
+.noticeBar__container button svg {
+  width: 0.32rem;
+  height: auto;
+}
+.van-field__button {
+  -webkit-padding-end: 0;
+  padding-inline-end: 0;
+}
+.van-cell {
+  padding-inline: 0;
+  padding-block: 0.26667rem;
+}

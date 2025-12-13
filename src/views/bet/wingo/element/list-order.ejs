@@ -1,0 +1,255 @@
+<div data-v-a9660e98="" class="tab_nav">
+   <div data-v-a9660e98="" class="tab_nav_button" id="game_history_tab_button">
+      <span data-v-a9660e98="" class="tab_nav_button_inner action"> Game History </span>
+   </div>
+   <div data-v-a9660e98="" class="tab_nav_button" id="trend_tab_button">
+      <span data-v-a9660e98="" class="tab_nav_button_inner"> Chart </span>
+   </div>
+   <div data-v-a9660e98="" class="tab_nav_button" id="my_bets_tab_button">
+      <span data-v-a9660e98="" class="tab_nav_button_inner"> My History </span>
+   </div>
+</div>
+
+<style>
+   .tab_panel {
+      display: none;
+   }
+
+   .tab_panel.active {
+      display: block;
+   }
+
+   .tab_nav {
+      font-family: Avenir, Helvetica, Arial, sans-serif;
+      -webkit-font-smoothing: antialiased;
+      font-size: 0.37333rem;
+      color: #000000;
+      margin: 0;
+      -webkit-tap-highlight-color: transparent;
+      outline: none;
+      box-sizing: border-box;
+      -webkit-user-select: none;
+      display: flex;
+      justify-content: space-between;
+      touch-action: pan-y;
+      padding: 10px 10px;
+   }
+
+   .tab_nav_button {
+      font-family: Avenir, Helvetica, Arial, sans-serif;
+      -webkit-font-smoothing: antialiased;
+      font-size: 0.37333rem;
+      color: #000000;
+      margin: 0;
+      padding: 0;
+      -webkit-tap-highlight-color: transparent;
+      outline: none;
+      box-sizing: border-box;
+      -webkit-user-select: none;
+      display: flex;
+      justify-content: center;
+      touch-action: pan-y;
+      width: 32%;
+   }
+
+   .tab_nav_button_inner {
+      font-family: Avenir, Helvetica, Arial, sans-serif;
+      -webkit-font-smoothing: antialiased;
+      margin: 0;
+      -webkit-tap-highlight-color: transparent;
+      outline: none;
+      box-sizing: border-box;
+      -webkit-user-select: none;
+      touch-action: pan-y;
+      display: block;
+      text-align: center;
+      width: 100%;
+      background: rgb(63 147 104 / 8%);
+      color: #6e6e6e;
+      overflow: hidden;
+      font-size: 0.305rem;
+      border-radius: 9px;
+      padding: 12px 4px;
+      line-height: 1;
+      background: #e8e7e8;
+      color: #333;
+
+      background: var(--bg_color_L2);
+      border-radius: .21333rem;
+      font-size: .37333rem;
+      color: var(--text_color_L2);
+      text-align: center;
+      overflow: hidden;
+   }
+
+   .tab_nav_button_inner.action {
+      font-weight: 600;
+      background: rgb(63 147 104);
+      color: #fff;
+      background: -webkit-linear-gradient(top, #d9ad82 0%, #b1835a 100%);
+      background: linear-gradient(180deg, #d9ad82 0%, #b1835a 100%);
+      font-weight: 600;
+      color: #fff;
+      background: var(--main_gradient-color, var(--main_gradient-color));
+      font-weight: 600;
+      color: var(--text_color_L4);
+   }
+
+   .info_data__root {
+      box-shadow: 0px 3px 90px #00000021;
+      margin-left: 10px;
+      margin-right: 10px;
+      border-radius: 0.25rem;
+      overflow: hidden;
+   }
+</style>
+
+<div data-v-a9660e98="" class="tab_panel active" id="game_history_tab">
+   <div data-v-c52f94a7="" data-v-40958d9a="" class="GameRecord__C">
+      <div data-v-c52f94a7="" class="GameRecord__C-head">
+         <div data-v-c52f94a7="" class="van-row">
+            <div data-v-c52f94a7="" class="van-col van-col--8">Period</div>
+            <div data-v-c52f94a7="" class="van-col van-col--5">Number</div>
+            <div data-v-c52f94a7="" class="van-col van-col--5">Big Small</div>
+            <div data-v-c52f94a7="" class="van-col van-col--6">Color</div>
+         </div>
+      </div>
+      <div data-v-c52f94a7="" class="GameRecord__C-body" id="game_history_data_container"></div>
+      <div data-v-c52f94a7="" class="GameRecord__C-foot" id="game_history__bottom_nav">
+         <div data-v-c52f94a7="" class="GameRecord__C-foot-previous disabled previous_page">
+            <i data-v-c52f94a7="" class="van-badge__wrapper van-icon van-icon-arrow-left GameRecord__C-icon"
+               style="font-size: 20px"></i>
+         </div>
+         <div data-v-c52f94a7="" class="GameRecord__C-foot-page" id="number_result__gameHistory">1/1710</div>
+         <div data-v-c52f94a7="" class="GameRecord__C-foot-next next_page">
+            <i data-v-c52f94a7="" class="van-badge__wrapper van-icon van-icon-arrow GameRecord__C-icon"
+               style="font-size: 20px"></i>
+         </div>
+      </div>
+   </div>
+</div>
+
+<div data-v-a9660e98="" class="tab_panel" id="trend_tab">
+   <div data-v-a9660e98="" class="list m-t-10">
+      <div data-v-54016b1c="" data-v-3f742540="" class="Trend__C"
+         apifun="e=>r(g.WinTxrGetTRXMyEmerdList,e).then(s=>s.data)" gopathname="AllLotteryGames-BettingRecordWinTrx">
+         <div data-v-54016b1c="" class="Trend__C-head">
+            <div data-v-54016b1c="" class="van-row">
+               <div data-v-54016b1c="" class="van-col van-col--8">Period</div>
+               <div data-v-54016b1c="" class="van-col van-col--16">Number</div>
+            </div>
+         </div>
+         <div data-v-54016b1c="" class="Trend__C-body1">
+            <div data-v-54016b1c="" class="Trend__C-body1-line">Statistic (last 100 Periods)</div>
+            <div data-v-54016b1c="" class="Trend__C-body1-line lottery">
+               <div data-v-54016b1c="">Winning number</div>
+               <div data-v-54016b1c="" class="Trend__C-body1-line-num">
+                  <div data-v-54016b1c="">0</div>
+                  <div data-v-54016b1c="">1</div>
+                  <div data-v-54016b1c="">2</div>
+                  <div data-v-54016b1c="">3</div>
+                  <div data-v-54016b1c="">4</div>
+                  <div data-v-54016b1c="">5</div>
+                  <div data-v-54016b1c="">6</div>
+                  <div data-v-54016b1c="">7</div>
+                  <div data-v-54016b1c="">8</div>
+                  <div data-v-54016b1c="">9</div>
+               </div>
+            </div>
+            <div data-v-54016b1c="" class="Trend__C-body1-line">
+               <div data-v-54016b1c="">Missing</div>
+               <div data-v-54016b1c="" class="Trend__C-body1-line-num">
+                  <div data-v-54016b1c="">5</div>
+                  <div data-v-54016b1c="">13</div>
+                  <div data-v-54016b1c="">0</div>
+                  <div data-v-54016b1c="">2</div>
+                  <div data-v-54016b1c="">14</div>
+                  <div data-v-54016b1c="">4</div>
+                  <div data-v-54016b1c="">23</div>
+                  <div data-v-54016b1c="">3</div>
+                  <div data-v-54016b1c="">1</div>
+                  <div data-v-54016b1c="">7</div>
+               </div>
+            </div>
+            <div data-v-54016b1c="" class="Trend__C-body1-line">
+               <div data-v-54016b1c="">Avg missing</div>
+               <div data-v-54016b1c="" class="Trend__C-body1-line-num">
+                  <div data-v-54016b1c="">9</div>
+                  <div data-v-54016b1c="">5</div>
+                  <div data-v-54016b1c="">8</div>
+                  <div data-v-54016b1c="">11</div>
+                  <div data-v-54016b1c="">10</div>
+                  <div data-v-54016b1c="">10</div>
+                  <div data-v-54016b1c="">13</div>
+                  <div data-v-54016b1c="">11</div>
+                  <div data-v-54016b1c="">7</div>
+                  <div data-v-54016b1c="">15</div>
+               </div>
+            </div>
+            <div data-v-54016b1c="" class="Trend__C-body1-line">
+               <div data-v-54016b1c="">Frequency</div>
+               <div data-v-54016b1c="" class="Trend__C-body1-line-num">
+                  <div data-v-54016b1c="">9</div>
+                  <div data-v-54016b1c="">19</div>
+                  <div data-v-54016b1c="">11</div>
+                  <div data-v-54016b1c="">7</div>
+                  <div data-v-54016b1c="">10</div>
+                  <div data-v-54016b1c="">9</div>
+                  <div data-v-54016b1c="">8</div>
+                  <div data-v-54016b1c="">8</div>
+                  <div data-v-54016b1c="">13</div>
+                  <div data-v-54016b1c="">6</div>
+               </div>
+            </div>
+            <div data-v-54016b1c="" class="Trend__C-body1-line">
+               <div data-v-54016b1c="">Max consecutive</div>
+               <div data-v-54016b1c="" class="Trend__C-body1-line-num">
+                  <div data-v-54016b1c="">1</div>
+                  <div data-v-54016b1c="">3</div>
+                  <div data-v-54016b1c="">1</div>
+                  <div data-v-54016b1c="">1</div>
+                  <div data-v-54016b1c="">2</div>
+                  <div data-v-54016b1c="">2</div>
+                  <div data-v-54016b1c="">2</div>
+                  <div data-v-54016b1c="">2</div>
+                  <div data-v-54016b1c="">3</div>
+                  <div data-v-54016b1c="">2</div>
+               </div>
+            </div>
+         </div>
+
+         <div data-v-54016b1c="" class="Trend__C-body2" id="chart_container"></div>
+         <div data-v-54016b1c="" class="Trend__C-foot" id="chart__bottom_nav">
+            <div data-v-54016b1c="" class="Trend__C-foot-previous disabled previous_page">
+               <i data-v-54016b1c="" class="van-badge__wrapper van-icon van-icon-arrow-left Trend__C-icon"
+                  style="font-size: 20px"></i>
+            </div>
+            <div data-v-54016b1c="" class="Trend__C-foot-page" id="number_result__chart">1/1670</div>
+            <div data-v-54016b1c="" class="Trend__C-foot-next next_page">
+               <i data-v-54016b1c="" class="van-badge__wrapper van-icon van-icon-arrow Trend__C-icon"
+                  style="font-size: 20px"></i>
+            </div>
+         </div>
+      </div>
+   </div>
+</div>
+
+<div data-v-a9660e98="" class="tab_panel" id="my_bets_tab">
+   <div data-v-a9660e98="" class="list m-t-10">
+      <div data-v-3c1f9720="" class="MyGameRecord__C-body">
+         <div data-v-373b3197="" data-v-3c1f9720="" class="MyGameRecordList__C" id="my_bets_data_container"></div>
+      </div>
+
+      <div data-v-3c1f9720="" class="MyGameRecord__C-foot" id="my_bets__bottom_nav">
+         <div data-v-3c1f9720="" class="MyGameRecord__C-foot-previous disabled previous_page">
+            <i data-v-3c1f9720="" class="van-badge__wrapper van-icon van-icon-arrow-left MyGameRecord__C-icon"
+               style="font-size: 20px"></i>
+         </div>
+         <div data-v-3c1f9720="" class="MyGameRecord__C-foot-page" id="number_result__myBet">1/1</div>
+         <div data-v-3c1f9720="" class="MyGameRecord__C-foot-next disabled next_page">
+            <i data-v-3c1f9720="" class="van-badge__wrapper van-icon van-icon-arrow MyGameRecord__C-icon"
+               style="font-size: 20px"></i>
+         </div>
+      </div>
+   </div>
+</div>

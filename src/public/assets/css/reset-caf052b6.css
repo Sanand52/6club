@@ -1,0 +1,45 @@
+.van-toast {
+    word-break: break-word !important
+}
+
+.cg-default.van-button {
+    font-weight: 700;
+    font-size: .4rem
+}
+
+.cg-default.van-button .van-button__icon {
+    height: 100%;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    align-items: center
+}
+
+.cg-default.van-button .van-button__icon>img {
+    height: 80%
+}
+
+.bgimgSR {
+    background-size: 100%;
+    background-repeat: no-repeat
+}
+
+#app .lotteryActivity__container .van-tabs__nav,
+#app .myLottery__container .van-tabs__nav {
+    background: var(--bgColor-10)
+}
+
+#app .lotteryActivity__container .van-tabs__nav .van-tab--active,
+#app .myLottery__container .van-tabs__nav .van-tab--active {
+    color: var(--textW)
+}
+
+#app .tabbar__container-item.active span {
+    color: var(--textM)
+}
+
+#app .tabbar__container-item span {
+    color: #ffc8c8
+}

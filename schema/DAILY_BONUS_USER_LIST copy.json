@@ -1,0 +1,34 @@
+[
+  {
+    "money": "43610.00",
+    "phone": "9812202424",
+    "sum": 176,
+    "count": 3,
+    "single": 58.67,
+    "withdraws": 0
+  },
+  {
+    "money": "23686.42",
+    "phone": "8309007906",
+    "sum": 374,
+    "count": 3,
+    "single": 124.67,
+    "withdraws": "1318"
+  },
+  {
+    "money": "0.26",
+    "phone": "8249029267",
+    "sum": 163,
+    "count": 3,
+    "single": 54.33,
+    "withdraws": 0
+  },
+  {
+    "money": "0.17",
+    "phone": "8816807028",
+    "sum": 185,
+    "count": 3,
+    "single": 61.67,
+    "withdraws": 0
+  }
+]
