@@ -1,2 +1,2 @@
 # 6club
-Online Gaming Website
+Online Website
